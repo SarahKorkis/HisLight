@@ -1,0 +1,972 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: montserrat;
+}
+
+html{
+    scroll-behavior:smooth;
+}
+
+body{
+    background: rgb(38, 38, 38);
+    height: 600vh;
+}
+body::-webkit-scrollbar {
+    display: none;
+}
+
+.dropdown{
+    display: none;
+}
+
+  
+.StartPic{
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    opacity: 0.7;
+    filter:brightness(-150);
+}
+
+.travel{
+    position: absolute;
+    left: 25%;
+    top: 5%;
+    z-index: 1;
+    font-family:monospace;
+    letter-spacing: 1px;
+    font-size: 170%;
+    filter: drop-shadow(4px 4px 4px rgba(0, 0, 0, 0.536));
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+.travel2{
+    position: absolute;
+    left: 40%;
+    top: 5%;
+    z-index: 1;
+    font-family:monospace;
+    letter-spacing: 1px;
+    font-size: 170%;
+    filter: drop-shadow(4px 4px 4px rgba(0, 0, 0, 0.536));
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+.travel4{
+    position: absolute;
+    left: 55%;
+    top: 5%;
+    z-index: 1;
+    font-family:monospace;
+    letter-spacing: 1px;
+    font-size: 170%;
+    filter: drop-shadow(4px 4px 4px rgba(0, 0, 0, 0.536));
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+.travel5{
+    position: absolute;
+    left: 70%;
+    top: 5%;
+    z-index: 1;
+    font-family:monospace;
+    letter-spacing: 1px;
+    font-size: 170%;
+    filter: drop-shadow(4px 4px 4px rgba(0, 0, 0, 0.536));
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+
+.Title{
+    color: whitesmoke;
+    position: absolute;
+    top: 25%;
+    left: 30%;
+    font-family:monospace;
+    letter-spacing: 3px;
+    font-size: 900%;
+    filter: drop-shadow(4px 4px 4px rgba(0, 0, 0, 0.536));
+    animation: flash 3s ease-in-out 1s infinite;
+}
+
+@keyframes flash{
+    0%{
+        text-shadow:none;
+    }
+    50%{
+        text-shadow: rgb(255, 255, 255) 1px 0 50px;
+    }
+    100%{
+        text-shadow:none;
+    }
+}
+
+
+.SubTitle{
+    color: whitesmoke;
+    position: absolute;
+    top: 45%;
+    left: 29%;
+    font-family:monospace;
+    letter-spacing: 3px;
+    font-size: 200%;
+    filter: drop-shadow(4px 4px 4px rgba(0, 0, 0, 0.536));
+    width: 40%;
+    text-align: center;
+}
+
+
+.travel3 {
+    position: fixed;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    top: 85%;
+    left: 90%;
+    background-color: #ebebeb45;
+    filter: drop-shadow(4px 4px 4px rgba(0, 0, 0, 0.536));;
+    z-index: 2;
+}
+
+.BackSection {
+    top: -100vh;
+}
+
+.arrow {
+    border: solid rgba(0, 0, 0, 0.663);
+    border-width: 0 10px 10px 0;
+    border-radius: 5px;
+    display: inline-block;
+    padding: 3px;
+    left: 21.5%;
+    top: 32%;
+    width: 30px;
+    height: 30px;
+    position: fixed;
+    z-index: 2;
+    transform: rotate(-135deg);
+    -webkit-transform: rotate(-135deg);
+  }
+
+
+/*SECTION2*/
+
+.Section2Line{
+    position: absolute;
+    width: 85%;
+    height: 1px;
+    top: 100%;
+    left: 8%;
+    background-color: rgb(155, 155, 155);
+    z-index: 0;
+}
+
+
+#verse {
+    position: absolute;
+    top: 100vh;
+    left: 27%;
+    position: absolute;
+    color: rgb(216, 216, 216);
+    font-family: monospace;
+    letter-spacing: 3px;
+    font-size: 300%;
+    filter: drop-shadow(4px 4px 4px rgba(0, 0, 0, 0.536));
+    white-space: nowrap;
+    z-index: 1;
+}
+
+
+.DailyV{
+    left: 27%;
+    top: 10vh;
+    position: absolute;
+    color: whitesmoke;
+    font-family: monospace;
+    letter-spacing: 3px;
+    font-size: 300%;
+    filter: drop-shadow(4px 4px 4px rgba(0, 0, 0, 0.536));
+    white-space: nowrap;
+    position: absolute;
+    z-index: 1;
+}
+
+.SubV {
+    position: absolute;
+    top: 137%;
+    left: 10%;
+    color: whitesmoke;
+    font-family: monospace;
+    letter-spacing: 3px;
+    font-size: 300%;
+    filter: drop-shadow(4px 4px 4px rgba(0, 0, 0, 0.536));
+    width: 80%;
+    text-align: center;
+    line-height: 60px;
+    z-index: 1;
+}
+
+textarea{
+    position: absolute;
+    top: 175%;
+    left: 18%;
+    width: 70%;
+    height: 10%;
+    padding: 0px 0px;
+    margin: 0px 0;
+    box-sizing: border-box;
+    border-color: transparent;
+    border-bottom: 2px solid rgb(255, 255, 255);
+    font-size: 300%;
+    background-color: transparent;
+    color: whitesmoke;
+    outline: none;
+    resize: both;
+    z-index: 1;
+}
+textarea::-webkit-scrollbar {
+    display: none;
+}
+
+.BiblePic{
+    top: 100%;
+    width: 100%;
+    height: 120%;
+    position: absolute;
+    z-index: 0;
+    opacity: 0.5;
+}
+textarea::placeholder{
+    color: #cbcbcb;
+}
+
+
+/*section3*/
+
+.church{
+    position: absolute;
+    width: 100%;
+    height: 130%;
+    z-index: 0;
+    top: 220%;
+    opacity: 0.3;
+}
+
+.Section3Line{
+    position: absolute;
+    width: 85%;
+    height: 1px;
+    top: 220%;
+    left: 8%;
+    background-color: rgb(80, 80, 80);
+    z-index: 1;
+}
+
+#quotes {
+    position: absolute;
+    top: 230vh;
+    left: 27%;
+    position: absolute;
+    color: rgb(216, 216, 216);
+    font-family: monospace;
+    letter-spacing: 3px;
+    font-size: 300%;
+    filter: drop-shadow(4px 4px 4px rgba(0, 0, 0, 0.536));
+    white-space: nowrap;
+    z-index: 1;
+}
+
+.RQuotes{
+    left: 27%;
+    top: 10vh;
+    position: absolute;
+    color: whitesmoke;
+    font-family: monospace;
+    letter-spacing: 3px;
+    font-size: 300%;
+    filter: drop-shadow(4px 4px 4px rgba(0, 0, 0, 0.536));
+    white-space: nowrap;
+    z-index: 1;
+}
+
+.container {
+    width: 85%;
+	height: 400px;
+  top: 265%;
+  left: 8%;
+  position: absolute;
+  z-index: 1;
+}
+.header h2 {
+    font-weight: 400;
+    color: #fff;
+}
+.main-content {
+	width: 100%;
+	height: 300px;
+	padding: 50px 40px;
+	background-color: rgba(255, 255, 255, 0);
+	border-radius: 15px;
+    font-family: monospace;
+}
+
+.text-area {
+	text-align: center;
+	font-size: 40px;
+	color: #d3d3d3;
+	line-height: 1.5;
+    font-family: monospace;
+}
+.text-area .icon {
+    margin-right: 5px;
+}
+.main-content .writer {
+    text-transform: uppercase;
+	letter-spacing: 5px;
+	color: red;
+	text-align: center;
+	margin-top: 20px;
+	font-size: 35px;
+    font-family: monospace;
+	
+}
+.main-content .button-area {
+	display: grid;
+	place-items: center;
+	margin-top: 20px;
+	padding: 10px 0;
+}
+.button-area .btn button {
+    background-color: #1c1c1c;
+    color: #fff;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    border: none;
+    outline: none;
+    padding: 10px 15px;
+    font-family: monospace;
+    
+}
+.button-area button:active {
+    background-color: deepskyblue;
+}
+
+
+
+/*FEAST DAYS SECTION 4*/
+
+.Section4Line{
+    position: absolute;
+    width: 85%;
+    height: 1px;
+    top: 352%;
+    left: 8%;
+    background-color: rgb(80, 80, 80);
+    z-index: 1;
+}
+
+.search{
+    width: 40%;
+    height: 10%;
+    padding: 0px 0px;
+    margin: 0px 0;
+    box-sizing: border-box;
+    border-color: transparent;
+    background-color: transparent;
+    border-bottom: 2px solid rgb(255, 255, 255);
+    outline: none;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    position: absolute;
+    top: 410%;
+    color: whitesmoke;
+    font-size: 300%;
+    z-index: 2;
+}
+
+.DateButton{
+    top: 409%;
+    left: 75%;
+    position: absolute;
+    z-index: 2;
+    width: 10%;
+    height: 6%;
+    background-color: transparent;
+    color: whitesmoke;
+    font-family: monospace;
+    font-size: 200%;
+    border-color: whitesmoke;
+    border-radius: 10px;
+    box-sizing: border-box;
+}
+p{
+    top: 440%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    position: absolute;
+    z-index: 2;
+    color: whitesmoke;
+    font-size: 400%;
+    font-family: monospace;
+    text-align: center;
+    justify-content: center;
+}
+
+#feast {
+    position: absolute;
+    top: 370vh;
+    left: 26%;
+    position: absolute;
+    color: whitesmoke;
+    font-family: monospace;
+    letter-spacing: 3px;
+    font-size: 500%;
+    filter: drop-shadow(4px 4px 4px rgba(0, 0, 0, 0.536));
+    white-space: nowrap;
+    z-index: 1;
+}
+
+
+.Eucharist{
+    position: absolute;
+    width: 100%;
+    height: 130%;
+    z-index: 0;
+    top: 350%;
+    opacity: 0.3;
+}
+
+
+/*SECTION5*/
+
+
+.Section5Line{
+    position: absolute;
+    width: 85%;
+    height: 1px;
+    top: 480%;
+    left: 8%;
+    background-color: rgb(80, 80, 80);
+    z-index: 1;
+}
+
+
+#MonthNov {
+    position: absolute;
+    top: 485vh;
+    left: 17%;
+    position: absolute;
+    color: whitesmoke;
+    font-family: monospace;
+    letter-spacing: 3px;
+    font-size: 500%;
+    filter: drop-shadow(4px 4px 4px rgba(0, 0, 0, 0.536));
+    white-space: nowrap;
+    z-index: 1;
+}
+
+.cross{
+    position: absolute;
+    width: 50%;
+    height: 130%;
+    z-index: 0;
+    top: 480%;
+    opacity: 0.5;
+}
+
+.sorrow{
+    position: absolute;
+    width: 50%;
+    height: 130%;
+    z-index: 0;
+    top: 480%;
+    left: 50%;
+    opacity: 0.5;
+}
+
+.Novena1 {
+    position: absolute;
+    top: 525vh;
+    left: 3%;
+    text-align: center;
+    color: whitesmoke;
+    font-family: monospace;
+    letter-spacing: 3px;
+    font-size: 300%;
+    filter: drop-shadow(4px 4px 4px rgba(0, 0, 0, 0.536));
+    white-space: nowrap;
+    z-index: 1;
+}
+
+.Novena1A {
+    position: absolute;
+    top: 510vh;
+    left: 20%;
+    text-align: center;
+    color: whitesmoke;
+    font-family: monospace;
+    letter-spacing: 3px;
+    font-size: 300%;
+    filter: drop-shadow(4px 4px 4px rgba(0, 0, 0, 0.536));
+    white-space: nowrap;
+    z-index: 1;
+    display: none;
+}
+
+
+.Novena1sub {
+    position: absolute;
+    top: 545vh;
+    left: -10%;
+    position: absolute;
+    text-align: center;
+    color: whitesmoke;
+    font-family: monospace;
+    letter-spacing: 3px;
+    font-size: 300%;
+    filter: drop-shadow(4px 4px 4px rgba(0, 0, 0, 0.536));
+    z-index: 1;
+    width: 70%;
+}
+
+.Novena1subA {
+    position: absolute;
+    top: 520vh;
+    left: 6%;
+    position: absolute;
+    text-align: center;
+    color: whitesmoke;
+    letter-spacing: 3px;
+    font-size: 130%;
+    filter: drop-shadow(4px 4px 4px rgba(0, 0, 0, 0.536));
+    z-index: 1;
+    width: 37%;
+    display: none;
+}
+
+.Novena1Button{
+    top: 570%;
+    left: 20%;
+    position: absolute;
+    z-index: 2;
+    width: 10%;
+    height: 6%;
+    background-color: transparent;
+    color: whitesmoke;
+    font-family: monospace;
+    font-size: 200%;
+    border-color: whitesmoke;
+    border-radius: 10px;
+    transition: ease-in-out 0.5;
+    box-sizing: border-box;
+}
+
+ 
+
+  
+
+.Novena2 {
+    position: absolute;
+    top: 525vh;
+    left: 55%;
+    position: absolute;
+    text-align: center;
+    color: whitesmoke;
+    font-family: monospace;
+    letter-spacing: 3px;
+    font-size: 300%;
+    filter: drop-shadow(4px 4px 4px rgba(0, 0, 0, 0.536));
+    white-space: nowrap;
+    z-index: 1;
+}
+
+.Novena2A {
+    position: absolute;
+    top: 510vh;
+    left: 71%;
+    position: absolute;
+    text-align: center;
+    color: whitesmoke;
+    font-family: monospace;
+    letter-spacing: 3px;
+    font-size: 300%;
+    filter: drop-shadow(4px 4px 4px rgba(0, 0, 0, 0.536));
+    white-space: nowrap;
+    z-index: 1;
+    display: none;
+}
+
+
+.Novena2sub {
+    position: absolute;
+    top: 545vh;
+    left: 66%;
+    position: absolute;
+    text-align: center;
+    color: whitesmoke;
+    letter-spacing: 3px;
+    font-size: 300%;
+    filter: drop-shadow(4px 4px 4px rgba(0, 0, 0, 0.536));
+    white-space: nowrap;
+    z-index: 1;
+}
+
+.Novena2subA {
+    position: absolute;
+    top: 520vh;
+    left: 56%;
+    width: 38%;
+    position: absolute;
+    text-align: center;
+    color: whitesmoke;
+    letter-spacing: 3px;
+    font-size: 130%;
+    filter: drop-shadow(4px 4px 4px rgba(0, 0, 0, 0.536));
+    z-index: 1;
+    display: none;
+    line-height: 25px;
+}
+
+.Novena2Button{
+    top: 570%;
+    left: 70%;
+    position: absolute;
+    z-index: 2;
+    width: 10%;
+    height: 6%;
+    background-color: transparent;
+    color: whitesmoke;
+    font-family: monospace;
+    font-size: 200%;
+    border-color: whitesmoke;
+    border-radius: 10px;
+    box-sizing: border-box;
+}
+
+
+
+
+@media only screen and (max-width: 720px){
+
+    body{
+        height: 650vh;
+    }
+
+    .StartPic{
+        object-fit: cover;
+    }
+
+    .Title{
+        text-align: center;
+        font-size: 500%;
+        left: 7%;
+        top: 30%;
+    }
+
+    .SubTitle{
+        text-align: center;
+        width: 70%;
+        left: 15%;
+    }
+
+    .BiblePic{
+        object-fit:cover;
+    }
+
+    .DailyV{
+        font-size: 100%;
+        top: 15vh;
+        left: -40px;
+    }
+
+    .SubV{
+        font-size: 210%;
+        top: 130%;
+    }
+
+    textarea{
+        top: 180%;
+        height: 20%;
+    }
+
+    .church{
+        object-fit:cover;
+    }
+
+    .RQuotes{
+        position: absolute;
+        font-size: 120%;
+        top: 15vh;
+        left: -80px;
+
+    }
+
+    .container{
+        top: 255%;
+    }
+
+    .text-area {
+        text-align: center;
+        font-size: 25px;
+        color: #d3d3d3;
+        line-height: 1.5;
+        font-family: monospace;
+    }
+
+    .main-content .writer {
+        text-transform: uppercase;
+        letter-spacing: 5px;
+        color: red;
+        text-align: center;
+        margin-top: 20px;
+        font-size: 25px;
+        font-family: monospace;
+        
+    }
+
+    #feast{
+        position: absolute;
+        top: 370vh;
+        left: 12%;
+        position: absolute;
+        color: whitesmoke;
+        font-family: monospace;
+        letter-spacing: 3px;
+        font-size: 200%;
+        filter: drop-shadow(4px 4px 4px rgba(0, 0, 0, 0.536));
+        white-space: nowrap;
+        z-index: 1;
+    }
+
+    #test{
+        left: 30%;
+        top: 390%;
+    }
+
+    .Eucharist{
+        height: 100%;
+    }
+
+    .DateButton{
+        left: 65%;
+        width: 30%;
+        height: 5%;
+        font-size: 150%;
+        top: 390%;
+    }
+
+    p{
+        font-size: 250%;
+        top: 415%;
+    }
+
+    .Section5Line{
+        top: 450%;
+    }
+
+    #MonthNov{
+        font-size: 130%;
+        left: 10%;
+        top: 455%;
+    }
+
+    .cross{
+        top: 450%;
+        width: 100%;
+        height: 85%;
+        object-fit: cover;
+    }
+
+    .Novena1{
+        font-size: 140%;
+        left: 7%;
+        top: 465%;
+    }
+    .Novena1A{
+        font-size: 140%;
+        left: 40%;
+        top: 462%;
+    }
+
+    .Novena1sub{
+        font-size: 140%;
+        left: 17%;
+        top: 475%;
+    }
+    .Novena1subA{
+        font-size: 100%;
+        left: 5%;
+        top: 470%;
+        width: 95%;
+    }
+
+    .Novena1Button{
+        top: 485%;
+        width: 20%;
+        height: 5%;
+        left: 42%;
+        font-size: 150%;
+    }
+
+    .sorrow{
+        top: 535%;
+        left: 0%;
+        width: 100%;
+        height: 50%;
+        object-fit: cover;
+    }
+
+    .Novena2{
+        font-size: 160%;
+        left: 3%;
+        top: 545%;
+        text-align: center;
+    }
+    .Novena2A{
+        font-size: 200%;
+        left: 42%;
+        top: 540%;
+    }
+
+    .Novena2sub{
+        font-size: 120%;
+        left: 33%;
+        top: 555%;
+    }
+    .Novena2subA{
+        font-size: 120%;
+        left: 5%;
+        top: 548%;
+        width: 95%;
+    }
+
+    .Novena2Button{
+        top: 565%;
+        width: 20%;
+        height: 5%;
+        left: 42%;
+        font-size: 150%;
+    }
+
+    .Section6Line{
+        position: absolute;
+        width: 85%;
+        height: 1px;
+        top: 535%;
+        left: 8%;
+        background-color: rgb(80, 80, 80);
+        z-index: 1;
+    }
+
+    .travel3{
+        left: 80%;
+    }
+
+    .travel{
+        display: none;
+    }
+
+    .travel2{
+        display: none;
+    }
+
+    .travel4{
+        display: none;
+    }
+
+    .travel5{
+        display: none;
+    }
+
+    /* dropdown Button */
+.dropbtn {
+    background-color: #000000;
+    color: white;
+    padding: 22px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  /* dropdown button on hover & focus */
+  .dropbtn:hover, .dropbtn:focus {
+    background-color: #d6d6d652;
+  }
+  
+  /* The container <div> - needed to position the dropdown content */
+  .dropdown{
+    position: absolute;
+    z-index: 2;
+    left: 87%;
+    top: 3%;
+    display: flex;
+  }
+
+
+  .line1{
+    position: absolute;
+    background-color: white;
+    width: 20px;
+    height: 3px;
+    z-index: 2;
+    top: 14px;
+    left: 28%;
+    border-radius: 20%;
+  }
+
+  .line2{
+    position: absolute;
+    background-color: white;
+    width: 20px;
+    height: 3px;
+    z-index: 2;
+    top: 20px;
+    left: 28%;
+    border-radius: 20%;
+  }
+
+  .line3{
+    position: absolute;
+    background-color: white;
+    width: 20px;
+    height: 3px;
+    z-index: 2;
+    top: 26px;
+    left: 28%;
+    border-radius: 20%;
+  }
+
+  
+  /* dropdown Content (Hidden by Default) */
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+    left: -264%;
+  }
+  
+  /* Links inside the dropdown */
+  .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  /* Change color of dropdown links on hover */
+  .dropdown-content a:hover {background-color: #ddd}
+  
+  /* Show the dropdown menu (use JS to add this class to the .dropdown-content container when the user clicks on the dropdown button) */
+  .show {display:block;}
+
+}
