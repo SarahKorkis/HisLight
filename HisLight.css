@@ -659,10 +659,6 @@ p{
         height: 650vh;
     }
 
-    .StartPic{
-        object-fit: cover;
-    }
-
     .Title{
         text-align: center;
         font-size: 500%;
@@ -674,10 +670,6 @@ p{
         text-align: center;
         width: 70%;
         left: 15%;
-    }
-
-    .BiblePic{
-        object-fit:cover;
     }
 
     .DailyV{
@@ -694,10 +686,6 @@ p{
     textarea{
         top: 180%;
         height: 20%;
-    }
-
-    .church{
-        object-fit:cover;
     }
 
     .RQuotes{
@@ -781,7 +769,6 @@ p{
         top: 450%;
         width: 100%;
         height: 85%;
-        object-fit: cover;
     }
 
     .Novena1{
@@ -820,7 +807,6 @@ p{
         left: 0%;
         width: 100%;
         height: 50%;
-        object-fit: cover;
     }
 
     .Novena2{
