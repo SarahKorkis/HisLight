@@ -2245,7 +2245,7 @@ function Nfunction() {
     }
   }
 
-  if(window.innerWidth <= 720){
+  if(window.innerWidth <= 380){
     function Nfunction() {
       var Novena1 = document.getElementById("Novena1");
       var Novena1A = document.getElementById("Novena1A");
