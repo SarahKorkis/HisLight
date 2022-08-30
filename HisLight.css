@@ -674,6 +674,7 @@ p{
 
     #verse{
        top: 15vh;
+       position: absolute;
     }
 
     .DailyV{
