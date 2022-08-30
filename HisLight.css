@@ -672,6 +672,10 @@ p{
         left: 15%;
     }
 
+    #daily{
+       top: 10vh;
+    }
+
     .DailyV{
         font-size: 100%;
         top: 15vh;
