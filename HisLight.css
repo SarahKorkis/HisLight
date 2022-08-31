@@ -657,6 +657,7 @@ p{
 
     body{
         height: 650vh;
+        width: 100%;
     }
 
     .Title{
@@ -675,8 +676,9 @@ p{
     .StartPic{
         width: 100%;
         max-height: 100%;
-	display: block;
+        display: block;
         position: absolute;
+        object-fit: contain;
     }
 
     .DailyV{
