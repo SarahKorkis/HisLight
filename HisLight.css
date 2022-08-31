@@ -675,6 +675,7 @@ p{
     .StartPic{
         width: 100%;
         height: 100%;
+        position: absolute;
     }
 
     .DailyV{
@@ -864,6 +865,7 @@ p{
 
     .arrow{
         left: 80%;
+        top: 80%;
     }
 
     .travel{
