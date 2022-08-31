@@ -672,15 +672,16 @@ p{
         left: 15%;
     }
 
-    #verse{
-       top: 90vh;
-       position: absolute;
+    .StartPic{
+        width: 100%;
+        height: 100%;
     }
 
     .DailyV{
         font-size: 100%;
         top: 15vh;
         left: -40px;
+        height: 100%;
     }
 
     .SubV{
@@ -692,6 +693,7 @@ p{
         top: 180%;
         height: 20%;
     }
+
 
     .RQuotes{
         position: absolute;
