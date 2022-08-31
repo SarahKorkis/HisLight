@@ -864,8 +864,8 @@ p{
     }
 
     .arrow{
-        left: 85%;
-        top: 90%;
+        left: 83%;
+        top: 87%;
     }
 
     .travel{
@@ -885,7 +885,7 @@ p{
     }
 
     /* dropdown Button */
-.dropbtn {
+ .dropbtn {
     background-color: #000000;
     color: white;
     padding: 22px;
