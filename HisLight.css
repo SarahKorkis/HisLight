@@ -128,7 +128,7 @@ body::-webkit-scrollbar {
     height: 50px;
     border-radius: 50%;
     top: 85%;
-    left: 90%;
+    left: 80.5%;
     background-color: #ebebeb45;
     filter: drop-shadow(4px 4px 4px rgba(0, 0, 0, 0.536));;
     z-index: 2;
@@ -172,7 +172,6 @@ body::-webkit-scrollbar {
     position: absolute;
     top: 100vh;
     left: 27%;
-    position: absolute;
     color: rgb(216, 216, 216);
     font-family: monospace;
     letter-spacing: 3px;
@@ -193,7 +192,6 @@ body::-webkit-scrollbar {
     font-size: 300%;
     filter: drop-shadow(4px 4px 4px rgba(0, 0, 0, 0.536));
     white-space: nowrap;
-    position: absolute;
     z-index: 1;
 }
 
@@ -657,58 +655,89 @@ p{
 
     body{
         height: 650vh;
-        width: 100%;
     }
 
     .Title{
         text-align: center;
-        font-size: 500%;
-        left: 7%;
-        top: 20%;
+        font-size: 15vw;
+        left: 7vw;
+        top: 35vw;
+        position: absolute;
     }
 
     .SubTitle{
         text-align: center;
         width: 70%;
-        left: 15%;
+        left: 15vw;
+        top: 60vw;
     }
 
     .StartPic{
-        width: 100%;
-        max-height: 100%;
-        display: block;
         position: absolute;
-        object-fit: contain;
+        height: 180vw;
+        object-fit: cover;
+    }
+
+    .Section2Line{
+        top: 180vw;
+    }
+
+    .BiblePic{
+        position: absolute;
+        height: 230vw;
+        object-fit: cover;
+        top: 180vw;
+    }
+
+    #verse {
+        position: absolute;
+        top: 190vw;
     }
 
     .DailyV{
-        font-size: 100%;
-        top: 15vh;
-        left: -40px;
-        height: 100%;
+        position: absolute;
+        font-size: 10vw;
+        top: 10vw;
+        left: -13vw;
     }
 
     .SubV{
-        font-size: 210%;
-        top: 130%;
+        font-size: 7vw;
+        top: 230vw;
+        left: 12vw;
     }
 
     textarea{
-        top: 180%;
-        height: 20%;
+        top: 330vw;
+        height: 25vw;
+        font-size: 10vw;
     }
 
+    .church{
+        position: absolute;
+        height: 260vw;
+        object-fit: cover;
+        top: 400vw;
+    }
+
+    .Section3Line{
+        top: 410vw;
+    }
+
+    #quotes {
+        position: absolute;
+        top: 420vw;
+    }
 
     .RQuotes{
         position: absolute;
-        font-size: 120%;
-        top: 15vh;
-        left: -80px;
-
+        font-size: 10vw;
+        top: 12vw;
+        left: -15vw;
     }
 
     .container{
-        top: 255%;
+        top: 450vw;
     }
 
     .text-area {
@@ -732,7 +761,7 @@ p{
 
     #feast{
         position: absolute;
-        top: 370vh;
+        top: 700vw;
         left: 12%;
         position: absolute;
         color: whitesmoke;
@@ -746,11 +775,13 @@ p{
 
     #test{
         left: 30%;
-        top: 390%;
+        top: 740vw;
     }
 
     .Eucharist{
-        height: 100%;
+        height: 260vw;
+        top: 660vw;
+        object-fit: cover;
     }
 
     .DateButton{
@@ -758,112 +789,119 @@ p{
         width: 30%;
         height: 5%;
         font-size: 150%;
-        top: 390%;
+        top: 740vw;
     }
 
     p{
         font-size: 250%;
-        top: 415%;
+        top: 785vw;
     }
 
     .Section5Line{
-        top: 450%;
+        top: 665vw;
+    }
+
+    .Section4Line{
+        top: 900vw;
     }
 
     #MonthNov{
-        font-size: 130%;
-        left: 10%;
-        top: 455%;
+        font-size: 5.5vw;
+        left: 10vw;
+        top: 910vw;
     }
 
     .cross{
-        top: 450%;
+        top: 900vw;
         width: 100%;
-        height: 85%;
+        height: 260vw;
+        object-fit: cover;
     }
 
     .Novena1{
-        font-size: 140%;
-        left: 7%;
-        top: 465%;
+        font-size: 4.5vw;
+        left: 5%;
+        top: 940vw;
     }
     .Novena1A{
-        font-size: 140%;
-        left: 40%;
-        top: 462%;
+        font-size: 8vw;
+        left: 36%;
+        top: 935vw;
     }
 
     .Novena1sub{
         font-size: 140%;
         left: 17%;
-        top: 475%;
+        top: 960vw;
     }
     .Novena1subA{
         font-size: 100%;
         left: 5%;
-        top: 470%;
+        top: 960vw;
         width: 95%;
     }
 
     .Novena1Button{
-        top: 485%;
+        top: 980vw;
         width: 20%;
         height: 5%;
-        left: 42%;
-        font-size: 150%;
+        left: 42vw;
+        font-size: 5vw;
     }
 
     .sorrow{
-        top: 535%;
+        top: 1161vw;
         left: 0%;
         width: 100%;
-        height: 50%;
+        height: 260vw;
+        object-fit: cover;
     }
 
     .Novena2{
-        font-size: 160%;
-        left: 3%;
-        top: 545%;
+        font-size: 4.5vw;
+        left: 4vw;
+        top: 1180vw;
         text-align: center;
     }
     .Novena2A{
-        font-size: 200%;
-        left: 42%;
-        top: 540%;
+        font-size: 8vw;
+        left: 36vw;
+        top: 1180vw;
     }
 
     .Novena2sub{
-        font-size: 120%;
-        left: 33%;
-        top: 555%;
+        font-size: 5vw;
+        left: 32vw;
+        top: 1200vw;
     }
     .Novena2subA{
-        font-size: 120%;
-        left: 5%;
-        top: 548%;
+        font-size: 4vw;
+        left: 4%;
+        top: 1200vw;
         width: 95%;
     }
 
     .Novena2Button{
-        top: 565%;
+        top: 1225vw;
         width: 20%;
         height: 5%;
-        left: 42%;
-        font-size: 150%;
+        left: 42vw;
+        font-size: 5vw;
     }
 
     .Section6Line{
         position: absolute;
         width: 85%;
         height: 1px;
-        top: 535%;
+        top: 1161vw;
         left: 8%;
         background-color: rgb(80, 80, 80);
         z-index: 1;
     }
 
-    .travel3{
-        left: 80%;
+    #back{
+        left: 80vw;
+        top: 100vw;
     }
 
     .arrow{
