@@ -2245,7 +2245,7 @@ function Nfunction() {
     }
   }
 
-  if(window.innerWidth <= 380){
+  if(window.innerWidth <= 400){
     function Nfunction() {
       var Novena1 = document.getElementById("Novena1");
       var Novena1A = document.getElementById("Novena1A");
@@ -2257,14 +2257,14 @@ function Nfunction() {
         Novena1.style.display = "inline";
         Novena1sub.style.display = "inline";
         NPrayer.innerHTML = "Pray";
-        NPrayer.style.top = "485vh";
+        NPrayer.style.top = "980vw";
         Novena1A.style.display = "none";
         Novena1subA.style.display = "none";
       } else {
         Novena1.style.display = "none";
         Novena1sub.style.display = "none";
         NPrayer.innerHTML = "Back";
-        NPrayer.style.top = "525vh";
+        NPrayer.style.top = "1090vw";
         Novena1A.style.display = "inline";
         Novena1subA.style.display = "inline";
       }
@@ -2283,18 +2283,16 @@ function Nfunction() {
         Novena2.style.display = "inline";
         Novena2sub.style.display = "inline";
         N2Prayer.innerHTML = "Pray";
-        N2Prayer.style.top = "565vh"
+        N2Prayer.style.top = "1225vw"
         Novena2A.style.display = "none";
         Novena2subA.style.display = "none";
-        sorrow.style.height = "50%";
       } else {
         Novena2.style.display = "none";
         Novena2sub.style.display = "none";
         N2Prayer.innerHTML = "Back";
-        N2Prayer.style.top = "635vh"
+        N2Prayer.style.top = "1380vw"
         Novena2A.style.display = "inline";
         Novena2subA.style.display = "inline";
-        sorrow.style.height = "130%";
       }
     }
   }
@@ -2324,3 +2322,4 @@ function Nfunction() {
       }
     }
   }
+
