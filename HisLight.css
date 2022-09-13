@@ -2,7 +2,6 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: montserrat;
 }
 
 html{
@@ -11,11 +10,12 @@ html{
 
 body{
     background: rgb(38, 38, 38);
-    height: 600vh;
+    height: 1000vh;
 }
 body::-webkit-scrollbar {
     display: none;
 }
+
 
 .dropdown{
     display: none;
@@ -27,7 +27,8 @@ body::-webkit-scrollbar {
     width: 100%;
     position: absolute;
     opacity: 0.7;
-    filter:brightness(-150);
+    filter: brightness(70%);
+
 }
 
 .travel{
@@ -35,20 +36,37 @@ body::-webkit-scrollbar {
     left: 25%;
     top: 5%;
     z-index: 1;
-    font-family:monospace;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     letter-spacing: 1px;
     font-size: 170%;
     filter: drop-shadow(4px 4px 4px rgba(0, 0, 0, 0.536));
     text-decoration: none;
     color: whitesmoke;
+    transition-duration: 0.3s;
+}
+
+.travel:hover{
+    text-decoration: underline;
+}
+.travel2:hover{
+    text-decoration: underline;
+}
+.travel4:hover{
+    text-decoration: underline;
+}
+.travel5:hover{
+    text-decoration: underline;
+}
+.travel6:hover{
+    text-decoration: underline;
 }
 
 .travel2{
     position: absolute;
-    left: 40%;
+    left: 39%;
     top: 5%;
     z-index: 1;
-    font-family:monospace;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     letter-spacing: 1px;
     font-size: 170%;
     filter: drop-shadow(4px 4px 4px rgba(0, 0, 0, 0.536));
@@ -58,10 +76,10 @@ body::-webkit-scrollbar {
 
 .travel4{
     position: absolute;
-    left: 55%;
+    left: 56%;
     top: 5%;
     z-index: 1;
-    font-family:monospace;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     letter-spacing: 1px;
     font-size: 170%;
     filter: drop-shadow(4px 4px 4px rgba(0, 0, 0, 0.536));
@@ -74,7 +92,20 @@ body::-webkit-scrollbar {
     left: 70%;
     top: 5%;
     z-index: 1;
-    font-family:monospace;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    letter-spacing: 1px;
+    font-size: 170%;
+    filter: drop-shadow(4px 4px 4px rgba(0, 0, 0, 0.536));
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+.travel6{
+    position: absolute;
+    left: 90%;
+    top: 5%;
+    z-index: 1;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     letter-spacing: 1px;
     font-size: 170%;
     filter: drop-shadow(4px 4px 4px rgba(0, 0, 0, 0.536));
@@ -88,7 +119,7 @@ body::-webkit-scrollbar {
     position: absolute;
     top: 25%;
     left: 30%;
-    font-family:monospace;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     letter-spacing: 3px;
     font-size: 900%;
     filter: drop-shadow(4px 4px 4px rgba(0, 0, 0, 0.536));
@@ -111,11 +142,11 @@ body::-webkit-scrollbar {
 .SubTitle{
     color: whitesmoke;
     position: absolute;
-    top: 45%;
+    top: 48%;
     left: 29%;
-    font-family:monospace;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     letter-spacing: 3px;
-    font-size: 200%;
+    font-size: 170%;
     filter: drop-shadow(4px 4px 4px rgba(0, 0, 0, 0.536));
     width: 40%;
     text-align: center;
@@ -128,7 +159,7 @@ body::-webkit-scrollbar {
     height: 50px;
     border-radius: 50%;
     top: 85%;
-    left: 80.5%;
+    left: 90%;
     background-color: #ebebeb45;
     filter: drop-shadow(4px 4px 4px rgba(0, 0, 0, 0.536));;
     z-index: 2;
@@ -171,9 +202,9 @@ body::-webkit-scrollbar {
 #verse {
     position: absolute;
     top: 100vh;
-    left: 27%;
+    left: 22%;
     color: rgb(216, 216, 216);
-    font-family: monospace;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     letter-spacing: 3px;
     font-size: 300%;
     filter: drop-shadow(4px 4px 4px rgba(0, 0, 0, 0.536));
@@ -183,11 +214,11 @@ body::-webkit-scrollbar {
 
 
 .DailyV{
-    left: 27%;
+    left: 15%;
     top: 10vh;
     position: absolute;
     color: whitesmoke;
-    font-family: monospace;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     letter-spacing: 3px;
     font-size: 300%;
     filter: drop-shadow(4px 4px 4px rgba(0, 0, 0, 0.536));
@@ -198,13 +229,13 @@ body::-webkit-scrollbar {
 .SubV {
     position: absolute;
     top: 137%;
-    left: 10%;
+    left: 20%;
     color: whitesmoke;
-    font-family: monospace;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     letter-spacing: 3px;
-    font-size: 300%;
+    font-size: 220%;
     filter: drop-shadow(4px 4px 4px rgba(0, 0, 0, 0.536));
-    width: 80%;
+    width: 60%;
     text-align: center;
     line-height: 60px;
     z-index: 1;
@@ -269,12 +300,12 @@ textarea::placeholder{
 #quotes {
     position: absolute;
     top: 230vh;
-    left: 27%;
+    left: 25%;
     position: absolute;
     color: rgb(216, 216, 216);
-    font-family: monospace;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     letter-spacing: 3px;
-    font-size: 300%;
+    font-size: 250%;
     filter: drop-shadow(4px 4px 4px rgba(0, 0, 0, 0.536));
     white-space: nowrap;
     z-index: 1;
@@ -285,7 +316,7 @@ textarea::placeholder{
     top: 10vh;
     position: absolute;
     color: whitesmoke;
-    font-family: monospace;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     letter-spacing: 3px;
     font-size: 300%;
     filter: drop-shadow(4px 4px 4px rgba(0, 0, 0, 0.536));
@@ -311,7 +342,7 @@ textarea::placeholder{
 	padding: 50px 40px;
 	background-color: rgba(255, 255, 255, 0);
 	border-radius: 15px;
-    font-family: monospace;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 .text-area {
@@ -319,7 +350,7 @@ textarea::placeholder{
 	font-size: 40px;
 	color: #d3d3d3;
 	line-height: 1.5;
-    font-family: monospace;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 .text-area .icon {
     margin-right: 5px;
@@ -331,7 +362,7 @@ textarea::placeholder{
 	text-align: center;
 	margin-top: 20px;
 	font-size: 35px;
-    font-family: monospace;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 	
 }
 .main-content .button-area {
@@ -349,7 +380,7 @@ textarea::placeholder{
     border: none;
     outline: none;
     padding: 10px 15px;
-    font-family: monospace;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     
 }
 .button-area button:active {
@@ -398,7 +429,7 @@ textarea::placeholder{
     height: 6%;
     background-color: transparent;
     color: whitesmoke;
-    font-family: monospace;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 200%;
     border-color: whitesmoke;
     border-radius: 10px;
@@ -412,7 +443,7 @@ p{
     z-index: 2;
     color: whitesmoke;
     font-size: 400%;
-    font-family: monospace;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     text-align: center;
     justify-content: center;
 }
@@ -420,10 +451,10 @@ p{
 #feast {
     position: absolute;
     top: 370vh;
-    left: 26%;
+    left: 28%;
     position: absolute;
     color: whitesmoke;
-    font-family: monospace;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     letter-spacing: 3px;
     font-size: 500%;
     filter: drop-shadow(4px 4px 4px rgba(0, 0, 0, 0.536));
@@ -462,7 +493,7 @@ p{
     left: 17%;
     position: absolute;
     color: whitesmoke;
-    font-family: monospace;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     letter-spacing: 3px;
     font-size: 500%;
     filter: drop-shadow(4px 4px 4px rgba(0, 0, 0, 0.536));
@@ -495,9 +526,9 @@ p{
     left: 3%;
     text-align: center;
     color: whitesmoke;
-    font-family: monospace;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     letter-spacing: 3px;
-    font-size: 300%;
+    font-size: 290%;
     filter: drop-shadow(4px 4px 4px rgba(0, 0, 0, 0.536));
     white-space: nowrap;
     z-index: 1;
@@ -509,7 +540,7 @@ p{
     left: 20%;
     text-align: center;
     color: whitesmoke;
-    font-family: monospace;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     letter-spacing: 3px;
     font-size: 300%;
     filter: drop-shadow(4px 4px 4px rgba(0, 0, 0, 0.536));
@@ -526,9 +557,9 @@ p{
     position: absolute;
     text-align: center;
     color: whitesmoke;
-    font-family: monospace;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     letter-spacing: 3px;
-    font-size: 300%;
+    font-size: 220%;
     filter: drop-shadow(4px 4px 4px rgba(0, 0, 0, 0.536));
     z-index: 1;
     width: 70%;
@@ -558,7 +589,7 @@ p{
     height: 6%;
     background-color: transparent;
     color: whitesmoke;
-    font-family: monospace;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 200%;
     border-color: whitesmoke;
     border-radius: 10px;
@@ -577,9 +608,9 @@ p{
     position: absolute;
     text-align: center;
     color: whitesmoke;
-    font-family: monospace;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     letter-spacing: 3px;
-    font-size: 300%;
+    font-size: 290%;
     filter: drop-shadow(4px 4px 4px rgba(0, 0, 0, 0.536));
     white-space: nowrap;
     z-index: 1;
@@ -589,10 +620,9 @@ p{
     position: absolute;
     top: 510vh;
     left: 71%;
-    position: absolute;
     text-align: center;
     color: whitesmoke;
-    font-family: monospace;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     letter-spacing: 3px;
     font-size: 300%;
     filter: drop-shadow(4px 4px 4px rgba(0, 0, 0, 0.536));
@@ -605,12 +635,12 @@ p{
 .Novena2sub {
     position: absolute;
     top: 545vh;
-    left: 66%;
-    position: absolute;
+    left: 68%;
     text-align: center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     color: whitesmoke;
     letter-spacing: 3px;
-    font-size: 300%;
+    font-size: 220%;
     filter: drop-shadow(4px 4px 4px rgba(0, 0, 0, 0.536));
     white-space: nowrap;
     z-index: 1;
@@ -641,12 +671,36 @@ p{
     height: 6%;
     background-color: transparent;
     color: whitesmoke;
-    font-family: monospace;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 200%;
     border-color: whitesmoke;
     border-radius: 10px;
     box-sizing: border-box;
 }
+
+#Commentary {
+    position: absolute;
+    top: 620vh;
+    left: 27%;
+    color: rgb(216, 216, 216);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    letter-spacing: 3px;
+    font-size: 400%;
+    filter: drop-shadow(4px 4px 4px rgba(0, 0, 0, 0.536));
+    white-space: nowrap;
+    z-index: 1;
+}
+
+.wine{
+    width: 40%;
+    height: 40%;
+    border-radius: 5px;
+    top: 650vh;
+    left: 60vh;
+    position: absolute;
+}
+
+
 
 
 
@@ -655,21 +709,25 @@ p{
 
     body{
         height: 650vh;
+        font-family:Georgia, 'Times New Roman', Times, serif;
     }
 
     .Title{
         text-align: center;
         font-size: 15vw;
-        left: 7vw;
+        left: 10vw;
         top: 35vw;
         position: absolute;
+        font-family:Georgia, 'Times New Roman', Times, serif;
     }
 
     .SubTitle{
         text-align: center;
         width: 70%;
         left: 15vw;
-        top: 60vw;
+        top: 65vw;
+        font-size: 5vw;
+        font-family:Georgia, 'Times New Roman', Times, serif;
     }
 
     .StartPic{
@@ -691,7 +749,9 @@ p{
 
     #verse {
         position: absolute;
-        top: 190vw;
+        top: 195vw;
+        left: 23vw;
+        font-family:Georgia, 'Times New Roman', Times, serif;
     }
 
     .DailyV{
@@ -699,18 +759,22 @@ p{
         font-size: 10vw;
         top: 10vw;
         left: -13vw;
+        font-family:Georgia, 'Times New Roman', Times, serif;
+        
     }
 
     .SubV{
-        font-size: 7vw;
+        font-size: 5vw;
         top: 230vw;
         left: 12vw;
+        width: 75vw;
+        font-family:Georgia, 'Times New Roman', Times, serif;
     }
 
     textarea{
         top: 330vw;
         height: 25vw;
-        font-size: 10vw;
+    font-size: 10vw;
     }
 
     .church{
@@ -727,13 +791,15 @@ p{
     #quotes {
         position: absolute;
         top: 420vw;
+        font-family:Georgia, 'Times New Roman', Times, serif;
     }
 
     .RQuotes{
         position: absolute;
-        font-size: 10vw;
+        font-size: 9vw;
         top: 12vw;
         left: -15vw;
+        font-family:Georgia, 'Times New Roman', Times, serif;
     }
 
     .container{
@@ -745,7 +811,7 @@ p{
         font-size: 25px;
         color: #d3d3d3;
         line-height: 1.5;
-        font-family: monospace;
+        font-family:Georgia, 'Times New Roman', Times, serif;
     }
 
     .main-content .writer {
@@ -755,7 +821,7 @@ p{
         text-align: center;
         margin-top: 20px;
         font-size: 25px;
-        font-family: monospace;
+        font-family:Georgia, 'Times New Roman', Times, serif;
         
     }
 
@@ -765,17 +831,19 @@ p{
         left: 12%;
         position: absolute;
         color: whitesmoke;
-        font-family: monospace;
+        font-family:Georgia, 'Times New Roman', Times, serif;
         letter-spacing: 3px;
         font-size: 200%;
         filter: drop-shadow(4px 4px 4px rgba(0, 0, 0, 0.536));
         white-space: nowrap;
         z-index: 1;
+        font-size: 7vw;
     }
 
     #test{
         left: 30%;
         top: 740vw;
+        font-family:Georgia, 'Times New Roman', Times, serif;
     }
 
     .Eucharist{
@@ -787,14 +855,16 @@ p{
     .DateButton{
         left: 65%;
         width: 30%;
-        height: 5%;
+        height: 6%;
         font-size: 150%;
-        top: 740vw;
+        top: 739vw;
+        font-family:Georgia, 'Times New Roman', Times, serif;
     }
 
     p{
         font-size: 250%;
         top: 785vw;
+        font-family:Georgia, 'Times New Roman', Times, serif;
     }
 
     .Section5Line{
@@ -806,9 +876,10 @@ p{
     }
 
     #MonthNov{
-        font-size: 5.5vw;
+        font-size: 4.5vw;
         left: 10vw;
         top: 910vw;
+        font-family:Georgia, 'Times New Roman', Times, serif;
     }
 
     .cross{
@@ -819,34 +890,39 @@ p{
     }
 
     .Novena1{
-        font-size: 4.5vw;
+        font-size: 5vw;
         left: 5%;
         top: 940vw;
+        font-family:Georgia, 'Times New Roman', Times, serif;
     }
     .Novena1A{
-        font-size: 8vw;
+        font-size: 12vw;
         left: 36%;
         top: 935vw;
+        font-family:Georgia, 'Times New Roman', Times, serif;
     }
 
     .Novena1sub{
-        font-size: 140%;
+        font-size: 120%;
         left: 17%;
         top: 960vw;
+        font-family:Georgia, 'Times New Roman', Times, serif;
     }
     .Novena1subA{
         font-size: 100%;
         left: 5%;
         top: 960vw;
         width: 95%;
+        font-family:Georgia, 'Times New Roman', Times, serif;
     }
 
     .Novena1Button{
         top: 980vw;
         width: 20%;
-        height: 5%;
+        height: 6%;
         left: 42vw;
         font-size: 5vw;
+        font-family:Georgia, 'Times New Roman', Times, serif;
     }
 
     .sorrow{
@@ -859,34 +935,39 @@ p{
 
     .Novena2{
         font-size: 4.5vw;
-        left: 4vw;
+        left: 7vw;
         top: 1180vw;
         text-align: center;
+        font-family:Georgia, 'Times New Roman', Times, serif;
     }
     .Novena2A{
-        font-size: 8vw;
+        font-size: 12vw;
         left: 36vw;
         top: 1180vw;
+        font-family:Georgia, 'Times New Roman', Times, serif;
     }
 
     .Novena2sub{
-        font-size: 5vw;
+        font-size: 4.5vw;
         left: 32vw;
         top: 1200vw;
+        font-family:Georgia, 'Times New Roman', Times, serif;
     }
     .Novena2subA{
         font-size: 4vw;
         left: 4%;
         top: 1200vw;
         width: 95%;
+        font-family:Georgia, 'Times New Roman', Times, serif;
     }
 
     .Novena2Button{
         top: 1225vw;
         width: 20%;
-        height: 5%;
+        height: 6%;
         left: 42vw;
         font-size: 5vw;
+        font-family:Georgia, 'Times New Roman', Times, serif;
     }
 
     .Section6Line{
@@ -902,6 +983,10 @@ p{
     #back{
         left: 80vw;
         top: 100vw;
+    }
+
+    .travel3{
+        left: 80.5vw;
     }
 
     .arrow{
@@ -927,7 +1012,7 @@ p{
 
     /* dropdown Button */
  .dropbtn {
-    background-color: #000000;
+    background-color: #00000058;
     color: white;
     padding: 22px;
     font-size: 16px;
