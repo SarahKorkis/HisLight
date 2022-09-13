@@ -2264,7 +2264,7 @@ function Nfunction() {
         Novena1.style.display = "none";
         Novena1sub.style.display = "none";
         NPrayer.innerHTML = "Back";
-        NPrayer.style.top = "1090vw";
+        NPrayer.style.top = "1098vw";
         Novena1A.style.display = "inline";
         Novena1subA.style.display = "inline";
       }
@@ -2290,7 +2290,7 @@ function Nfunction() {
         Novena2.style.display = "none";
         Novena2sub.style.display = "none";
         N2Prayer.innerHTML = "Back";
-        N2Prayer.style.top = "1380vw"
+        N2Prayer.style.top = "1385vw"
         Novena2A.style.display = "inline";
         Novena2subA.style.display = "inline";
       }
