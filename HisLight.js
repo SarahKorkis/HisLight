@@ -85,7 +85,7 @@ function N1function() {
   }
 
   if(window.innerWidth <= 400){
-    function Nfunction() {
+    function N1function() {
       var Novena1 = document.getElementById("Novena1");
       var Novena1A = document.getElementById("Novena1A");
       var N1Button = document.getElementById("N1Button");
@@ -125,7 +125,7 @@ function N1function() {
     }
   
   
-    function Sfunction() {
+    function N2function() {
       var Novena2 = document.getElementById("Novena2");
       var Novena2A = document.getElementById("Novena2A");
       var N2Button = document.getElementById("N2Button");
