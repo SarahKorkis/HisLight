@@ -949,8 +949,8 @@ p{
         font-family:Georgia, 'Times New Roman', Times, serif;
     }
     .Novena1subA{
-        font-size: 140%;
-        left: 5%;
+        font-size: 130%;
+        left: 6%;
         top: 960vw;
         width: 85%;
         height: 70%;
@@ -995,8 +995,8 @@ p{
         font-family:Georgia, 'Times New Roman', Times, serif;
     }
     .Novena2subA{
-        font-size: 140%;
-        left: 4%;
+        font-size: 130%;
+        left: 5%;
         top: 1200vw;
         width: 85%;
         height: 70%;
@@ -1029,11 +1029,15 @@ p{
 
     .travel3{
         left: 80.5vw;
+        width: 30px;
+        height: 30px;
     }
 
     .arrow{
         left: 83%;
         top: 87%;
+        width: 20px;
+        height: 20px;
     }
 
     .travel{
