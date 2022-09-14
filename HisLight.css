@@ -952,7 +952,8 @@ p{
         font-size: 100%;
         left: 5%;
         top: 960vw;
-        width: 90%;
+        width: 85%;
+        height: 70%;
         font-family:Georgia, 'Times New Roman', Times, serif;
     }
 
@@ -997,7 +998,8 @@ p{
         font-size: 4vw;
         left: 4%;
         top: 1200vw;
-        width: 90%;
+        width: 85%;
+        height: 70%;
         font-family:Georgia, 'Times New Roman', Times, serif;
     }
 
