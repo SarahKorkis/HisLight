@@ -11,11 +11,20 @@ html{
 body{
     background: rgb(38, 38, 38);
     height: 1000vh;
-}
-body::-webkit-scrollbar {
-    display: none;
+    overflow: auto;
 }
 
+body::-webkit-scrollbar{
+    width: 10px;
+    background: transparent;
+}
+
+body::-webkit-scrollbar-thumb{
+    border-radius: 10px;
+    width: 10px;
+
+    background-color: #9696967e;
+}
 
 .dropdown{
     display: none;
@@ -27,7 +36,7 @@ body::-webkit-scrollbar {
     width: 100%;
     position: absolute;
     opacity: 0.7;
-    filter: brightness(70%);
+    filter: brightness(80%);
 
 }
 
@@ -501,7 +510,7 @@ p{
     z-index: 1;
 }
 
-.cross{
+.novena1Pic{
     position: absolute;
     width: 50%;
     height: 130%;
@@ -510,7 +519,7 @@ p{
     opacity: 0.5;
 }
 
-.sorrow{
+.novena2Pic{
     position: absolute;
     width: 50%;
     height: 130%;
@@ -568,16 +577,32 @@ p{
 .Novena1subA {
     position: absolute;
     top: 520vh;
-    left: 6%;
+    left: 4%;
     position: absolute;
     text-align: center;
     color: whitesmoke;
     letter-spacing: 3px;
-    font-size: 130%;
+    font-size: 160%;
     filter: drop-shadow(4px 4px 4px rgba(0, 0, 0, 0.536));
     z-index: 1;
-    width: 37%;
+    width: 40%;
+    height: 60%;
     display: none;
+    overflow: auto;
+
+}
+
+.Novena1subA::-webkit-scrollbar{
+    width: 10px;
+    height: 10px;
+    display: flex;
+    background-color: transparent;
+}
+
+.Novena1subA::-webkit-scrollbar-thumb{
+    border-radius: 10px;
+    height: 5px;
+    background: rgba(126, 126, 126, 0.518);
 }
 
 .Novena1Button{
@@ -650,16 +675,30 @@ p{
     position: absolute;
     top: 520vh;
     left: 56%;
-    width: 38%;
+    width: 40%;
+    height: 60%;
     position: absolute;
     text-align: center;
     color: whitesmoke;
     letter-spacing: 3px;
-    font-size: 130%;
+    font-size: 160%;
     filter: drop-shadow(4px 4px 4px rgba(0, 0, 0, 0.536));
     z-index: 1;
     display: none;
-    line-height: 25px;
+    overflow: auto;
+}
+
+.Novena2subA::-webkit-scrollbar{
+    width: 10px;
+    height: 10px;
+    display: flex;
+    background-color: transparent;
+}
+
+.Novena2subA::-webkit-scrollbar-thumb{
+    border-radius: 10px;
+    height: 5px;
+    background: rgba(126, 126, 126, 0.518);
 }
 
 .Novena2Button{
@@ -883,7 +922,7 @@ p{
         font-family:Georgia, 'Times New Roman', Times, serif;
     }
 
-    .cross{
+    .novena1Pic{
         top: 900vw;
         width: 100%;
         height: 260vw;
@@ -926,7 +965,7 @@ p{
         font-family:Georgia, 'Times New Roman', Times, serif;
     }
 
-    .sorrow{
+    .novena2Pic{
         top: 1161vw;
         left: 0%;
         width: 100%;
