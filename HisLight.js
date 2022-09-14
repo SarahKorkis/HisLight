@@ -162,7 +162,7 @@ function N1function() {
         Novena2.style.display = "none";
         Novena2sub.style.display = "none";
         N2Button.innerHTML = "Back";
-        N2Button.style.top = "1385vw"
+        N2Button.style.top = "1335vw"
         Novena2A.style.display = "inline";
         Novena2subA.style.display = "inline";
       }
