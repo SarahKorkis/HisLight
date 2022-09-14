@@ -6,10 +6,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>HisLight</title>
     <link rel="stylesheet" href="HisLight.css">
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Amatic+SC">
 </head>
 <link rel="shortcut icon" type="image/jpg" href="./icons8-light-on-64.png"/>
 <body>
+  
   <div class="dropdown">
     <div class="bar">
       <div class="line1"></div>
@@ -89,29 +89,29 @@
     <div class="FeastDays">
       <div class="Section4Line"></div>
       <input type="text" placeholder="Aug 23" class="search" id="test" style="text-transform:capitalize">
-      <button class="DateButton" onclick="myFunction()"> Submit</button>
+      <button class="DateButton" onclick="FeastFunction()"> Submit</button>
       <p id="demo"> Saint Rose Of Lima</p>
     </div>     
     <div class="burger"></div>
-    <script src="SaintQuotes.js"></script>
-    <script src="dates.js"></script>
+
+
 
     <div class="Section5Line"></div>
-    <img class="cross" src="jesus crucified.jpeg" alt="">
+    <img id="novena1Pic" class="novena1Pic" src="jesus crucified.jpeg" alt="image">
     <h1 id="Novena1" class="Novena1">Holy Cross Novena <br> September 5 - September 14</h1>
     <h1 id="Novena1A" class="Novena1A">Day 7</h1>
     <h1 id="Novena1sub" class="Novena1sub">Feast Day <br> September 14</h1>
     <h1 id="Novena1subA" class="Novena1subA">In the name of the Father, and of the Son, and of the Holy Spirit. Amen. Jesus, Who because of Your burning love for us willed to be crucified and to shed Your Most Precious Blood for the redemption and salvation of our souls, <br> look down upon us and grant the petition we ask for… <br> (Mention your request here…) <br> We trust completely in Your Mercy. Cleanse us from sin by Your Grace, sanctify our work, <br> give us and all those who are dear to us our daily bread, lighten the burden of our sufferings, bless our families, and grant to the nations, so sorely afflicted, Your Peace, which is the only true peace, so that by obeying Your Commandments we may come at last to the glory of Heaven. Amen. <br> Say 1: Our Father…  Say 1: Hail Mary… Say 1: Glory Be…</h1>
-    <button onclick="Nfunction()" id="NPrayer" class="Novena1Button">Pray</button> 
+    <button onclick="N1function()" id="N1Button" class="Novena1Button">Pray</button> 
 
     <div class="Section6Line"></div>
 
-    <img id="sorrow" class="sorrow" src="sorrowful Mary.jpg" alt="">
+    <img id="novena2Pic" class="novena2Pic" src="sorrowful Mary.jpg" alt="image">
     <h1 id="Novena2" class="Novena2">Sorrowful Mary Novena <br> September 6 - September 15 </h1>
     <h1 id="Novena2A" class="Novena2A">Day 6</h1>
     <h1 id="Novena2sub" class="Novena2sub">Feast Day<br> September 15</h1>  
     <h1 id="Novena2subA" class="Novena2subA">In the name of the Father, and of the Son, and of the Holy Spirit. Amen. O sorrowful Mother, I turn to you in total trust. <br> You suffered the sharpest pains in life, watching your Son die upon the Cross, and yet you remained by Him to the end. <br> Look with favor upon me, a poor sinner, and obtain for me from your Son all the graces I need to endure the sufferings God allows me to face. <br> Daily Prayer - <br> On the Cross her Son was dying. Mary stood beneath Him crying, Sharing in His saving cross. As He hangs, her soul is grieving, and a sword her heart is cleaving and she weeps the bitter loss. O Mother of Sorrows, through thy First Sorrow, the Prophecy of Holy Simeon, intercede for me with the Sacred Heart of Jesus, and grant me the favor I implore <br> (mention your request here…) <br> Say 1: Our Father…  Say 1: Hail Mary… Say 1: Glory Be…</h1>  
-    <button onclick="Sfunction()" id="N2Prayer" class="Novena2Button">Pray</button> 
+    <button onclick="N2function()" id="N2Button" class="Novena2Button">Pray</button> 
     <div class="NovenaSection">
       <section id="MonthNov">
           <h1 class="MonthlyNovenas">September Novena's</h1>
@@ -126,7 +126,10 @@
         <h1 class="CommentaryTitle">COMMENTARY</h1>
     </section>
 </div> -->
-
+<script src="SaintQuotes.js"></script>
+<script src="dates.js"></script>
+<script src="HisLight.js"></script>
+<script src="novenaDates.js"></script>
 
 </body>
 </html>
