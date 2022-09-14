@@ -703,7 +703,7 @@ p{
 
 .Novena2Button{
     top: 570%;
-    left: 70%;
+    left: 72%;
     position: absolute;
     z-index: 2;
     width: 10%;
@@ -937,7 +937,7 @@ p{
     }
     .Novena1A{
         font-size: 12vw;
-        left: 36%;
+        left: 34%;
         top: 935vw;
         font-family:Georgia, 'Times New Roman', Times, serif;
     }
@@ -983,7 +983,7 @@ p{
     }
     .Novena2A{
         font-size: 12vw;
-        left: 36vw;
+        left: 34vw;
         top: 1180vw;
         font-family:Georgia, 'Times New Roman', Times, serif;
     }
