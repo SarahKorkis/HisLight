@@ -805,16 +805,16 @@ p{
     .SubV{
         font-size: 5vw;
         top: 230vw;
-        left: 12vw;
-        width: 75vw;
+        left: 10vw;
+        width: 80vw;
         line-height: 40px;
         font-family:Georgia, 'Times New Roman', Times, serif;
     }
 
     textarea{
-        top: 330vw;
+        top: 300vw;
         height: 25vw;
-    font-size: 10vw;
+        font-size: 10vw;
     }
 
     .church{
@@ -916,7 +916,7 @@ p{
     }
 
     #MonthNov{
-        font-size: 4.5vw;
+        font-size: 5vw;
         left: 10vw;
         top: 910vw;
         font-family:Georgia, 'Times New Roman', Times, serif;
@@ -937,7 +937,7 @@ p{
     }
     .Novena1A{
         font-size: 12vw;
-        left: 34%;
+        left: 32%;
         top: 935vw;
         font-family:Georgia, 'Times New Roman', Times, serif;
     }
@@ -953,7 +953,7 @@ p{
         left: 7%;
         top: 960vw;
         width: 85%;
-        height: 110vw;
+        height: 120vw;
         font-family:Georgia, 'Times New Roman', Times, serif;
     }
 
@@ -999,7 +999,7 @@ p{
         left: 7%;
         top: 1200vw;
         width: 85%;
-        height: 110vw;
+        height: 120vw;
         font-family:Georgia, 'Times New Roman', Times, serif;
     }
 
@@ -1024,20 +1024,21 @@ p{
 
     #back{
         left: 80vw;
-        top: 100vw;
+        top: 250vw;
     }
 
     .travel3{
         left: 80.5vw;
+        top: 155vw;
         width: 40px;
         height: 40px;
     }
 
     .arrow{
-        left: 83%;
-        top: 87%;
-        width: 15px;
-        height: 20px;
+        left: 82.5vw;
+        top: 158vw;
+        width: 25px;
+        height: 25px;
     }
 
     .travel{
@@ -1068,7 +1069,7 @@ p{
   
   /* dropdown button on hover & focus */
   .dropbtn:hover, .dropbtn:focus {
-    background-color: #d6d6d652;
+    background-color: #ffffff;
   }
   
   /* The container <div> - needed to position the dropdown content */
@@ -1078,7 +1079,9 @@ p{
     left: 87%;
     top: 3%;
     display: flex;
+    background: transparent;
   }
+
 
 
   .line1{
