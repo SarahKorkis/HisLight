@@ -437,12 +437,17 @@ textarea::placeholder{
     width: 10%;
     height: 6%;
     background-color: transparent;
+    cursor: pointer;
     color: whitesmoke;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 200%;
     border-color: whitesmoke;
     border-radius: 10px;
     box-sizing: border-box;
+}
+
+.DateButton:active {
+    background-color: rgb(51, 51, 51);
 }
 p{
     top: 440%;
@@ -532,7 +537,7 @@ p{
 .Novena1 {
     position: absolute;
     top: 525vh;
-    left: 3%;
+    left: 7%;
     text-align: center;
     color: whitesmoke;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -620,6 +625,11 @@ p{
     border-radius: 10px;
     transition: ease-in-out 0.5;
     box-sizing: border-box;
+    cursor: pointer;
+}
+
+.Novena1Button:active {
+    background-color: rgb(51, 51, 51);
 }
 
  
@@ -715,6 +725,11 @@ p{
     border-color: whitesmoke;
     border-radius: 10px;
     box-sizing: border-box;
+    cursor: pointer;
+}
+
+.Novena2Button:active {
+    background-color: rgb(51, 51, 51);
 }
 
 #Commentary {
@@ -917,6 +932,7 @@ p{
 
     #MonthNov{
         font-size: 5vw;
+        text-align: center;
         left: 10vw;
         top: 910vw;
         font-family:Georgia, 'Times New Roman', Times, serif;
@@ -930,13 +946,15 @@ p{
     }
 
     .Novena1{
-        font-size: 5vw;
-        left: 5%;
-        top: 940vw;
+        left: 10vw;
+        text-align: center;
+        font-size: 6vw;
+        top: 935vw;
         font-family:Georgia, 'Times New Roman', Times, serif;
     }
     .Novena1A{
-        font-size: 8vw;
+        align-items: center;
+        font-size: 9vw;
         left: 32%;
         top: 935vw;
         font-family:Georgia, 'Times New Roman', Times, serif;
@@ -944,8 +962,9 @@ p{
 
     .Novena1sub{
         font-size: 120%;
-        left: 17%;
-        top: 960vw;
+        left: 17vw;
+        text-align: center;
+        top: 956vw;
         font-family:Georgia, 'Times New Roman', Times, serif;
     }
     .Novena1subA{
@@ -976,7 +995,7 @@ p{
 
     .Novena2{
         font-size: 4.5vw;
-        left: 7vw;
+        left: 9vw;
         top: 1180vw;
         text-align: center;
         font-family:Georgia, 'Times New Roman', Times, serif;
@@ -991,7 +1010,7 @@ p{
     .Novena2sub{
         font-size: 4.5vw;
         left: 32vw;
-        top: 1200vw;
+        top: 1202.5vw;
         font-family:Georgia, 'Times New Roman', Times, serif;
     }
     .Novena2subA{
