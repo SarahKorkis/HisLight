@@ -18,9 +18,6 @@ function N1function() {
     else if (novena1Day == '9/14/2022'){
       Novena1A.innerHTML = 'Day 9';
     }
-    else{
-      Novena1A.innerHTML = 'ERROR';
-    } 
   
     if (Novena1.style.display === "none") {
       Novena1.style.display = "inline";
@@ -63,9 +60,6 @@ function N1function() {
     else if (novena2Day == '9/15/2022'){
       Novena2A.innerHTML = 'Day 9';
     }
-    else{
-      Novena2A.innerHTML = 'ERROR';
-    }
   
     if (Novena2.style.display === "none") {
       Novena2.style.display = "inline";
@@ -92,19 +86,13 @@ function N1function() {
       var Novena1sub = document.getElementById("Novena1sub");
       var Novena1subA = document.getElementById("Novena1subA");
 
-      const novena1Day = new Date();
-      let newNovena1Day = novena1Day.getDate();
-      if (newNovena1Day == '12'){
-        Novena1A.innerHTML = 'Day 7';
-      }
-      else if (newNovena1Day == '13'){
+      const novena1Day = new Date().toLocaleString().split(',')[0];
+
+      if (novena1Day == '9/13/2022'){
         Novena1A.innerHTML = 'Day 8';
       }
-      else if (newNovena1Day == '14'){
+      else if (novena1Day == '9/14/2022'){
         Novena1A.innerHTML = 'Day 9';
-      }
-      else{
-        Novena2A.innerHTML = 'ERROR';
       }
     
       if (Novena1.style.display === "none") {
@@ -131,24 +119,21 @@ function N1function() {
       var N2Button = document.getElementById("N2Button");
       var Novena2sub = document.getElementById("Novena2sub");
       var Novena2subA = document.getElementById("Novena2subA");
-      var sorrow = document.getElementById("sorrow");
 
-      const novena2Day = new Date();
-      let newNovena2Day = novena2Day.getDate();
-      if (newNovena2Day == '12'){
+
+      const novena2Day = new Date().toLocaleString().split(',')[0]
+
+      if (novena2Day == '9/12/2022'){
         Novena2A.innerHTML = 'Day 6';
       }
-      else if (newNovena2Day == '13'){
+      else if (novena2Day == '9/13/2022'){
         Novena2A.innerHTML = 'Day 7';
       }
-      else if (newNovena2Day == '14'){
+      else if (novena2Day == '9/14/2022'){
         Novena2A.innerHTML = 'Day 8';
       }
-      else if (newNovena2Day == '15'){
+      else if (novena2Day == '9/15/2022'){
         Novena2A.innerHTML = 'Day 9';
-      }
-      else{
-        Novena2A.innerHTML = 'ERROR';
       }
     
       if (Novena2.style.display === "none") {
@@ -169,14 +154,6 @@ function N1function() {
     }
   }
 
-  /*function BFunction() {
-    var x = document.getElementById("myLinks");
-    if (x.style.display === "block") {
-      x.style.display = "none";
-    } else {
-      x.style.display = "block";
-    }
-  } */
 
   function BFunction() {
     document.getElementById("myDropdown").classList.toggle("show");
