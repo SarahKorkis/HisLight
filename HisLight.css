@@ -537,7 +537,7 @@ p{
 .Novena1 {
     position: absolute;
     top: 525vh;
-    left: 7%;
+    left: 1%;
     text-align: center;
     color: whitesmoke;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -650,6 +650,12 @@ p{
     white-space: nowrap;
     z-index: 1;
 }
+
+/*         Novena2.style.left = '55vw'
+        Novena2.style.fontSize = '3vw'
+        Novena2A.innerHTML = 'Starts the 21st!'
+        Novena2A.style.left = '70vw' 
+*/
 
 .Novena2A {
     position: absolute;
