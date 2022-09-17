@@ -639,7 +639,7 @@ p{
 .Novena2 {
     position: absolute;
     top: 525vh;
-    left: 55%;
+    left: 70%;
     position: absolute;
     text-align: center;
     color: whitesmoke;
@@ -660,7 +660,7 @@ p{
 .Novena2A {
     position: absolute;
     top: 510vh;
-    left: 71%;
+    left: 70vw;
     text-align: center;
     color: whitesmoke;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -1001,14 +1001,14 @@ p{
 
     .Novena2{
         font-size: 4.5vw;
-        left: 9vw;
+        left: 1%;
         top: 1180vw;
         text-align: center;
         font-family:Georgia, 'Times New Roman', Times, serif;
     }
     .Novena2A{
         font-size: 12vw;
-        left: 34%;
+        left: 25%;
         top: 1180vw;
         font-family:Georgia, 'Times New Roman', Times, serif;
     }
