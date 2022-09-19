@@ -1,5 +1,5 @@
 
-  function myFunction() {   
+  function FeastFunction() {   
         var know = {   
         "01/01/2022" : "Mary, Mother Of God",   
         "january 1" : "Mary, Mother Of God",   
