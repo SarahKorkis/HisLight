@@ -65,6 +65,10 @@ window.onload = function(){
         MaryOfKnots();
         Novena1A.innerHTML = 'Starts the 20th!';
     }
+    else if (novenaDay == '9/19/2022') {
+        MaryOfKnots();
+        Novena1A.innerHTML = 'Starts the 20th!';
+    }
     else if (novenaDay == '9/20/2022') {
         MaryOfKnots();
         Novena1A.innerHTML = 'Day 1';
