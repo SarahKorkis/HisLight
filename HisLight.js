@@ -246,7 +246,7 @@ function N1function() {
         Novena3.style.display = "inline";
         Novena3sub.style.display = "inline";
         N3Button.innerHTML = "Pray";
-        N2Button.style.top = "930vw";
+        N3Button.style.top = "930vw";
         Novena3A.style.display = "none";
         Novena3subA.style.display = "none";
         scrollButtons.style.display = "inline";
@@ -254,7 +254,7 @@ function N1function() {
         Novena3.style.display = "none";
         Novena3sub.style.display = "none";
         N3Button.innerHTML = "Back";
-        N2Button.style.top = "1010vw";
+        N3Button.style.top = "1010vw";
         Novena3A.style.display = "inline";
         Novena3subA.style.display = "inline";
         scrollButtons.style.display = "none";
