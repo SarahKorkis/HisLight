@@ -1,0 +1,1606 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    scroll-behavior:smooth;
+}
+
+body{
+    background: rgb(38, 38, 38);
+    height: 1000vh;
+    overflow: auto;
+}
+
+body::-webkit-scrollbar{
+    width: 10px;
+    background: transparent;
+}
+
+body::-webkit-scrollbar-thumb{
+    border-radius: 10px;
+    width: 10px;
+
+    background-color: #9696967e;
+}
+
+.dropdown{
+    display: none;
+}
+
+.navBar{
+    width: 100%;
+    height: 10%;
+    top: 0%;
+    position: absolute;
+    background-color: #1c1c1c;
+    filter: drop-shadow(4px 4px 4px rgba(0, 0, 0, 0.536));
+    z-index: 0;
+}
+
+.logo{
+    position: absolute;
+    left: 5%;
+    top: 3%;
+    z-index: 1;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    letter-spacing: 1px;
+    font-size: 130%;
+    filter: drop-shadow(4px 4px 4px rgba(0, 0, 0, 0.536));
+    text-decoration: none;
+    color: whitesmoke;
+    transition-duration: 0.3s;
+}
+
+
+.StartPic{
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    opacity: 0.9;
+    object-fit: cover;
+    top: 0%;
+    border-radius: 14px;
+    filter: brightness(0.8);
+}
+
+.heroButtonVerse{
+    left: 45%;
+    top: 80%;
+    position: absolute;
+    z-index: 2;
+    width: 10%;
+    height: 6%;
+    background-color: transparent;
+    color: whitesmoke;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 150%;
+    border-color: whitesmoke;
+    border-radius: 10px;
+    box-sizing: border-box;
+    cursor: pointer;
+}
+
+.travel{
+    position: absolute;
+    left: 62%;
+    top: 3%;
+    z-index: 1;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    letter-spacing: 1px;
+    font-size: 130%;
+    filter: drop-shadow(4px 4px 4px rgba(0, 0, 0, 0.536));
+    text-decoration: none;
+    color: whitesmoke;
+    transition-duration: 0.3s;
+}
+
+.travel:hover{
+    text-decoration: underline;
+}
+.travel2:hover{
+    text-decoration: underline;
+}
+.travel4:hover{
+    text-decoration: underline;
+}
+.travel5:hover{
+    text-decoration: underline;
+}
+.travel6:hover{
+    text-decoration: underline;
+}
+
+.travel2{
+    position: absolute;
+    left: 71%;
+    top: 3%;
+    z-index: 1;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    letter-spacing: 1px;
+    font-size: 130%;
+    filter: drop-shadow(4px 4px 4px rgba(0, 0, 0, 0.536));
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+.travel4{
+    position: absolute;
+    left: 81%;
+    top: 3%;
+    z-index: 1;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    letter-spacing: 1px;
+    font-size: 130%;
+    filter: drop-shadow(4px 4px 4px rgba(0, 0, 0, 0.536));
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+.travel5{
+    position: absolute;
+    left: 90%;
+    top: 3%;
+    z-index: 1;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    letter-spacing: 1px;
+    font-size: 130%;
+    filter: drop-shadow(4px 4px 4px rgba(0, 0, 0, 0.536));
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+.travel6{
+    position: absolute;
+    left: 90%;
+    top: 5%;
+    z-index: 1;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    letter-spacing: 1px;
+    font-size: 170%;
+    filter: drop-shadow(4px 4px 4px rgba(0, 0, 0, 0.536));
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+
+.Title{
+    color: whitesmoke;
+    position: absolute;
+    top: 30%;
+    left: 30%;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    letter-spacing: 3px;
+    font-size: 900%;
+    filter: drop-shadow(4px 4px 4px rgba(0, 0, 0, 0.536));
+    animation: flash 3s ease-in-out 1s infinite;
+}
+
+@keyframes flash{
+    0%{
+        text-shadow:none;
+    }
+    50%{
+        text-shadow: rgb(255, 255, 255) 1px 0 50px;
+    }
+    100%{
+        text-shadow:none;
+    }
+}
+
+
+.SubTitle{
+    color: whitesmoke;
+    position: absolute;
+    top: 55%;
+    left: 30%;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    letter-spacing: 3px;
+    font-size: 170%;
+    filter: drop-shadow(4px 4px 4px rgba(0, 0, 0, 0.536));
+    width: 40%;
+    text-align: center;
+}
+
+
+.travel3 {
+    position: fixed;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    top: 85%;
+    left: 90%;
+    background-color: #ebebeb45;
+    filter: drop-shadow(4px 4px 4px rgba(0, 0, 0, 0.536));;
+    z-index: 2;
+}
+
+.BackSection {
+    top: -100vh;
+}
+
+.arrow {
+    border: solid rgba(0, 0, 0, 0.663);
+    border-width: 0 10px 10px 0;
+    border-radius: 5px;
+    display: inline-block;
+    padding: 3px;
+    left: 21.5%;
+    top: 32%;
+    width: 30px;
+    height: 30px;
+    position: fixed;
+    z-index: 2;
+    transform: rotate(-135deg);
+    -webkit-transform: rotate(-135deg);
+  }
+
+
+/*SECTION2*/
+
+.Section2Line{
+    position: absolute;
+    width: 85%;
+    height: 1px;
+    top: 100%;
+    left: 8%;
+    background-color: rgb(155, 155, 155);
+    z-index: 0;
+}
+
+.verseBox{
+    position: absolute;
+    background-color: #582b2b;
+    height: 100%;
+    width: 100%;
+    top: 100%;
+    z-index: 0;
+}
+
+
+#verse {
+    position: absolute;
+    top: 105vh;
+    left: 62%;
+    color: rgb(216, 216, 216);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    letter-spacing: 3px;
+    font-size: 170%;
+    filter: drop-shadow(4px 4px 4px rgba(0, 0, 0, 0.536));
+    white-space: nowrap;
+    z-index: 1;
+}
+
+
+.DailyV{
+    left: 15%;
+    top: 10vh;
+    position: absolute;
+    color: whitesmoke;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    letter-spacing: 3px;
+    font-size: 300%;
+    filter: drop-shadow(4px 4px 4px rgba(0, 0, 0, 0.536));
+    white-space: nowrap;
+    z-index: 1;
+}
+
+.SubV {
+    position: absolute;
+    top: 135%;
+    left: 63%;
+    color: whitesmoke;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    letter-spacing: 3px;
+    font-size: 150%;
+    filter: drop-shadow(4px 4px 4px rgba(0, 0, 0, 0.536));
+    width: 30%;
+    text-align: center;
+    line-height: 60px;
+    z-index: 1;
+}
+
+textarea{
+    position: absolute;
+    top: 175%;
+    left: 64%;
+    width: 30%;
+    height: 5%;
+    padding: 0px 0px;
+    margin: 0px 0;
+    box-sizing: border-box;
+    border-color: transparent;
+    border-bottom: 2px solid rgb(255, 255, 255);
+    font-size: 220%;
+    background-color: transparent;
+    color: whitesmoke;
+    outline: none;
+    resize: both;
+    z-index: 1;
+}
+textarea::-webkit-scrollbar {
+    display: none;
+}
+
+.BiblePic{
+    top: 105%;
+    left: 5%;
+    width: 50%;
+    height: 110%;
+    position: absolute;
+    z-index: 1;
+    border-radius: 14px;
+    object-fit: fill;
+}
+textarea::placeholder{
+    color: #cbcbcb;
+}
+
+
+/*section3*/
+
+.saintBox{
+    position: absolute;
+    background-color: #451919;
+    height: 130%;
+    width: 100%;
+    top: 200%;
+    z-index: 0;
+}
+
+.church{
+    position: absolute;
+    left: 42%;
+    width: 55%;
+    height: 130%;
+    z-index: 1;
+    top: 225%;
+    opacity: 1;
+    border-radius: 14px;
+}
+
+/*.Section3Line{
+    position: absolute;
+    width: 85%;
+    height: 1px;
+    top: 220%;
+    left: 8%;
+    background-color: rgb(80, 80, 80);
+    z-index: 1;
+} */
+
+#quotes {
+    position: absolute;
+    top: 230vh;
+    left: 4%;
+    position: absolute;
+    color: rgb(216, 216, 216);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    letter-spacing: 3px;
+    font-size: 150%;
+    filter: drop-shadow(4px 4px 4px rgba(0, 0, 0, 0.536));
+    white-space: nowrap;
+    z-index: 1;
+}
+
+.RQuotes{
+    left: 0%;
+    top: 10vh;
+    position: absolute;
+    color: whitesmoke;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    letter-spacing: 3px;
+    font-size: 300%;
+    filter: drop-shadow(4px 4px 4px rgba(0, 0, 0, 0.536));
+    white-space: nowrap;
+    z-index: 1;
+}
+
+.container {
+    width: 42%;
+	height: 400px;
+  top: 250%;
+  left: 0%;
+  position: absolute;
+  z-index: 1;
+}
+.header h2 {
+    font-weight: 400;
+    color: #fff;
+}
+.main-content {
+	width: 100%;
+	height: 300px;
+	padding: 50px 40px;
+	background-color: rgba(255, 255, 255, 0);
+	border-radius: 15px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.text-area {
+	text-align: center;
+	font-size: 30px;
+	color: #d3d3d3;
+	line-height: 1.5;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.text-area .icon {
+    margin-right: 5px;
+}
+.main-content .writer {
+    text-transform: uppercase;
+	letter-spacing: 5px;
+	color: red;
+	text-align: center;
+	margin-top: 20px;
+	font-size: 20px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	
+}
+.main-content .button-area {
+	display: grid;
+	place-items: center;
+	margin-top: 20px;
+	padding: 10px 0;
+}
+.button-area .btn button {
+    background-color: #1c1c1c;
+    color: #fff;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    border: none;
+    outline: none;
+    padding: 10px 15px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+.button-area button:active {
+    background-color: deepskyblue;
+}
+
+
+
+/*FEAST DAYS SECTION 4*/
+
+
+.feastBox{
+    position: absolute;
+    background-color: #350f0f;
+    height: 140%;
+    width: 100%;
+    top: 330%;
+    z-index: 0;
+}
+
+
+/*.Section4Line{
+    position: absolute;
+    width: 85%;
+    height: 1px;
+    top: 352%;
+    left: 8%;
+    background-color: rgb(80, 80, 80);
+    z-index: 1;
+} */
+
+.search{
+    width: 20%;
+    height: 10%;
+    padding: 0px 0px;
+    margin: 0px 0;
+    box-sizing: border-box;
+    border-color: transparent;
+    background-color: transparent;
+    border-bottom: 2px solid rgb(255, 255, 255);
+    outline: none;
+    left: 72%;
+    transform: translate(-50%,-50%);
+    position: absolute;
+    top: 410%;
+    color: whitesmoke;
+    font-size: 300%;
+    z-index: 2;
+}
+
+.DateButton{
+    top: 408%;
+    left: 85%;
+    position: absolute;
+    z-index: 2;
+    width: 10%;
+    height: 6%;
+    background-color: transparent;
+    cursor: pointer;
+    color: whitesmoke;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 200%;
+    border-color: whitesmoke;
+    border-radius: 10px;
+    box-sizing: border-box;
+}
+
+.DateButton:active {
+    background-color: rgb(51, 51, 51);
+}
+p{
+    top: 435%;
+    left: 78%;
+    transform: translate(-50%,-50%);
+    position: absolute;
+    z-index: 2;
+    color: whitesmoke;
+    font-size: 350%;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    justify-content: center;
+    width: 40%;
+}
+
+#feast {
+    position: absolute;
+    top: 380vh;
+    left: 62%;
+    position: absolute;
+    color: whitesmoke;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    letter-spacing: 3px;
+    font-size: 350%;
+    filter: drop-shadow(4px 4px 4px rgba(0, 0, 0, 0.536));
+    white-space: nowrap;
+    z-index: 1;
+}
+
+
+.Eucharist{
+    position: absolute;
+    width: 50%;
+    left: 5%;
+    height: 130%;
+    z-index: 0;
+    top: 360%;
+    opacity: 1;
+    z-index: 1;
+    border-radius: 14px;
+}
+
+
+/*SECTION5*/
+
+
+/*.Section5Line{
+    position: absolute;
+    width: 85%;
+    height: 1px;
+    top: 480%;
+    left: 8%;
+    background-color: rgb(80, 80, 80);
+    z-index: 1;
+}*/
+
+
+#MonthNov {
+    position: absolute;
+    top: 505vh;
+    left: 3%;
+    position: absolute;
+    color: whitesmoke;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    letter-spacing: 3px;
+    font-size: 300%;
+    filter: drop-shadow(4px 4px 4px rgba(0, 0, 0, 0.536));
+    white-space: nowrap;
+    z-index: 1;
+}
+
+.novena1Pic{
+    position: absolute;
+    width: 50%;
+    height: 130%;
+    z-index: 0;
+    top: 500%;
+    opacity: 1;
+    left: 50%;
+    border-radius: 14px;
+    display: inline;
+    transition: ease-in-out;
+}
+
+.novena2Pic{
+    position: absolute;
+    width: 50%;
+    height: 130%;
+    z-index: 0;
+    top: 500%;
+    left: 50%;
+    border-radius: 14px;
+    display: none;
+    transition: ease-in-out;
+}
+
+.novena3Pic{
+    position: absolute;
+    width: 50%;
+    height: 130%;
+    z-index: 0;
+    top: 500%;
+    left: 50%;
+    border-radius: 14px;
+    display: none;
+    transition: ease-in-out;
+}
+
+.Roses{
+    top: 500%;
+    left: 60rem;
+    width: 5rem;
+    color: white;
+    position: absolute;
+    z-index: 3;
+    padding: 1rem;
+    filter: invert(100%);
+    opacity: 0;
+    transition: ease-in-out 0s;
+    transform: rotate(200deg);
+}
+.Roses2{
+    top: 500%;
+    left: 5rem;
+    width: 5rem;
+    color: white;
+    position: absolute;
+    z-index: 3;
+    padding: 1rem;
+    filter: invert(100%);
+    opacity: 0;
+    transition: ease-in-out 0s;
+    transform: rotate(200deg);
+}
+.Roses3{
+    top: 500%;
+    left: 15rem;
+    width: 5rem;
+    color: white;
+    position: absolute;
+    z-index: 3;
+    padding: 1rem;
+    filter: invert(100%);
+    opacity: 0;
+    transition: ease-in-out 0s;
+    transform: rotate(200deg);
+}
+.Roses4{
+    top: 500%;
+    left: 40rem;
+    width: 5rem;
+    color: white;
+    position: absolute;
+    z-index: 3;
+    padding: 1rem;
+    filter: invert(100%);
+    opacity: 0;
+    transition: ease-in-out 0s;
+    transform: rotate(200deg);
+}
+.Roses5{
+    top: 500%;
+    left: 75rem;
+    width: 5rem;
+    color: white;
+    position: absolute;
+    z-index: 3;
+    padding: 1rem;
+    filter: invert(100%);
+    opacity: 0;
+    transition: ease-in-out 0s;
+    transform: rotate(200deg);
+}
+
+@keyframes roses{
+    0%{
+        opacity: 0;
+    }
+    50%{
+        opacity: 1;
+    }
+    100%{
+        transform: translateY(1000%);
+        opacity: 0;
+    }
+}
+
+.Novena1 {
+    position: absolute;
+    top: 525vh;
+    left: 8vw;
+    text-align: center;
+    color: whitesmoke;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    letter-spacing: 3px;
+    font-size: 260%;
+    filter: drop-shadow(4px 4px 4px rgba(0, 0, 0, 0.536));
+    white-space: nowrap;
+    z-index: 1;
+    display: inline;
+}
+
+.Novena1A {
+    position: absolute;
+    top: 521vh;
+    left: 20%;
+    text-align: center;
+    color: whitesmoke;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    letter-spacing: 3px;
+    font-size: 300%;
+    filter: drop-shadow(4px 4px 4px rgba(0, 0, 0, 0.536));
+    white-space: nowrap;
+    z-index: 1;
+    display: none;
+}
+
+
+.Novena1sub {
+    position: absolute;
+    top: 545vh;
+    left: -10%;
+    position: absolute;
+    text-align: center;
+    color: whitesmoke;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    letter-spacing: 3px;
+    font-size: 220%;
+    filter: drop-shadow(4px 4px 4px rgba(0, 0, 0, 0.536));
+    z-index: 1;
+    width: 70%;
+    display: inline;
+}
+
+.Novena1subA {
+    position: absolute;
+    top: 533vh;
+    left: 4%;
+    position: absolute;
+    text-align: center;
+    color: whitesmoke;
+    letter-spacing: 3px;
+    font-size: 160%;
+    filter: drop-shadow(4px 4px 4px rgba(0, 0, 0, 0.536));
+    z-index: 1;
+    width: 40%;
+    height: 60%;
+    display: none;
+    overflow: auto;
+
+}
+
+.Novena1subA::-webkit-scrollbar{
+    width: 10px;
+    height: 10px;
+    display: flex;
+    background-color: transparent;
+}
+
+.Novena1subA::-webkit-scrollbar-thumb{
+    border-radius: 10px;
+    height: 5px;
+    background: rgba(126, 126, 126, 0.518);
+}
+
+.Novena1Button{
+    top: 570%;
+    left: 20%;
+    position: absolute;
+    z-index: 2;
+    width: 10%;
+    height: 6%;
+    background-color: transparent;
+    color: whitesmoke;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 200%;
+    border-color: whitesmoke;
+    border-radius: 10px;
+    transition: ease-in-out 0.5;
+    box-sizing: border-box;
+    cursor: pointer;
+    display: inline;
+}
+
+.Novena1Button:active {
+    background-color: rgb(51, 51, 51);
+}
+
+ 
+
+  
+
+.Novena2 {
+    position: absolute;
+    top: 525vh;
+    left: 4vw;
+    position: absolute;
+    text-align: center;
+    color: whitesmoke;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    letter-spacing: 3px;
+    font-size: 290%;
+    filter: drop-shadow(4px 4px 4px rgba(0, 0, 0, 0.536));
+    white-space: nowrap;
+    z-index: 1;
+    display: none;
+}
+
+/*         Novena2.style.left = '55vw'
+        Novena2.style.fontSize = '3vw'
+        Novena2A.innerHTML = 'Starts the 21st!'
+        Novena2A.style.left = '70vw' 
+*/
+
+.Novena2A {
+    position: absolute;
+    top: 521vh;
+    left: 20%;
+    text-align: center;
+    color: whitesmoke;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    letter-spacing: 3px;
+    font-size: 300%;
+    filter: drop-shadow(4px 4px 4px rgba(0, 0, 0, 0.536));
+    white-space: nowrap;
+    z-index: 1;
+    display: none;
+}
+
+
+.Novena2sub {
+    position: absolute;
+    top: 545vh;
+    left: 16%;
+    text-align: center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: whitesmoke;
+    letter-spacing: 3px;
+    font-size: 220%;
+    filter: drop-shadow(4px 4px 4px rgba(0, 0, 0, 0.536));
+    white-space: nowrap;
+    z-index: 1;
+    display: none;
+}
+
+.Novena2subA {
+    position: absolute;
+    top: 533vh;
+    left: 4%;
+    width: 40%;
+    height: 60%;
+    position: absolute;
+    text-align: center;
+    color: whitesmoke;
+    letter-spacing: 3px;
+    font-size: 160%;
+    filter: drop-shadow(4px 4px 4px rgba(0, 0, 0, 0.536));
+    z-index: 1;
+    display: none;
+    overflow: auto;
+}
+
+.Novena2subA::-webkit-scrollbar{
+    width: 10px;
+    height: 10px;
+    display: flex;
+    background-color: transparent;
+}
+
+.Novena2subA::-webkit-scrollbar-thumb{
+    border-radius: 10px;
+    height: 5px;
+    background: rgba(126, 126, 126, 0.518);
+}
+
+.Novena2Button{
+    top: 570%;
+    left: 20%;
+    position: absolute;
+    z-index: 2;
+    width: 10%;
+    height: 6%;
+    background-color: transparent;
+    color: whitesmoke;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 200%;
+    border-color: whitesmoke;
+    border-radius: 10px;
+    box-sizing: border-box;
+    cursor: pointer;
+    display: none;
+}
+
+.Novena2Button:active {
+    background-color: rgb(51, 51, 51);
+}
+
+
+
+.Novena3 {
+    position: absolute;
+    top: 525vh;
+    left: 7vw;
+    text-align: center;
+    color: whitesmoke;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    letter-spacing: 3px;
+    font-size: 260%;
+    filter: drop-shadow(4px 4px 4px rgba(0, 0, 0, 0.536));
+    white-space: nowrap;
+    z-index: 1;
+    display: none;
+}
+
+.Novena3A {
+    position: absolute;
+    top: 521vh;
+    left: 12%;
+    text-align: center;
+    color: whitesmoke;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    letter-spacing: 3px;
+    font-size: 300%;
+    filter: drop-shadow(4px 4px 4px rgba(0, 0, 0, 0.536));
+    white-space: nowrap;
+    z-index: 1;
+    display: none;
+}
+
+
+.Novena3sub {
+    position: absolute;
+    top: 545vh;
+    left: -10%;
+    position: absolute;
+    text-align: center;
+    color: whitesmoke;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    letter-spacing: 3px;
+    font-size: 220%;
+    filter: drop-shadow(4px 4px 4px rgba(0, 0, 0, 0.536));
+    z-index: 1;
+    width: 70%;
+    display: none;
+}
+
+.Novena3subA {
+    position: absolute;
+    top: 533vh;
+    left: 4%;
+    position: absolute;
+    text-align: center;
+    color: whitesmoke;
+    letter-spacing: 3px;
+    font-size: 160%;
+    filter: drop-shadow(4px 4px 4px rgba(0, 0, 0, 0.536));
+    z-index: 1;
+    width: 40%;
+    height: 60%;
+    display: none;
+    overflow: auto;
+
+}
+
+.Novena3subA::-webkit-scrollbar{
+    width: 10px;
+    height: 10px;
+    display: flex;
+    background-color: transparent;
+}
+
+.Novena3subA::-webkit-scrollbar-thumb{
+    border-radius: 10px;
+    height: 5px;
+    background: rgba(126, 126, 126, 0.518);
+}
+
+.Novena3Button{
+    top: 570%;
+    left: 20%;
+    position: absolute;
+    z-index: 2;
+    width: 10%;
+    height: 6%;
+    background-color: transparent;
+    color: whitesmoke;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 200%;
+    border-color: whitesmoke;
+    border-radius: 10px;
+    transition: ease-in-out 0.5;
+    box-sizing: border-box;
+    cursor: pointer;
+    display: none;
+}
+
+.Novena3Button:active {
+    background-color: rgb(51, 51, 51);
+}
+
+
+.firstDotButton{
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    background-color: whitesmoke;
+    border-radius: 50%;
+    top: 562%;
+    left: 21%;
+    cursor: pointer;
+    opacity: 100%;
+    outline: none;
+}
+.secondDotButton{
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    background-color: whitesmoke;
+    border-radius: 50%;
+    top: 562%;
+    left: 24%;
+    opacity: 50%;
+    cursor: pointer;
+    outline: none;
+}
+.thirdDotButton{
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    background-color: whitesmoke;
+    border-radius: 50%;
+    top: 562%;
+    left: 27%;
+    opacity: 50%;
+    cursor: pointer;
+    outline: none;
+}
+
+#Commentary {
+    position: absolute;
+    top: 620vh;
+    left: 27%;
+    color: rgb(216, 216, 216);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    letter-spacing: 3px;
+    font-size: 400%;
+    filter: drop-shadow(4px 4px 4px rgba(0, 0, 0, 0.536));
+    white-space: nowrap;
+    z-index: 1;
+}
+
+.wine{
+    width: 40%;
+    height: 40%;
+    border-radius: 5px;
+    top: 650vh;
+    left: 60vh;
+    position: absolute;
+}
+
+
+
+
+
+
+@media only screen and (max-width: 400px){
+
+    body{
+        height: 550vh;
+        font-family:Georgia, 'Times New Roman', Times, serif;
+    }
+
+    .Title{
+        text-align: center;
+        font-size: 15vw;
+        left: 10vw;
+        top: 35vw;
+        position: absolute;
+        font-family:Georgia, 'Times New Roman', Times, serif;
+    }
+
+    .SubTitle{
+        text-align: center;
+        width: 70%;
+        left: 15vw;
+        top: 65vw;
+        font-size: 5vw;
+        font-family:Georgia, 'Times New Roman', Times, serif;
+    }
+
+    .StartPic{
+        position: absolute;
+        height: 180vw;
+        object-fit: cover;
+    }
+
+    .Section2Line{
+        top: 180vw;
+        display: none;
+    }
+
+    .BiblePic{
+        position: absolute;
+        height: 70vw;
+        width: 100vw;
+        object-fit: cover;
+        top: 300vw;
+        left: 0vw;
+    }
+
+    #verse {
+        position: absolute;
+        top: 180vw;
+        left: 23vw;
+        font-family:Georgia, 'Times New Roman', Times, serif;
+    }
+
+    .DailyV{
+        position: absolute;
+        font-size: 10vw;
+        top: 10vw;
+        left: -13vw;
+        font-family:Georgia, 'Times New Roman', Times, serif;
+        
+    }
+
+    .SubV{
+        font-size: 5vw;
+        top: 210vw;
+        left: 10vw;
+        width: 80vw;
+        line-height: 40px;
+        font-family:Georgia, 'Times New Roman', Times, serif;
+    }
+
+    textarea{
+        top: 275vw;
+        height: 10vw;
+        width: 90vw;
+        left: 8vw;
+        font-size: 7vw;
+    }
+
+    .church{
+        position: absolute;
+        height: 80vw;
+        width: 100vw;
+        object-fit: cover;
+        top: 520vw;
+        left: 0vw;
+    }
+
+    .Section3Line{
+        top: 410vw;
+        display: none;
+    }
+
+    #quotes {
+        position: absolute;
+        top: 380vw;
+        left: 25vw;
+        font-family:Georgia, 'Times New Roman', Times, serif;
+    }
+
+    .RQuotes{
+        position: absolute;
+        font-size: 9vw;
+        top: 12vw;
+        left: -15vw;
+        font-family:Georgia, 'Times New Roman', Times, serif;
+    }
+
+    .container{
+        top: 400vw;
+        width: 100vw;
+        left: 0vw;
+    }
+
+    .text-area {
+        text-align: center;
+        font-size: 20px;
+        color: #d3d3d3;
+        line-height: 1.5;
+        font-family:Georgia, 'Times New Roman', Times, serif;
+    }
+
+    .main-content .writer {
+        text-transform: uppercase;
+        letter-spacing: 5px;
+        color: red;
+        text-align: center;
+        margin-top: 20px;
+        font-size: 18px;
+        font-family:Georgia, 'Times New Roman', Times, serif;
+        
+    }
+
+    #feast{
+        position: absolute;
+        top: 620vw;
+        left: 12vw;
+        position: absolute;
+        color: whitesmoke;
+        font-family:Georgia, 'Times New Roman', Times, serif;
+        letter-spacing: 3px;
+        font-size: 200%;
+        filter: drop-shadow(4px 4px 4px rgba(0, 0, 0, 0.536));
+        white-space: nowrap;
+        z-index: 1;
+        font-size: 7vw;
+    }
+
+    #test{
+        left: 30vw;
+        width: 40vw;
+        top: 650vw;
+        font-size: 10vw;
+        font-family:Georgia, 'Times New Roman', Times, serif;
+    }
+
+    .Eucharist{
+        height: 100vw;
+        width: 100vw;
+        left: 0vw;
+        top: 720vw;
+        object-fit: cover;
+    }
+
+    .DateButton{
+        left: 60vw;
+        width: 30vw;
+        height: 10vw;
+        font-size: 5vw;
+        top: 648vw;
+        font-family:Georgia, 'Times New Roman', Times, serif;
+    }
+
+    p{
+        font-size: 8vw;
+        left: 50vw;
+        top: 685vw;
+        font-family:Georgia, 'Times New Roman', Times, serif;
+    }
+
+    .Section5Line{
+        top: 665vw;
+        display: none;
+    }
+
+    .Section4Line{
+        top: 900vw;
+        display: none;
+    }
+
+    #MonthNov{
+        font-size: 5vw;
+        text-align: center;
+        left: 10vw;
+        top: 840vw;
+        font-family:Georgia, 'Times New Roman', Times, serif;
+    }
+
+    .firstDotButton{
+        left: 37vw;
+        top: 910vw;
+    }
+    .secondDotButton{
+        left: 47vw;
+        top: 910vw;
+    }
+    .thirdDotButton{
+        left: 57vw;
+        top: 910vw;
+    }
+
+    .novena1Pic{
+        top: 820vw;
+        width: 100%;
+        height: 260vw;
+        left: 0vw;
+        object-fit: cover;
+        filter: brightness(0.7);
+    }
+
+    .Novena1{
+        left: 10vw;
+        text-align: center;
+        font-size: 6vw;
+        top: 860vw;
+        font-family:Georgia, 'Times New Roman', Times, serif;
+    }
+    .Novena1A{
+        align-items: center;
+        font-size: 9vw;
+        left: 32%;
+        top: 860vw;
+        font-family:Georgia, 'Times New Roman', Times, serif;
+    }
+
+    .Novena1sub{
+        font-size: 4vw;
+        left: 17vw;
+        text-align: center;
+        top: 885vw;
+        font-family:Georgia, 'Times New Roman', Times, serif;
+    }
+    .Novena1subA{
+        font-size: 130%;
+        left: 7%;
+        top: 880vw;
+        width: 85%;
+        height: 120vw;
+        font-family:Georgia, 'Times New Roman', Times, serif;
+    }
+
+    .Novena1Button{
+        top: 930vw;
+        width: 20%;
+        height: 6%;
+        left: 40vw;
+        font-size: 5vw;
+        font-family:Georgia, 'Times New Roman', Times, serif;
+    }
+
+    .novena2Pic{
+        top: 820vw;
+        width: 100%;
+        height: 260vw;
+        left: 0vw;
+        object-fit: cover;
+        filter: brightness(0.7);
+    }
+
+    .Novena2{
+        left: 7vw;
+        text-align: center;
+        font-size: 5vw;
+        top: 860vw;
+        font-family:Georgia, 'Times New Roman', Times, serif;
+    }
+    .Novena2A{
+        align-items: center;
+        font-size: 9vw;
+        left: 34vw;
+        top: 860vw;
+        font-family:Georgia, 'Times New Roman', Times, serif;
+    }
+
+    .Novena2sub{
+        font-size: 4vw;
+        left: 33vw;
+        text-align: center;
+        top: 885vw;
+        font-family:Georgia, 'Times New Roman', Times, serif;
+    }
+    .Novena2subA{
+        font-size: 130%;
+        left: 7%;
+        top: 880vw;
+        width: 85%;
+        height: 120vw;
+        font-family:Georgia, 'Times New Roman', Times, serif;
+    }
+
+    .Novena2Button{
+        top: 930vw;
+        width: 20%;
+        height: 6%;
+        left: 40vw;
+        font-size: 5vw;
+        font-family:Georgia, 'Times New Roman', Times, serif;
+    }
+
+    .novena3Pic{
+        top: 820vw;
+        width: 100%;
+        height: 260vw;
+        left: 0vw;
+        object-fit: cover;
+        filter: brightness(0.7);
+    }
+
+    .Novena3{
+        left: 7vw;
+        text-align: center;
+        font-size: 5vw;
+        top: 860vw;
+        font-family:Georgia, 'Times New Roman', Times, serif;
+    }
+    .Novena3A{
+        align-items: center;
+        font-size: 9vw;
+        left: 10vw;
+        top: 860vw;
+        font-family:Georgia, 'Times New Roman', Times, serif;
+    }
+
+    .Novena3sub{
+        font-size: 4vw;
+        left: 15vw;
+        text-align: center;
+        top: 885vw;
+        font-family:Georgia, 'Times New Roman', Times, serif;
+    }
+    .Novena3subA{
+        font-size: 130%;
+        left: 7%;
+        top: 880vw;
+        width: 85%;
+        height: 120vw;
+        font-family:Georgia, 'Times New Roman', Times, serif;
+    }
+
+    .Novena3Button{
+        top: 930vw;
+        width: 20%;
+        height: 6%;
+        left: 40vw;
+        font-size: 5vw;
+        font-family:Georgia, 'Times New Roman', Times, serif;
+    }
+
+    .Roses{
+        top: 830vw;
+        left: 1vw;
+    }
+
+    .Roses2{
+        top: 830vw;
+        left: 15vw;
+    }
+
+    .Roses3{
+        top: 830vw;
+        left: 30vw;
+    }
+
+    .Roses4{
+        top: 830vw;
+        left: 50vw;
+    }
+
+    .Roses5{
+        top: 830vw;
+        left: 70vw;
+    }
+
+    .Section6Line{
+        position: absolute;
+        width: 85%;
+        height: 1px;
+        top: 1161vw;
+        left: 8%;
+        background-color: rgb(80, 80, 80);
+        z-index: 1;
+        display: none;
+    }
+
+    #back{
+        left: 80vw;
+        top: 250vw;
+    }
+
+    .travel3{
+        left: 80.5vw;
+        top: 155vw;
+        width: 40px;
+        height: 40px;
+    }
+
+    .arrow{
+        left: 82.5vw;
+        top: 158vw;
+        width: 25px;
+        height: 25px;
+    }
+
+    .travel{
+        display: none;
+    }
+
+    .travel2{
+        display: none;
+    }
+
+    .travel4{
+        display: none;
+    }
+
+    .travel5{
+        display: none;
+    }
+
+    /* dropdown Button */
+ .dropbtn {
+    background-color: #1c1c1c;
+    color: white;
+    padding: 22px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  /* dropdown button on hover & focus */
+  .dropbtn:hover, .dropbtn:focus {
+    background-color: #ffffff;
+  }
+  
+  /* The container <div> - needed to position the dropdown content */
+  .dropdown{
+    position: absolute;
+    z-index: 2;
+    left: 87%;
+    top: 2%;
+    display: flex;
+    background: transparent;
+  }
+
+
+
+  .line1{
+    position: absolute;
+    background-color: white;
+    width: 20px;
+    height: 3px;
+    z-index: 2;
+    top: 14px;
+    left: 28%;
+    border-radius: 20%;
+  }
+
+  .line2{
+    position: absolute;
+    background-color: white;
+    width: 20px;
+    height: 3px;
+    z-index: 2;
+    top: 20px;
+    left: 28%;
+    border-radius: 20%;
+  }
+
+  .line3{
+    position: absolute;
+    background-color: white;
+    width: 20px;
+    height: 3px;
+    z-index: 2;
+    top: 26px;
+    left: 28%;
+    border-radius: 20%;
+  }
+
+  
+  /* dropdown Content (Hidden by Default) */
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+    left: -264%;
+  }
+  
+  /* Links inside the dropdown */
+  .dropdown-content a {
+    color: black;
+    padding: 10px 10px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  /* Change color of dropdown links on hover */
+  .dropdown-content a:hover {background-color: #ddd}
+  
+  /* Show the dropdown menu (use JS to add this class to the .dropdown-content container when the user clicks on the dropdown button) */
+  .show {display:block;}
+
+}
