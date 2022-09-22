@@ -290,13 +290,13 @@ body::-webkit-scrollbar-thumb{
 .SubV {
     position: absolute;
     top: 135%;
-    left: 63%;
+    left: 58%;
     color: whitesmoke;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     letter-spacing: 3px;
-    font-size: 150%;
+    font-size: 130%;
     filter: drop-shadow(4px 4px 4px rgba(0, 0, 0, 0.536));
-    width: 30%;
+    width: 42%;
     text-align: center;
     line-height: 60px;
     z-index: 1;
@@ -304,7 +304,7 @@ body::-webkit-scrollbar-thumb{
 
 textarea{
     position: absolute;
-    top: 175%;
+    top: 180%;
     left: 64%;
     width: 30%;
     height: 5%;
@@ -1178,11 +1178,11 @@ p{
     }
 
     .SubV{
-        font-size: 5vw;
+        font-size: 3.5vw;
         top: 210vw;
         left: 10vw;
         width: 80vw;
-        line-height: 40px;
+        line-height: 30px;
         font-family:Georgia, 'Times New Roman', Times, serif;
     }
 
