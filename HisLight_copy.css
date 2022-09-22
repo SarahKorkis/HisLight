@@ -432,7 +432,7 @@ textarea::placeholder{
 .main-content .writer {
     text-transform: uppercase;
 	letter-spacing: 5px;
-	color: red;
+	color: whitesmoke;
 	text-align: center;
 	margin-top: 20px;
 	font-size: 20px;
