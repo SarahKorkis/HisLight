@@ -1096,6 +1096,33 @@ p{
         font-family:Georgia, 'Times New Roman', Times, serif;
     }
 
+    .verseBox{
+        position: absolute;
+        background-color: #582b2b;
+        height: 150vw;
+        width: 100vw;
+        top: 175vw;
+        z-index: 0;
+    }
+
+    .saintBox{
+        position: absolute;
+        background-color: #451919;
+        height: 160vw;
+        width: 100vw;
+        top: 365vw;
+        z-index: 0;
+    }
+
+    .feastBox{
+        position: absolute;
+        background-color: #350f0f;
+        height: 272vw;
+        width: 100vw;
+        top: 550vw;
+        z-index: 0;
+    }
+
     .Title{
         text-align: center;
         font-size: 15vw;
@@ -1306,6 +1333,8 @@ p{
         left: 0vw;
         object-fit: cover;
         filter: brightness(0.7);
+        position: absolute;
+        z-index: 0;
     }
 
     .Novena1{
@@ -1355,6 +1384,8 @@ p{
         left: 0vw;
         object-fit: cover;
         filter: brightness(0.7);
+        position: absolute;
+        z-index: 0;
     }
 
     .Novena2{
@@ -1404,6 +1435,8 @@ p{
         left: 0vw;
         object-fit: cover;
         filter: brightness(0.7);
+        position: absolute;
+        z-index: 0;
     }
 
     .Novena3{
