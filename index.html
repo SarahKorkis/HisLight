@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>HisLight</title>
-    <link rel="stylesheet" href="HisLight.css">
+    <link rel="stylesheet" href="HisLight_copy.css">
 </head>
 <link rel="shortcut icon" type="image/jpg" href="./icons8-light-on-64.png"/>
 <body>
@@ -27,7 +27,7 @@
   </div>
 
     <a href="#verse" class="travel">Daily Verse</a>
-    <a href="#quotes" class="travel2">Random Quote</a>
+    <a href="#quotes" class="travel2">Saint Quotes</a>
     <a href="#back" class="travel3">
       <div class="arrow"></div>
     </a>
@@ -112,10 +112,25 @@
     <h1 id="Novena2sub" class="Novena2sub">Feast Day<br> September 15</h1>  
     <h1 id="Novena2subA" class="Novena2subA">In the name of the Father, and of the Son, and of the Holy Spirit. Amen. O sorrowful Mother, I turn to you in total trust. <br> You suffered the sharpest pains in life, watching your Son die upon the Cross, and yet you remained by Him to the end. <br> Look with favor upon me, a poor sinner, and obtain for me from your Son all the graces I need to endure the sufferings God allows me to face. <br> Daily Prayer - <br> On the Cross her Son was dying. Mary stood beneath Him crying, Sharing in His saving cross. As He hangs, her soul is grieving, and a sword her heart is cleaving and she weeps the bitter loss. O Mother of Sorrows, through thy First Sorrow, the Prophecy of Holy Simeon, intercede for me with the Sacred Heart of Jesus, and grant me the favor I implore <br> (mention your request here…) <br> Say 1: Our Father…  Say 1: Hail Mary… Say 1: Glory Be…</h1>  
     <button onclick="N2function()" id="N2Button" class="Novena2Button">Pray</button> 
+    
+    
     <div class="NovenaSection">
       <section id="MonthNov">
           <h1 class="MonthlyNovenas">Featured Novena's</h1>
       </section>
+  </div>
+
+  <img id="novena3Pic" class="novena3Pic" src="Therese.jpg" alt="image">
+  <h1 id="Novena3" class="Novena3">St. Therese Novena <br> September 23 - October 1 </h1>
+  <h1 id="Novena3A" class="Novena3A">Day 1</h1>
+  <h1 id="Novena3sub" class="Novena3sub">Feast Day<br> October 1</h1> 
+  <h1 id="Novena3subA" class="Novena2subA">In the name of the Father, and of the Son, and of the Holy Spirit. Amen. O sorrowful Mother, I turn to you in total trust. <br> You suffered the sharpest pains in life, watching your Son die upon the Cross, and yet you remained by Him to the end. <br> Look with favor upon me, a poor sinner, and obtain for me from your Son all the graces I need to endure the sufferings God allows me to face. <br> Daily Prayer - <br> On the Cross her Son was dying. Mary stood beneath Him crying, Sharing in His saving cross. As He hangs, her soul is grieving, and a sword her heart is cleaving and she weeps the bitter loss. O Mother of Sorrows, through thy First Sorrow, the Prophecy of Holy Simeon, intercede for me with the Sacred Heart of Jesus, and grant me the favor I implore <br> (mention your request here…) <br> Say 1: Our Father…  Say 1: Hail Mary… Say 1: Glory Be…</h1>  
+  <button onclick="N3function()" id="N3Button" class="Novena3Button">Pray</button> 
+
+  <div id="scrollButtons" class="scrollButtons">
+    <button onclick="switchToN1()" id="firstDotButton" class="firstDotButton"></button>
+    <button onclick="switchToN2()" id="secondDotButton" class="secondDotButton"></button>
+    <button onclick="switchToN3()" id="thirdDotButton" class="thirdDotButton"></button>
   </div>
 
   <!--
@@ -130,6 +145,23 @@
 <script src="dates.js"></script>
 <script src="HisLight.js"></script>
 <script src="novenaDates.js"></script>
+<script src="3Dots.js"></script>
+
+
+<img id="Roses" class="Roses" src="Rose.png" alt="Roses">
+<img id="Roses2" class="Roses2" src="Rose.png" alt="Roses">
+<img id="Roses3" class="Roses3" src="Rose.png" alt="Roses">
+<img id="Roses4" class="Roses4" src="Rose.png" alt="Roses">
+<img id="Roses5" class="Roses5" src="Rose.png" alt="Roses">
+<h1 class="logo">SK</h1>
+<div class="navBar"></div>
+<div class="verseBox"></div>
+<div class="saintBox"></div>
+<div class="feastBox"></div>
+<!-- <button href="#verse" class="heroButtonVerse">Daily Verse</button> -->
+
+
+
 
 </body>
 </html>
