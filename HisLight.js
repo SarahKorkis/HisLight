@@ -224,6 +224,42 @@ function N1function() {
         scrollButtons.style.display = "none";
       }
     }
+
+    function N3function() {
+      var Novena3 = document.getElementById("Novena3");
+      var Novena3A = document.getElementById("Novena3A");
+      var N3Button = document.getElementById("N3Button");
+      var Novena3sub = document.getElementById("Novena3sub");
+      var Novena3subA = document.getElementById("Novena3subA");
+      var scrollButtons = document.getElementById("scrollButtons");
+  
+      const novena3Day = new Date().toLocaleString().split(',')[0]
+  
+      if (novena3Day == '9/13/2022'){
+        Novena3A.innerHTML = 'Day 8';
+      }
+      else if (novena3Day == '9/14/2022'){
+        Novena3A.innerHTML = 'Day 9';
+      }
+    
+      if (Novena3.style.display === "none") {
+        Novena3.style.display = "inline";
+        Novena3sub.style.display = "inline";
+        N3Button.innerHTML = "Pray";
+        N2Button.style.top = "930vw";
+        Novena3A.style.display = "none";
+        Novena3subA.style.display = "none";
+        scrollButtons.style.display = "inline";
+      } else {
+        Novena3.style.display = "none";
+        Novena3sub.style.display = "none";
+        N3Button.innerHTML = "Back";
+        N2Button.style.top = "1010vw";
+        Novena3A.style.display = "inline";
+        Novena3subA.style.display = "inline";
+        scrollButtons.style.display = "none";
+      }
+    }
   }
 
 
