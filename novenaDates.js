@@ -57,6 +57,14 @@ window.onload = function(){
         Novena1subA.innerHTML = ' In the name of the Father, and of the Son, and of the Holy Spirit. Amen. O Jesus, who filled Saint Faustina with profound veneration for Your boundless Mercy, deign, if it be Your holy will, to grant me, through her intercession, the grace for which I fervently pray… <br> (Mention your request here…) <br> My sins render me unworthy of Your Mercy, but be mindful of Saint Faustina spirit of sacrifice and self-denial, and reward her virtue by granting the petition which, with childlike trust, I present to You through her intercession. Saint Faustina, pray for us. <br> Say 1: Our Father…  Say 1: Hail Mary… Say 1: Glory Be…'
         novena1Pic.src = './Fpic3.jpg';
     }
+
+    function LadyOfRosary(){
+        Novena2.innerHTML = 'Our Lady Of The Rosary <br> September 29 - October 7'
+        Novena2A.innerHTML = 'Starts the 29th!'
+        Novena2sub.innerHTML = 'Feast Day <br> October 7'
+        Novena2subA.innerHTML = 'In the name of the Father, and of the Son, and of the Holy Spirit. Amen. Queen of the Most Holy Rosary, in these times of such brazen impiety, show your power with the signs of your former victories. Look with mercy on the Church of your Son, on His Vicar on earth, and on all the clergy and laity, who are sorely oppressed in this mighty conflict. Powerful vanquisher of all heresies, hasten the hour of mercy even though the hour of God’s justice is every day provoked by the countless sins of men. As I kneel before you in prayer, obtain for me my requests <br> (Mention your request here…) <br> Queen of the Most Holy Rosary, pray for us. <br> Say 1: Our Father…  Say 1: Hail Mary… Say 1: Glory Be…'
+        novena2Pic.src = './LadyOfRosary.jpg';
+    }
     
     //MARY UNDOER OF KNOTS
     if (novenaDay == '9/15/2022') {
@@ -251,5 +259,39 @@ window.onload = function(){
     else if (novenaDay == '10/5/2022') {
         faustina();
         Novena1A.innerHTML = 'Day 9';
+    }
+
+    //Our Lady Rosary
+    if (novenaDay == '9/30/2022'){
+        LadyOfRosary()
+        Novena2A.innerHTML = 'Day 2'
+    }
+    else if (novenaDay == '10/1/2022'){
+        LadyOfRosary()
+        Novena2A.innerHTML = 'Day 3'
+    }
+    else if (novenaDay == '10/2/2022'){
+        LadyOfRosary()
+        Novena2A.innerHTML = 'Day 4'
+    }
+    else if (novenaDay == '10/3/2022'){
+        LadyOfRosary()
+        Novena2A.innerHTML = 'Day 5'
+    }
+    else if (novenaDay == '10/4/2022'){
+        LadyOfRosary()
+        Novena2A.innerHTML = 'Day 6'
+    }
+    else if (novenaDay == '10/5/2022'){
+        LadyOfRosary()
+        Novena2A.innerHTML = 'Day 7';
+    }
+    else if (novenaDay == '10/6/2022'){
+        LadyOfRosary()
+        Novena2A.innerHTML = 'Day 8';
+    }
+    else if (novenaDay == '10/7/2022'){
+        LadyOfRosary()
+        Novena2A.innerHTML = 'Day 9';
     }
 }

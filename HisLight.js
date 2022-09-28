@@ -124,13 +124,14 @@ function N1function() {
     }
   }
 
-  if (new Date().getHours() = 12){
-    let random = Math.floor(Math.random() * verses.length);
-    var SubV = document.getElementByClassName("SubV");
-    
-    
+
+  var theHours = new Date().getHours();
+  let random = Math.floor(Math.random() * verses.length);
+  var SubV = document.getElementByClassName("SubV");
+  
+  if (theHours = 11){
     SubV.innerHTML = verses[random].verse;
-  }
+  };
 
   const verses = [{
       verse: "YO"},
