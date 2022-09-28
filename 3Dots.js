@@ -35,7 +35,7 @@ function switchToN1() {
       Novena1sub.style.display = "inline";
       N1Button.style.display = "inline";
       novena1Pic.style.display = "inline";
-      novena1Pic.src = './MaryUndoer.png';
+      novena1Pic.style.display = "inline";
 
       Novena2.style.display = "none";
       Novena2sub.style.display = "none";
@@ -97,7 +97,7 @@ function switchToN1() {
         Novena2sub.style.display = "inline";
         N2Button.style.display = "inline";
         novena2Pic.style.display = "inline";
-        novena2Pic.src = './St. Michael Archangel.jpg';
+        novena2Pic.style.display = "inline";
 
         Novena1.style.display = "none";
         Novena1sub.style.display = "none";
@@ -158,7 +158,7 @@ function switchToN1() {
             Novena3sub.style.display = "inline";
             N3Button.style.display = "inline";
             novena3Pic.style.display = "inline";
-            novena3Pic.src = './Therese.jpg';
+            novena3Pic.style.display = "inline";
 
             Novena1.style.display = "none";
             Novena1sub.style.display = "none";

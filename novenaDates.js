@@ -40,15 +40,22 @@ window.onload = function(){
         Novena2sub.innerHTML = 'Feast Day <br> September 29'
         Novena2subA.innerHTML = 'Let us begin, In the name of the Father, and of the Son, and of the Holy Spirit. Amen. O glorious prince Saint Michael, chief and commander of the heavenly hosts, guardian of souls, vanquisher of rebel spirits, servant in the house of the Divine King and our admirable conductor, you who shine with excellence and superhuman virtue deliver us from all evil, who turn to you with confidence and enable us by your gracious protection to serve God more and more faithfully every day. Pray for us, O glorious Saint Michael, Prince of the Church of Jesus Christ, that we may be made worthy of His promises. <br> (Mention your request here…) <br> Almighty and Everlasting God, Who, by a prodigy of goodness and a merciful desire for the salvation of all men, has appointed the most glorious Archangel Saint Michael Prince of Your Church, make us worthy, we ask You, to be delivered from all our enemies, that none of them may harass us at the hour of death, but that we may be conducted by him into Your Presence. This we ask through the merits of Jesus Christ Our Lord. Amen. Saint Michael the Archangel, defend us in battle, be our protection against the wickedness and snares of the devil. May God rebuke him we humbly pray; and do thou, O Prince of the Heavenly host, by the power of God, cast into Hell Satan and all evil spirits who prowl about the world seeking the ruin of souls. Amen. Say 1: Our Father… Say 1: Hail Mary… Say 1: Glory Be…'
         novena2Pic.src = './St. Michael Archangel.jpg';
-
     }
 
     function therese(){
         Novena3.innerHTML = 'St. Therese <br> September 23 - October 1'
-        Novena3A.innerHTML = 'Starts the 23th!'
+        Novena3A.innerHTML = 'Starts the 23rd!'
         Novena3sub.innerHTML = 'Feast Day <br> October 1'
         Novena3subA.innerHTML = ' In the name of the Father, and of the Son, and of the Holy Spirit. Amen. O Little Therese of the Child Jesus, please pick for me a rose from the heavenly gardens and send it to me as a message of love. O Little Flower of Jesus, ask God to grant the favors I now place with confidence in your hands <br> (Mention your request here…) <br> St. Therese, help me to always believe as you did in God’s great love for me, so that I might imitate your “Little Way” each day. Amen <br> Say 1: Our Father… Say 1: Hail Mary…Say 1: Glory Be…'
         novena3Pic.src = './Therese.jpg';
+    }
+
+    function faustina(){
+        Novena1.innerHTML = 'St. Faustina <br> September 27 - October 5'
+        Novena1A.innerHTML = 'Starts the 27th!'
+        Novena1sub.innerHTML = 'Feast Day <br> October 5'
+        Novena1subA.innerHTML = ' In the name of the Father, and of the Son, and of the Holy Spirit. Amen. O Jesus, who filled Saint Faustina with profound veneration for Your boundless Mercy, deign, if it be Your holy will, to grant me, through her intercession, the grace for which I fervently pray… <br> (Mention your request here…) <br> My sins render me unworthy of Your Mercy, but be mindful of Saint Faustina spirit of sacrifice and self-denial, and reward her virtue by granting the petition which, with childlike trust, I present to You through her intercession. Saint Faustina, pray for us. <br> Say 1: Our Father…  Say 1: Hail Mary… Say 1: Glory Be…'
+        novena1Pic.src = './Fpic3.jpg';
     }
     
     //MARY UNDOER OF KNOTS
@@ -215,5 +222,34 @@ window.onload = function(){
         therese();
         Novena3A.innerHTML = 'Day 9';
     }
-    
+
+    //Faustina
+    if (novenaDay == '9/29/2022') {
+        faustina();
+        Novena1A.innerHTML = 'Day 3';
+    }
+    else if (novenaDay == '9/30/2022') {
+        faustina();
+        Novena1A.innerHTML = 'Day 4';
+    }
+    else if (novenaDay == '10/1/2022') {
+        faustina();
+        Novena1A.innerHTML = 'Day 5';
+    }
+    else if (novenaDay == '10/2/2022') {
+        faustina();
+        Novena1A.innerHTML = 'Day 6';
+    }
+    else if (novenaDay == '10/3/2022') {
+        faustina();
+        Novena1A.innerHTML = 'Day 7';
+    }
+    else if (novenaDay == '10/4/2022') {
+        faustina();
+        Novena1A.innerHTML = 'Day 8';
+    }
+    else if (novenaDay == '10/5/2022') {
+        faustina();
+        Novena1A.innerHTML = 'Day 9';
+    }
 }
