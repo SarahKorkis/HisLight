@@ -124,6 +124,25 @@ function N1function() {
     }
   }
 
+  if (new Date().getHours() = 12){
+    let random = Math.floor(Math.random() * verses.length);
+    var SubV = document.getElementByClassName("SubV");
+    
+    
+    SubV.innerHTML = verses[random].verse;
+  }
+
+  const verses = [{
+      verse: "YO"},
+    {
+      verse: "HEYYY"
+    },{
+      verse: "LOL"
+    },]
+
+
+
+
 
 /*    if (Novena2.style.display === "inline") {
       Novena2.style.display = "inline";
