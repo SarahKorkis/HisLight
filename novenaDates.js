@@ -65,6 +65,16 @@ window.onload = function(){
         Novena2subA.innerHTML = 'In the name of the Father, and of the Son, and of the Holy Spirit. Amen. Queen of the Most Holy Rosary, in these times of such brazen impiety, show your power with the signs of your former victories. Look with mercy on the Church of your Son, on His Vicar on earth, and on all the clergy and laity, who are sorely oppressed in this mighty conflict. Powerful vanquisher of all heresies, hasten the hour of mercy even though the hour of God’s justice is every day provoked by the countless sins of men. As I kneel before you in prayer, obtain for me my requests <br> (Mention your request here…) <br> Queen of the Most Holy Rosary, pray for us. <br> Say 1: Our Father…  Say 1: Hail Mary… Say 1: Glory Be…'
         novena2Pic.src = './LadyOfRosary.jpg';
     }
+
+    function teresaOfAvila(){
+        Novena3.innerHTML = 'St. Teresa Of Avila <br> October 7 - 15'
+        Novena3A.innerHTML = 'Starts the 7th!'
+        Novena3sub.innerHTML = 'Feast Day <br> October 15'
+        Novena3subA.innerHTML = 'In the name of the Father, and of the Son, and of the Holy Spirit. Amen. O Saint Teresa, seraphic Virgin, beloved spouse of thy crucified Lord, thou who on earth didst burn with a love so intense toward thy God and my God, and now dost glow with a brighter and purer flame in paradise: obtain for me also, I beseech thee, a spark of that same holy fire which shall cause me to forget the world, all things created, and even myself; for thou didst ever avidly desire to see Him loved by all men.  Grant that my every thought and desire and affection may be continually directed to doing the will of God, the supreme Good, whether I am in joy or in pain, for He is worthy to be loved and obeyed forever. Obtain for me this grace, thou who art so powerful with God; may I be all on fire, like thee, with the holy love of God. Amen. <br> (Mention your request here…) <br> Let nothing disturb you, Let nothing frighten you, All things are passing away: God never changes. Patience obtains all things Whoever has God lacks nothing; God alone suffices. <br> Say 1: Our Father…  Say 1: Hail Mary… Say 1: Glory Be…'
+        novena3Pic.src = './St. Teresa Of Avila.jpg.jpg';
+    }
+
+
     
     //MARY UNDOER OF KNOTS
     if (novenaDay == '9/15/2022') {
@@ -293,5 +303,63 @@ window.onload = function(){
     else if (novenaDay == '10/7/2022'){
         LadyOfRosary()
         Novena2A.innerHTML = 'Day 9';
+    }
+
+    //Teresa Of Avila
+    if (novenaDay == '10/2/2022') {
+        teresaOfAvila()
+        Novena3A.innerHTML = 'Starts the 7th';
+    }
+    else if (novenaDay == '10/3/2022') {
+        teresaOfAvila()
+        Novena3A.innerHTML = 'Starts the 7th';
+    }
+    else if (novenaDay == '10/4/2022') {
+        teresaOfAvila()
+        Novena3A.innerHTML = 'Starts the 7th';
+    }
+    else if (novenaDay == '10/5/2022') {
+        teresaOfAvila()
+        Novena3A.innerHTML = 'Starts the 7th';
+    }
+    else if (novenaDay == '10/6/2022') {
+        teresaOfAvila()
+        Novena3A.innerHTML = 'Starts the 7th';
+    }
+    else if (novenaDay == '10/7/2022') {
+        teresaOfAvila()
+        Novena3A.innerHTML = 'Day 1';
+    }
+    else if (novenaDay == '10/8/2022') {
+        teresaOfAvila()
+        Novena3A.innerHTML = 'Day 2';
+    }
+    else if (novenaDay == '10/9/2022') {
+        teresaOfAvila()
+        Novena3A.innerHTML = 'Day 3';
+    }
+    else if (novenaDay == '10/10/2022') {
+        teresaOfAvila()
+        Novena3A.innerHTML = 'Day 4';
+    }
+    else if (novenaDay == '10/11/2022') {
+        teresaOfAvila()
+        Novena3A.innerHTML = 'Day 5';
+    }
+    else if (novenaDay == '10/12/2022') {
+        teresaOfAvila()
+        Novena3A.innerHTML = 'Day 6';
+    }
+    else if (novenaDay == '10/13/2022') {
+        teresaOfAvila()
+        Novena3A.innerHTML = 'Day 7';
+    }
+    else if (novenaDay == '10/14/2022') {
+        teresaOfAvila()
+        Novena3A.innerHTML = 'Day 8';
+    }
+    else if (novenaDay == '10/15/2022') {
+        teresaOfAvila()
+        Novena3A.innerHTML = 'Day 9';
     }
 }
