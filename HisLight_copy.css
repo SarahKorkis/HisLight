@@ -1240,7 +1240,7 @@ p{
     .main-content .writer {
         text-transform: uppercase;
         letter-spacing: 5px;
-        color: whitesmoke;
+	color: rgb(171, 171, 171);
         text-align: center;
         margin-top: 20px;
         font-size: 18px;
