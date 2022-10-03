@@ -175,9 +175,10 @@ function switchToN1() {
             secondScrollDot.style.opacity = "50%";
             thirdScrollDot.style.opacity = "100%";
 
-            roses.style.animation = 'roses 7s ease-in-out 7s infinite';
-            roses2.style.animation = 'roses 10s ease-in-out 5s infinite';
-            roses3.style.animation = 'roses 5s ease-in-out 6s infinite';
-            roses4.style.animation = 'roses 10s ease-in-out 1s infinite';
-            roses5.style.animation = 'roses 8s ease-in-out 3s infinite';
+            
+         //   roses.style.animation = 'roses 7s ease-in-out 7s infinite';
+         //   roses2.style.animation = 'roses 10s ease-in-out 5s infinite';
+         //   roses3.style.animation = 'roses 5s ease-in-out 6s infinite';
+         //   roses4.style.animation = 'roses 10s ease-in-out 1s infinite';
+         //   roses5.style.animation = 'roses 8s ease-in-out 3s infinite';
  }
