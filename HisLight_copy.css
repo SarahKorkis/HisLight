@@ -1450,13 +1450,14 @@ p{
         text-align: center;
         font-size: 5.5vw;
         top: 860vw;
+        left: 17vw;
         font-family:Georgia, 'Times New Roman', Times, serif;
         display: none;
     }
     .Novena3A{
         align-items: center;
         font-size: 9vw;
-        left: 35vw;
+        left: 17vw;
         top: 860vw;
         font-family:Georgia, 'Times New Roman', Times, serif;
     }
