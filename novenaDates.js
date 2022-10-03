@@ -71,7 +71,7 @@ window.onload = function(){
         Novena3A.innerHTML = 'Starts the 7th!'
         Novena3sub.innerHTML = 'Feast Day <br> October 15'
         Novena3subA.innerHTML = 'In the name of the Father, and of the Son, and of the Holy Spirit. Amen. O Saint Teresa, seraphic Virgin, beloved spouse of thy crucified Lord, thou who on earth didst burn with a love so intense toward thy God and my God, and now dost glow with a brighter and purer flame in paradise: obtain for me also, I beseech thee, a spark of that same holy fire which shall cause me to forget the world, all things created, and even myself; for thou didst ever avidly desire to see Him loved by all men.  Grant that my every thought and desire and affection may be continually directed to doing the will of God, the supreme Good, whether I am in joy or in pain, for He is worthy to be loved and obeyed forever. Obtain for me this grace, thou who art so powerful with God; may I be all on fire, like thee, with the holy love of God. Amen. <br> (Mention your request here…) <br> Let nothing disturb you, Let nothing frighten you, All things are passing away: God never changes. Patience obtains all things Whoever has God lacks nothing; God alone suffices. <br> Say 1: Our Father…  Say 1: Hail Mary… Say 1: Glory Be…'
-        novena3Pic.src = './St. Teresa Of Avila.jpg.jpg';
+        novena3Pic.src = './St. Teresa Of Avila.jpg';
     }
 
 
