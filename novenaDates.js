@@ -77,13 +77,13 @@ window.onload = function(){
     function johnPaulII(){
         Novena1.innerHTML = 'St. John Paul II <br> October 14 - 22'
         Novena1A.innerHTML = 'Starts the 14th!'
-        Novena1sub.innerHTML = 'Feast Day <br> October 14'
+        Novena1sub.innerHTML = 'Feast Day <br> October 22'
         Novena1subA.innerHTML = ' In the name of the Father, and of the Son, and of the Holy Spirit. Amen. Saint John Paul II, you taught the world through word and example that Jesus is the face of the Father’s merciful love. You called upon the world to “be not afraid” and “open wide the doors for Christ.” Now, through your powerful intercession, show us that the love of God is living and active, stronger than all the forces of the world, the flesh, and the devil.  Through your prayers, help us in every need and deliver us from every evil. May we always know by experience the love of God the Father, mediated through Jesus Christ by the power of the Holy Spirit. “God, merciful Father, in your Son, Jesus Christ, you have revealed your love and poured it out upon us in the Holy Spirit, the Comforter. We entrust to you today the destiny of the world and of every man and woman. Bend down to us sinners, heal our weakness, conquer all evil, and grant that all the peoples of the earth may experience your mercy.  In You, the Triune God, may they ever find the source of hope. Eternal Father, by the Passion and Resurrection of your Son, have mercy on us and upon the whole world!” <br> (Mention your request here…) <br> Amen <br> Say 1: Our Father…  Say 1: Hail Mary… Say 1: Glory Be…'
         novena1Pic.src = './JohnPaulII.jpg';
     }
 
     function jude(){
-        Novena2.innerHTML = 'Our Lady Of The Rosary <br> October 19 - 28'
+        Novena2.innerHTML = 'St. Jude <br> October 19 - 28'
         Novena2A.innerHTML = 'Starts the 19th!'
         Novena2sub.innerHTML = 'Feast Day <br> October 28'
         Novena2subA.innerHTML = 'In the name of the Father, and of the Son, and of the Holy Spirit. Amen. Most holy Apostle, St. Jude, faithful servant and friend of Jesus, the Church honors and invokes you universally, as the patron of difficult cases, of things almost despaired of, Pray for me, I am so helpless and alone. Intercede with God for me that He bring visible and speedy help where help is almost despaired of. Come to my assistance in this great need that I may receive the consolation and help of heaven in all my necessities, tribulations, and sufferings, particularly <br> (Mention your request here…) <br> And that I may praise God with you and all the saints forever. I promise, O Blessed St. Jude, to be ever mindful of this great favor granted me by God and to always honor you as my special and powerful patron, and to gratefully encourage devotion to you. Amen <br> Say 1: Our Father… Say 1: Hail Mary… Say 1: Glory Be…'
