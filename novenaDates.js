@@ -449,91 +449,91 @@ window.onload = function(){
         Novena1A.innerHTML = 'Day 9';
     }
 
-        //St Jude
-        if (novenaDay == '10/8/2022'){
-            jude()
-            Novena2A.innerHTML = 'Starts the 20th'
-        }
-        else if (novenaDay == '10/9/2022'){
-            jude()
-            Novena2A.innerHTML = 'Starts the 20th'
-        }
-        else if (novenaDay == '10/10/2022'){
-            jude()
-            Novena2A.innerHTML = 'Starts the 20th'
-        }
-        else if (novenaDay == '10/11/2022'){
-            jude()
-            Novena2A.innerHTML = 'Starts the 20th'
-        }
-        else if (novenaDay == '10/12/2022'){
-            jude()
-            Novena2A.innerHTML = 'Starts the 20th'
-        }
-        else if (novenaDay == '10/13/2022'){
-            jude()
-            Novena2A.innerHTML = 'Starts the 20th';
-        }
-        else if (novenaDay == '10/14/2022'){
-            jude()
-            Novena2A.innerHTML = 'Starts the 20th';
-        }
-        else if (novenaDay == '10/15/2022'){
-            jude()
-            Novena2A.innerHTML = 'Starts the 20th';
-        }
-        else if (novenaDay == '10/16/2022'){
-            jude()
-            Novena2A.innerHTML = 'Starts the 20th';
-        }
-        else if (novenaDay == '10/17/2022'){
-            jude()
-            Novena2A.innerHTML = 'Starts the 20th';
-        }
-        else if (novenaDay == '10/18/2022'){
-            jude()
-            Novena2A.innerHTML = 'Starts the 20th';
-        }
-        else if (novenaDay == '10/19/2022'){
-            jude()
-            Novena2A.innerHTML = 'Starts the 20th';
-        }
-        else if (novenaDay == '10/20/2022'){
-            jude()
-            Novena2A.innerHTML = 'Day 1';
-        }
-        else if (novenaDay == '10/21/2022'){
-            jude()
-            Novena2A.innerHTML = 'Day 2';
-        }
-        else if (novenaDay == '10/22/2022'){
-            jude()
-            Novena2A.innerHTML = 'Day 2';
-        }
-        else if (novenaDay == '10/23/2022'){
-            jude()
-            Novena2A.innerHTML = 'Day 3';
-        }
-        else if (novenaDay == '10/24/2022'){
-            jude()
-            Novena2A.innerHTML = 'Day 4';
-        }
-        else if (novenaDay == '10/25/2022'){
-            jude()
-            Novena2A.innerHTML = 'Day 5';
-        }
-        else if (novenaDay == '10/26/2022'){
-            jude()
-            Novena2A.innerHTML = 'Day 6';
-        }
-        else if (novenaDay == '10/27/2022'){
-            jude()
-            Novena2A.innerHTML = 'Day 7';
-        }
-        else if (novenaDay == '10/28/2022'){
-            jude()
-            Novena2A.innerHTML = 'Day 8';
-        }
+    //St Jude
+    if (novenaDay == '10/8/2022'){
+        jude()
+        Novena2A.innerHTML = 'Starts the 20th'
+    }
+    else if (novenaDay == '10/9/2022'){
+        jude()
+        Novena2A.innerHTML = 'Starts the 20th'
+    }
+    else if (novenaDay == '10/10/2022'){
+        jude()
+        Novena2A.innerHTML = 'Starts the 20th'
+    }
+    else if (novenaDay == '10/11/2022'){
+        jude()
+        Novena2A.innerHTML = 'Starts the 20th'
+    }
+    else if (novenaDay == '10/12/2022'){
+        jude()
+        Novena2A.innerHTML = 'Starts the 20th'
+    }
+    else if (novenaDay == '10/13/2022'){
+        jude()
+        Novena2A.innerHTML = 'Starts the 20th';
+    }
+    else if (novenaDay == '10/14/2022'){
+        jude()
+        Novena2A.innerHTML = 'Starts the 20th';
+    }
+    else if (novenaDay == '10/15/2022'){
+        jude()
+        Novena2A.innerHTML = 'Starts the 20th';
+    }
+    else if (novenaDay == '10/16/2022'){
+        jude()
+        Novena2A.innerHTML = 'Starts the 20th';
+    }
+    else if (novenaDay == '10/17/2022'){
+        jude()
+        Novena2A.innerHTML = 'Starts the 20th';
+    }
+    else if (novenaDay == '10/18/2022'){
+        jude()
+        Novena2A.innerHTML = 'Starts the 20th';
+    }
+    else if (novenaDay == '10/19/2022'){
+        jude()
+        Novena2A.innerHTML = 'Starts the 20th';
+    }
+    else if (novenaDay == '10/20/2022'){
+        jude()
+        Novena2A.innerHTML = 'Day 1';
+    }
+    else if (novenaDay == '10/21/2022'){
+        jude()
+        Novena2A.innerHTML = 'Day 2';
+    }
+    else if (novenaDay == '10/22/2022'){
+        jude()
+        Novena2A.innerHTML = 'Day 2';
+    }
+    else if (novenaDay == '10/23/2022'){
+        jude()
+        Novena2A.innerHTML = 'Day 3';
+    }
+    else if (novenaDay == '10/24/2022'){
+        jude()
+        Novena2A.innerHTML = 'Day 4';
+    }
+    else if (novenaDay == '10/25/2022'){
+        jude()
+        Novena2A.innerHTML = 'Day 5';
+    }
+    else if (novenaDay == '10/26/2022'){
+        jude()
+        Novena2A.innerHTML = 'Day 6';
+    }
+    else if (novenaDay == '10/27/2022'){
+        jude()
+        Novena2A.innerHTML = 'Day 7';
+    }
+    else if (novenaDay == '10/28/2022'){
+        jude()
+        Novena2A.innerHTML = 'Day 8';
+    }
 
 }
 
