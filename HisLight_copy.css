@@ -1446,8 +1446,6 @@ p{
 
     .Novena3{
         display:flex;
-        flex-direction: column;
-        align-items: center;
         text-align: center;
         font-size: 5.5vw;
         top: 860vw;
