@@ -89,6 +89,14 @@ window.onload = function(){
         Novena2subA.innerHTML = 'In the name of the Father, and of the Son, and of the Holy Spirit. Amen. Most holy Apostle, St. Jude, faithful servant and friend of Jesus, the Church honors and invokes you universally, as the patron of difficult cases, of things almost despaired of, Pray for me, I am so helpless and alone. Intercede with God for me that He bring visible and speedy help where help is almost despaired of. Come to my assistance in this great need that I may receive the consolation and help of heaven in all my necessities, tribulations, and sufferings, particularly <br> (Mention your request here…) <br> And that I may praise God with you and all the saints forever. I promise, O Blessed St. Jude, to be ever mindful of this great favor granted me by God and to always honor you as my special and powerful patron, and to gratefully encourage devotion to you. Amen <br> Say 1: Our Father… Say 1: Hail Mary… Say 1: Glory Be…'
         novena2Pic.src = './St-Jude.jpg';
     }
+
+    function allSaints(){
+        Novena3.innerHTML = 'All Saints <br> October 24 - November 1'
+        Novena3A.innerHTML = 'Starts the 24th!'
+        Novena3sub.innerHTML = 'Feast Day <br> November 1'
+        Novena3subA.innerHTML = 'In the name of the Father, and of the Son, and of the Holy Spirit. Amen. O holy Mary, Mother of God and Mother of the Church, be my mother and guide me to a life of holiness that I may one day join you and your Son in Heaven for all eternity. Intercede on my behalf that I may be a student of your humility and purity. I ask that you place before your Son my petitions. <br> (State your intentions here) <br> Mary, conceived without sin, pray for us. Mary, Most Holy, pray for us. Mary, Most Pure, pray for us. Mary, Star of the Sea, pray for us. Mary, Queen of Heaven and Earth, pray for us. Mary, Queen of Angels and Saints, pray for us. Amen. In the name of the Father, and of the Son, and of the Holy Spirit. Amen.'
+        novena3Pic.src = './AllSaints.jpg';
+    }
     
 
     
@@ -533,6 +541,76 @@ window.onload = function(){
     else if (novenaDay == '10/28/2022'){
         jude()
         Novena2A.innerHTML = 'Day 8';
+    }
+
+    //Teresa Of Avila
+    if (novenaDay == '10/16/2022') {
+        allSaints()
+        Novena3A.innerHTML = 'Starts the 24th';
+    }
+    else if (novenaDay == '10/17/2022') {
+        allSaints()
+        Novena3A.innerHTML = 'Starts the 24th';
+    }
+    else if (novenaDay == '10/18/2022') {
+        allSaints()
+        Novena3A.innerHTML = 'Starts the 24th';
+    }
+    else if (novenaDay == '10/19/2022') {
+        allSaints()
+        Novena3A.innerHTML = 'Starts the 24th';
+    }
+    else if (novenaDay == '10/20/2022') {
+        allSaints()
+        Novena3A.innerHTML = 'Starts the 24th';
+    }
+    else if (novenaDay == '10/21/2022') {
+        allSaints()
+        Novena3A.innerHTML = 'Starts the 24th';
+    }
+    else if (novenaDay == '10/22/2022') {
+        allSaints()
+        Novena3A.innerHTML = 'Starts the 24th';
+    }
+    else if (novenaDay == '10/23/2022') {
+        allSaints()
+        Novena3A.innerHTML = 'Starts the 24th';
+    }
+    else if (novenaDay == '10/24/2022') {
+        allSaints()
+        Novena3A.innerHTML = 'Day 1';
+    }
+    else if (novenaDay == '10/25/2022') {
+        allSaints()
+        Novena3A.innerHTML = 'Day 2';
+    }
+    else if (novenaDay == '10/26/2022') {
+        allSaints()
+        Novena3A.innerHTML = 'Day 3';
+    }
+    else if (novenaDay == '10/27/2022') {
+        allSaints()
+        Novena3A.innerHTML = 'Day 4';
+    }
+    else if (novenaDay == '10/28/2022') {
+        allSaints()
+        Novena3A.innerHTML = 'Day 5';
+    }
+    else if (novenaDay == '10/29/2022') {
+        allSaints()
+        Novena3A.innerHTML = 'Day 6';
+    }
+    else if (novenaDay == '10/30/2022') {
+        allSaints()
+        Novena3A.innerHTML = 'Day 7';
+    }
+    else if (novenaDay == '10/31/2022') {
+        allSaints()
+        Novena3A.innerHTML = 'Day 8';
+    }
+    else if (novenaDay == '11/1/2022') {
+        allSaints()
+        Novena3A.innerHTML = 'Day 9';
     }
 
 }
