@@ -714,7 +714,7 @@ p{
 .Novena1 {
     position: absolute;
     top: 525vh;
-    left: 6vw;
+    left: 13vw;
     text-align: center;
     color: whitesmoke;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -729,7 +729,7 @@ p{
 .Novena1A {
     position: absolute;
     top: 521vh;
-    left: 20%;
+    left: 20vw;
     text-align: center;
     color: whitesmoke;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -819,7 +819,7 @@ p{
 .Novena2 {
     position: absolute;
     top: 525vh;
-    left: 4vw;
+    left: 12vw;
     position: absolute;
     text-align: center;
     color: whitesmoke;
@@ -841,7 +841,7 @@ p{
 .Novena2A {
     position: absolute;
     top: 521vh;
-    left: 19vw;
+    left: 18vw;
     text-align: center;
     color: whitesmoke;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -857,7 +857,7 @@ p{
 .Novena2sub {
     position: absolute;
     top: 545vh;
-    left: 19vw;
+    left: 18vw;
     text-align: center;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     color: whitesmoke;
@@ -926,7 +926,7 @@ p{
 .Novena3 {
     position: absolute;
     top: 525vh;
-    left: 11vw;
+    left: 6vw;
     text-align: center;
     color: whitesmoke;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -952,6 +952,7 @@ p{
     z-index: 1;
     display: none;
 }
+
 
 
 .Novena3sub {
