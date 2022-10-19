@@ -280,6 +280,18 @@ const quotes = [{
 },{
     quote: '"As the sun surpasses all the stars in lustre, so the sorrows of Mary surpass all the tortures of the martyrs."',
     writer: '– St. Basil the Great'
+},{
+    quote: '"Actions speak louder than words; let your words teach and your actions speak."',
+    writer: '- St. Anthony Of Padua'
+},{
+    quote: '"What does love look like? It has the hands to help others. It has the feet to hasten to the poor and needy. It has eyes to see misery and want. It has the ears to hear the sighs and sorrows of men. That is what love looks like."',
+    writer: '- St. Augustine'
+},{
+    quote: '"And of what should we be afraid? Our captain on this battlefield is Christ Jesus. We have discovered what we have to do. Christ has bound our enemies for us and weakened them that they cannot overcome us unless we so choose to let them. So we must fight courageously and mark ourselves with the sign of the most Holy Cross."',
+    writer: '- St. Catherine Of Sienna'
+},{
+    quote: '"Spread love everywhere you go. Let no one ever come to you without leaving happier."',
+    writer: '- Mother Teresa'
 },]
 
 
