@@ -292,6 +292,12 @@ const quotes = [{
 },{
     quote: '"Spread love everywhere you go. Let no one ever come to you without leaving happier."',
     writer: '- Mother Teresa'
+},{
+    quote: '"Do not be afraid to be saints. Follow Jesus Christ who is the source of freedom and light. Be open to the Lord so that He may lighten all your ways."',
+    writer: '- St. John Paul II'
+},{
+    quote: '"Sanctify yourself and you will sanctify society."',
+    writer: '- St. Francis Of Assisi'
 },]
 
 
