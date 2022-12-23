@@ -129,9 +129,6 @@ function N1function() {
   let random = Math.floor(Math.random() * verses.length);
   var SubV = document.getElementByClassName("SubV");
   
-  if (theHours = 11){
-    SubV.innerHTML = verses[random].verse;
-  };
 
   const verses = [{
       verse: "YO"},

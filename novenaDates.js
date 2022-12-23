@@ -31,7 +31,7 @@ window.onload = function(){
         Novena1A.innerHTML = 'Starts the 20th!'
         Novena1sub.innerHTML = 'Feast Day <br> September 28'
         Novena1subA.innerHTML = 'Virgin Mary, Mother of fair love, Mother who never refuses to come to the aid of a child in need, Mother whose hands never cease to serve your beloved children because they are moved by the divine love and immense mercy that exists in your heart, cast your compassionate eyes upon me and see the snarl of knots that exist in my life. You know very well how desperate I am, my pain and how I am bound up by the Knots. Mary, Mother to whom God entrusted the undoing of the knots in the lives of his children, I entrust into your hands the ribbon of my life. No one, not even the Evil One himself, can take it away from your precious care. In your hands there is no knot that cannot be undone. Powerful Mother, by your grace and intercessory power with Your Son and My Liberator, Jesus, take into your hands today this knot… I beg you to undo it for the glory of god, once and for all. You are my hope. O my Lady, you are the only consolation God gives me, the fortification of my feeble strength, the enrichment of my destitution and with Christ the freedom from my chains. Hear my plea Keep me, guide me, protect me, o safe refuge. <br> (Mention your request here…) <br> Say 1: Our Father… Say 1: Hail Mary… Say 1: Glory Be…'
-        novena1Pic.src = './MaryUndoer.png';
+        novena1Pic.src = './novenaImages/MaryUndoer.png';
     }
 
     function michaelArchAngel(){
@@ -39,7 +39,7 @@ window.onload = function(){
         Novena2A.innerHTML = 'Starts the 21st!'
         Novena2sub.innerHTML = 'Feast Day <br> September 29'
         Novena2subA.innerHTML = 'Let us begin, In the name of the Father, and of the Son, and of the Holy Spirit. Amen. O glorious prince Saint Michael, chief and commander of the heavenly hosts, guardian of souls, vanquisher of rebel spirits, servant in the house of the Divine King and our admirable conductor, you who shine with excellence and superhuman virtue deliver us from all evil, who turn to you with confidence and enable us by your gracious protection to serve God more and more faithfully every day. Pray for us, O glorious Saint Michael, Prince of the Church of Jesus Christ, that we may be made worthy of His promises. <br> (Mention your request here…) <br> Almighty and Everlasting God, Who, by a prodigy of goodness and a merciful desire for the salvation of all men, has appointed the most glorious Archangel Saint Michael Prince of Your Church, make us worthy, we ask You, to be delivered from all our enemies, that none of them may harass us at the hour of death, but that we may be conducted by him into Your Presence. This we ask through the merits of Jesus Christ Our Lord. Amen. Saint Michael the Archangel, defend us in battle, be our protection against the wickedness and snares of the devil. May God rebuke him we humbly pray; and do thou, O Prince of the Heavenly host, by the power of God, cast into Hell Satan and all evil spirits who prowl about the world seeking the ruin of souls. Amen. Say 1: Our Father… Say 1: Hail Mary… Say 1: Glory Be…'
-        novena2Pic.src = './St. Michael Archangel.jpg';
+        novena2Pic.src = './novenaImages/St. Michael Archangel.jpg';
     }
 
     function therese(){
@@ -47,7 +47,7 @@ window.onload = function(){
         Novena3A.innerHTML = 'Starts the 23rd!'
         Novena3sub.innerHTML = 'Feast Day <br> October 1'
         Novena3subA.innerHTML = ' In the name of the Father, and of the Son, and of the Holy Spirit. Amen. O Little Therese of the Child Jesus, please pick for me a rose from the heavenly gardens and send it to me as a message of love. O Little Flower of Jesus, ask God to grant the favors I now place with confidence in your hands <br> (Mention your request here…) <br> St. Therese, help me to always believe as you did in God’s great love for me, so that I might imitate your “Little Way” each day. Amen <br> Say 1: Our Father… Say 1: Hail Mary…Say 1: Glory Be…'
-        novena3Pic.src = './Therese.jpg';
+        novena3Pic.src = './novenaImages/Therese.jpg';
     }
 
     function faustina(){
@@ -55,7 +55,7 @@ window.onload = function(){
         Novena1A.innerHTML = 'Starts the 27th!'
         Novena1sub.innerHTML = 'Feast Day <br> October 5'
         Novena1subA.innerHTML = ' In the name of the Father, and of the Son, and of the Holy Spirit. Amen. O Jesus, who filled Saint Faustina with profound veneration for Your boundless Mercy, deign, if it be Your holy will, to grant me, through her intercession, the grace for which I fervently pray… <br> (Mention your request here…) <br> My sins render me unworthy of Your Mercy, but be mindful of Saint Faustina spirit of sacrifice and self-denial, and reward her virtue by granting the petition which, with childlike trust, I present to You through her intercession. Saint Faustina, pray for us. <br> Say 1: Our Father…  Say 1: Hail Mary… Say 1: Glory Be…'
-        novena1Pic.src = './Fpic3.jpg';
+        novena1Pic.src = './novenaImages/Fpic3.jpg';
     }
 
     function LadyOfRosary(){
@@ -63,7 +63,7 @@ window.onload = function(){
         Novena2A.innerHTML = 'Starts the 29th!'
         Novena2sub.innerHTML = 'Feast Day <br> October 7'
         Novena2subA.innerHTML = 'In the name of the Father, and of the Son, and of the Holy Spirit. Amen. Queen of the Most Holy Rosary, in these times of such brazen impiety, show your power with the signs of your former victories. Look with mercy on the Church of your Son, on His Vicar on earth, and on all the clergy and laity, who are sorely oppressed in this mighty conflict. Powerful vanquisher of all heresies, hasten the hour of mercy even though the hour of God’s justice is every day provoked by the countless sins of men. As I kneel before you in prayer, obtain for me my requests <br> (Mention your request here…) <br> Queen of the Most Holy Rosary, pray for us. <br> Say 1: Our Father…  Say 1: Hail Mary… Say 1: Glory Be…'
-        novena2Pic.src = './LadyOfRosary.jpg';
+        novena2Pic.src = './novenaImages/LadyOfRosary.jpg';
     }
 
     function teresaOfAvila(){
@@ -71,7 +71,7 @@ window.onload = function(){
         Novena3A.innerHTML = 'Starts the 7th!'
         Novena3sub.innerHTML = 'Feast Day <br> October 15'
         Novena3subA.innerHTML = 'In the name of the Father, and of the Son, and of the Holy Spirit. Amen. O Saint Teresa, seraphic Virgin, beloved spouse of thy crucified Lord, thou who on earth didst burn with a love so intense toward thy God and my God, and now dost glow with a brighter and purer flame in paradise: obtain for me also, I beseech thee, a spark of that same holy fire which shall cause me to forget the world, all things created, and even myself; for thou didst ever avidly desire to see Him loved by all men.  Grant that my every thought and desire and affection may be continually directed to doing the will of God, the supreme Good, whether I am in joy or in pain, for He is worthy to be loved and obeyed forever. Obtain for me this grace, thou who art so powerful with God; may I be all on fire, like thee, with the holy love of God. Amen. <br> (Mention your request here…) <br> Let nothing disturb you, Let nothing frighten you, All things are passing away: God never changes. Patience obtains all things Whoever has God lacks nothing; God alone suffices. <br> Say 1: Our Father…  Say 1: Hail Mary… Say 1: Glory Be…'
-        novena3Pic.src = './St. Teresa Of Avila.jpg';
+        novena3Pic.src = './novenaImages/St. Teresa Of Avila.jpg';
     }
 
     function johnPaulII(){
@@ -79,7 +79,7 @@ window.onload = function(){
         Novena1A.innerHTML = 'Starts the 14th!'
         Novena1sub.innerHTML = 'Feast Day <br> October 22'
         Novena1subA.innerHTML = ' In the name of the Father, and of the Son, and of the Holy Spirit. Amen. Saint John Paul II, you taught the world through word and example that Jesus is the face of the Father’s merciful love. You called upon the world to “be not afraid” and “open wide the doors for Christ.” Now, through your powerful intercession, show us that the love of God is living and active, stronger than all the forces of the world, the flesh, and the devil.  Through your prayers, help us in every need and deliver us from every evil. May we always know by experience the love of God the Father, mediated through Jesus Christ by the power of the Holy Spirit. “God, merciful Father, in your Son, Jesus Christ, you have revealed your love and poured it out upon us in the Holy Spirit, the Comforter. We entrust to you today the destiny of the world and of every man and woman. Bend down to us sinners, heal our weakness, conquer all evil, and grant that all the peoples of the earth may experience your mercy.  In You, the Triune God, may they ever find the source of hope. Eternal Father, by the Passion and Resurrection of your Son, have mercy on us and upon the whole world!” <br> (Mention your request here…) <br> Amen <br> Say 1: Our Father…  Say 1: Hail Mary… Say 1: Glory Be…'
-        novena1Pic.src = './JohnPaulII.jpg';
+        novena1Pic.src = './novenaImages/JohnPaulII.jpg';
     }
 
     function jude(){
@@ -87,7 +87,7 @@ window.onload = function(){
         Novena2A.innerHTML = 'Starts the 19th!'
         Novena2sub.innerHTML = 'Feast Day <br> October 28'
         Novena2subA.innerHTML = 'In the name of the Father, and of the Son, and of the Holy Spirit. Amen. Most holy Apostle, St. Jude, faithful servant and friend of Jesus, the Church honors and invokes you universally, as the patron of difficult cases, of things almost despaired of, Pray for me, I am so helpless and alone. Intercede with God for me that He bring visible and speedy help where help is almost despaired of. Come to my assistance in this great need that I may receive the consolation and help of heaven in all my necessities, tribulations, and sufferings, particularly <br> (Mention your request here…) <br> And that I may praise God with you and all the saints forever. I promise, O Blessed St. Jude, to be ever mindful of this great favor granted me by God and to always honor you as my special and powerful patron, and to gratefully encourage devotion to you. Amen <br> Say 1: Our Father… Say 1: Hail Mary… Say 1: Glory Be…'
-        novena2Pic.src = './St-Jude.jpg';
+        novena2Pic.src = './novenaImages/St-Jude.jpg';
     }
 
     function allSaints(){
@@ -95,7 +95,7 @@ window.onload = function(){
         Novena3A.innerHTML = 'Starts the 24th!'
         Novena3sub.innerHTML = 'Feast Day <br> November 1'
         Novena3subA.innerHTML = 'In the name of the Father, and of the Son, and of the Holy Spirit. Amen. O holy Mary, Mother of God and Mother of the Church, be my mother and guide me to a life of holiness that I may one day join you and your Son in Heaven for all eternity. Intercede on my behalf that I may be a student of your humility and purity. I ask that you place before your Son my petitions. <br> (State your intentions here) <br> Mary, conceived without sin, pray for us. Mary, Most Holy, pray for us. Mary, Most Pure, pray for us. Mary, Star of the Sea, pray for us. Mary, Queen of Heaven and Earth, pray for us. Mary, Queen of Angels and Saints, pray for us. Amen. In the name of the Father, and of the Son, and of the Holy Spirit. Amen.'
-        novena3Pic.src = './AllSaints.jpg';
+        novena3Pic.src = './novenaImages/AllSaints.jpg';
     }
     
 
