@@ -11,6 +11,7 @@ html{
 body{
     background-image: linear-gradient(rgb(0, 71, 71), rgb(25, 0, 61));
     height: 800vh;
+    width: auto;
     overflow: auto;
     display: flex;
 }
@@ -1405,9 +1406,8 @@ p{
 @media only screen and (max-width: 400px){
 
     body{
-        height: 550vh;
         font-family:Georgia, 'Times New Roman', Times, serif;
-        height: 1300vw;
+        height: 800vh;
     }
 
     .navLine{
@@ -1677,6 +1677,7 @@ p{
         align-items: center;
         text-align: center;
         font-size: 5.5vw;
+        left: 2vw;
         top: 860vw;
         font-family:Georgia, 'Times New Roman', Times, serif;
     }
@@ -1730,6 +1731,7 @@ p{
         flex-direction: column;
         align-items: center;
         text-align: center;
+        left: 2vw;
         font-size: 5.5vw;
         top: 860vw;
         font-family:Georgia, 'Times New Roman', Times, serif;
@@ -1785,7 +1787,7 @@ p{
         text-align: center;
         font-size: 5.5vw;
         top: 860vw;
-        left: 17vw;
+        left: 5vw;
         font-family:Georgia, 'Times New Roman', Times, serif;
         display: none;
     }
@@ -1915,6 +1917,7 @@ p{
         transition: 1s ease;
         cursor: pointer;
         filter: blur(1px);
+        overflow: auto;
     }
 
     .hoverEffect{
@@ -1926,8 +1929,180 @@ p{
 
     .weddingText{
         font-size: 25px;
-        top: 830vw;
+        top: 825vw;
         left: 20%;
+        line-height: 50px;
+        text-align: center;
+        position: absolute;
+        color: rgb(255, 255, 255);
+        filter: drop-shadow(4px 4px 4px rgb(0, 0, 0));
+        z-index: 2;
+        opacity: 1;
+    }
+
+    .feeding5000{
+        width: 75%;
+        height: 30%;
+        border-radius: 12px;
+        top: 1190vw;
+        left: 10vw;
+        position: absolute;
+        z-index: 1;
+        transition: 1s ease;
+        cursor: pointer;
+        filter: blur(1px);
+        overflow: auto;
+    }
+
+    .hoverEffect5000{
+        opacity: 1;
+        z-index: 2;
+        width: 80%;
+        left: 0vw;
+    }
+
+    .feedingText{
+        font-size: 25px;
+        top: 880vw;
+        left: 20%;
+        line-height: 50px;
+        text-align: center;
+        position: absolute;
+        color: rgb(255, 255, 255);
+        filter: drop-shadow(4px 4px 4px rgb(0, 0, 0));
+        z-index: 2;
+        opacity: 1;
+    }
+
+    .bartimaeus{
+        width: 75%;
+        height: 30%;
+        border-radius: 12px;
+        top: 1250vw;
+        left: 10vw;
+        position: absolute;
+        z-index: 1;
+        transition: 1s ease;
+        cursor: pointer;
+        filter: blur(1px);
+        overflow: auto;
+    }
+
+    .hoverEffectbart{
+        opacity: 1;
+        z-index: 2;
+        width: 80%;
+        left: 0vw;
+    }
+
+    .bartText{
+        font-size: 25px;
+        top: 945vw;
+        left: 25%;
+        line-height: 50px;
+        text-align: center;
+        position: absolute;
+        color: rgb(255, 255, 255);
+        filter: drop-shadow(4px 4px 4px rgb(0, 0, 0));
+        z-index: 2;
+        opacity: 1;
+    }
+
+    .womanAtWell{
+        width: 75%;
+        height: 30%;
+        border-radius: 12px;
+        top: 1310vw;
+        left: 10vw;
+        position: absolute;
+        z-index: 1;
+        transition: 1s ease;
+        cursor: pointer;
+        filter: blur(1px);
+        overflow: auto;
+    }
+
+    .hoverEffectWell{
+        opacity: 1;
+        z-index: 2;
+        width: 80%;
+        left: 0vw;
+    }
+
+    .wellText{
+        font-size: 25px;
+        top: 975vw;
+        left: 22%;
+        line-height: 50px;
+        text-align: center;
+        position: absolute;
+        color: rgb(255, 255, 255);
+        filter: drop-shadow(4px 4px 4px rgb(0, 0, 0));
+        z-index: 2;
+        opacity: 1;
+    }
+
+
+    .lastSupper{
+        width: 75%;
+        height: 30%;
+        border-radius: 12px;
+        top: 1370vw;
+        left: 10vw;
+        position: absolute;
+        z-index: 1;
+        transition: 1s ease;
+        cursor: pointer;
+        filter: blur(1px);
+        overflow: auto;
+    }
+
+    .hoverEffectSupper{
+        opacity: 1;
+        z-index: 2;
+        width: 80%;
+        left: 0vw;
+    }
+
+    .supperText{
+        font-size: 25px;
+        top: 1030vw;
+        left: 22%;
+        line-height: 50px;
+        text-align: center;
+        position: absolute;
+        color: rgb(255, 255, 255);
+        filter: drop-shadow(4px 4px 4px rgb(0, 0, 0));
+        z-index: 2;
+        opacity: 1;
+    }
+
+
+    .lazurus{
+        width: 75%;
+        height: 30%;
+        border-radius: 12px;
+        top: 1430vw;
+        left: 10vw;
+        position: absolute;
+        z-index: 1;
+        transition: 1s ease;
+        cursor: pointer;
+        filter: blur(1px);
+        overflow: auto;
+    }
+
+    .hoverEffectLazurus{
+        opacity: 1;
+        z-index: 2;
+        width: 80%;
+        left: 0vw;
+    }
+
+    .lazurusText{
+        font-size: 25px;
+        top: 1095vw;
+        left: 25%;
         line-height: 50px;
         text-align: center;
         position: absolute;

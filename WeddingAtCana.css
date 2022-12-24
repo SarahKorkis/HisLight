@@ -255,7 +255,6 @@ body::-webkit-scrollbar-thumb{
     left: 10vw;
     font-size: calc(1vw + 6vw);
     width: 80%;
-    border-color: #ababab;
   }
 
 
