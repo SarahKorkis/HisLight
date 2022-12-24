@@ -71,6 +71,52 @@ body {
   background-color: rgb(43, 94, 98);
 }
 
+.slider7 {
+  font-family: sans-serif;
+  scroll-snap-type: x mandatory;  
+  display: flex;
+  -webkit-overflow-scrolling: touch;
+  overflow-x: scroll;
+  background-color: rgb(151, 148, 96);
+}
+
+.slider8 {
+  font-family: sans-serif;
+  scroll-snap-type: x mandatory;  
+  display: flex;
+  -webkit-overflow-scrolling: touch;
+  overflow-x: scroll;
+  background-color: rgb(99, 113, 171);
+}
+
+
+.slider9 {
+  font-family: sans-serif;
+  scroll-snap-type: x mandatory;  
+  display: flex;
+  -webkit-overflow-scrolling: touch;
+  overflow-x: scroll;
+  background-color: rgb(171, 99, 123);
+}
+
+.slider10 {
+  font-family: sans-serif;
+  scroll-snap-type: x mandatory;  
+  display: flex;
+  -webkit-overflow-scrolling: touch;
+  overflow-x: scroll;
+  background-color: rgb(99, 171, 142);
+}
+
+.slider11 {
+  font-family: sans-serif;
+  scroll-snap-type: x mandatory;  
+  display: flex;
+  -webkit-overflow-scrolling: touch;
+  overflow-x: scroll;
+  background-color: rgb(145, 99, 171);
+}
+
 p{
   position: absolute;
   text-align: center;
@@ -103,21 +149,18 @@ p{
   font-family:Georgia, 'Times New Roman', Times, serif;
 }
 
-.firstCommentarySlide{
-  line-height: 3vw;
-}
 
 textarea{
   position: absolute;
   top: 10vw;
   left: 10vw;
-  width: 40vw;
+  width: 35vw;
   height: 50vh;
   font-size: 2vw;
   font-family:Georgia, 'Times New Roman', Times, serif;
   background: transparent;
   color: #d3d3d3;
-  border-color: whitesmoke;
+  border-color: transparent;
   text-align: center;
   outline: none;
   overflow: auto;
@@ -132,7 +175,7 @@ img{
 }
 
 textarea::placeholder{
-  color: #d3d3d3;
+  color: #ababab;
 }
 
 
@@ -168,4 +211,52 @@ body::-webkit-scrollbar-thumb{
   border-radius: 10px;
   width: 10px;
   background-color: #9696967e;
+}
+
+
+
+/* MOBILE VIEW */
+
+
+
+@media only screen and (max-width: 400px){
+
+  .homePage{
+    top: 3vh;
+    left: 2vw;
+    font-size: 3vw;
+  }
+
+  p{
+    top: 7vh;
+    font-size: 5vw;
+  }
+
+  h1{
+    font-size: calc(1vw + 3.5vw);
+  }
+
+  .swipeLeft{
+    top: 85vh;
+    font-size: 4vw;
+  }
+
+  img{
+    display: none;
+  }
+
+  .bottomVerse{
+    top: 85vh;
+    font-size: 4vw;
+  }
+
+  textarea{
+    top: 20vh;
+    left: 10vw;
+    font-size: calc(1vw + 6vw);
+    width: 80%;
+    border-color: #ababab;
+  }
+
+
 }
