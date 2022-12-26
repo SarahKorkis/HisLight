@@ -97,6 +97,32 @@ window.onload = function(){
         Novena3subA.innerHTML = 'In the name of the Father, and of the Son, and of the Holy Spirit. Amen. O holy Mary, Mother of God and Mother of the Church, be my mother and guide me to a life of holiness that I may one day join you and your Son in Heaven for all eternity. Intercede on my behalf that I may be a student of your humility and purity. I ask that you place before your Son my petitions. <br> (State your intentions here) <br> Mary, conceived without sin, pray for us. Mary, Most Holy, pray for us. Mary, Most Pure, pray for us. Mary, Star of the Sea, pray for us. Mary, Queen of Heaven and Earth, pray for us. Mary, Queen of Angels and Saints, pray for us. Amen. In the name of the Father, and of the Son, and of the Holy Spirit. Amen.'
         novena3Pic.src = './novenaImages/AllSaints.jpg';
     }
+
+    function martinTours(){
+        Novena1.innerHTML = 'St. Martin De Tours <br> November 2 - November 11'
+        Novena1A.innerHTML = 'Starts the 2nd!'
+        Novena1sub.innerHTML = 'Feast Day <br> November 11'
+        Novena1subA.innerHTML = 'Blessed Saint Martín of Tours, full of the Spirit of the Lord always having inexhaustible charity for the needy. You, who full of love and generosity when you saw the beggar that was freezing from cold, without knowing that in truth he was Christ, did not doubt to give him half of your cape, and did not give it completely to him since the other half belonged to the Roman army; you, who did not seek recognition but only to favor your neighbor, found glory before the Lord. And when the Savior appeared to you dressed with the half-cape so as to express appreciation for your gesture and He told you “today you covered me with your mantle”, you decided to no longer serve the army and to dedicate your life to God and to the salvation of souls, being from then on a propagator of the faith and a holy man totally dedicated to whomever was in need. Glorious Saint Martin, you who worked miracles and prodigies, who with joy, amiability and the most exquisite goodness won over the hearts of all and did not cease to ever work for their well being: give me your hand and help me to come out of all lack and scarcity which today afflicts me and weighs me down. Glorious Saint Martin, my blessed patron, I humbly ask you with great faith that you attain from God, the fount of all Mercies that my ways on this earth, my work and my toils be cleansed and opened with clarity. In the name of Omnipotent God, Saint Martin of Tours, remove all that harms me and give me work and prosperity. O blessed relief, give me your saintly protection, assist me, I beg you, in these difficult times: <br> (Mention your request here…) <br> Say 1: Our Father… Say 1: Hail Mary…Say 1: Glory Be…'
+        novena3Pic.src = './novenaImages/stmartinTours.jpg';
+    }
+
+
+    function francesXaiver(){
+        Novena2.innerHTML = 'St. Frances Xavier <br> November 5 - November 13'
+        Novena2A.innerHTML = 'Starts the 5th!'
+        Novena2sub.innerHTML = 'Feast Day <br> November 13'
+        Novena2subA.innerHTML = 'Fortify me with the grace of Your Holy Spirit and give Your peace to my soul that I may be free from all needless anxiety, solicitude and worry. Help me to desire always that which is pleasing and acceptable to You so that Your will may be my will. Amen <br> (Mention your request here…) St. Frances Cabrini, pray for us <br> Say 1: Our Father… Say 1: Hail Mary…Say 1: Glory Be…'
+        novena3Pic.src = './novenaImages/stFrancesCabrini.jpg';
+    }
+
+
+    function gertrude(){
+        Novena3.innerHTML = 'St. Gertrude <br> November 8 - November 16'
+        Novena3A.innerHTML = 'Starts the 8th!'
+        Novena3sub.innerHTML = 'Feast Day <br> November 16'
+        Novena3subA.innerHTML = 'O Lord Jesus, by the love Thou didst bear to the virginal heart of Saint Gertrude and by which Thou hast promised that no sinner who would honor and love her should die a sudden and unprovided death, grant me, I beseech Thee, this grace, and let me so love Thee and repent of my sins that with faith and confidence I may expect a happy death. Amen <br> (Mention your request here…) <br> Prayer that was prayed by St. Gertrude for all the souls in Purgatory: “Eternal Father, I offer Thee the Most Precious Blood of Thy Divine Son, Jesus, in union with the Masses said throughout the world today, for all the holy Souls in Purgatory. Amen. Our Lord told St. Gertrude the Great that this prayer would release 1,000 Souls from Purgatory each time it is said. St. Gertrude The Great, pray for us. <br> Say 1: Our Father…  Say 1: Hail Mary… Say 1: Glory Be…'
+        novena3Pic.src = './novenaImages/stGertrude.jpg';
+    }
     
 
     
@@ -516,34 +542,34 @@ window.onload = function(){
     }
     else if (novenaDay == '10/22/2022'){
         jude()
-        Novena2A.innerHTML = 'Day 2';
+        Novena2A.innerHTML = 'Day 3';
     }
     else if (novenaDay == '10/23/2022'){
         jude()
-        Novena2A.innerHTML = 'Day 3';
+        Novena2A.innerHTML = 'Day 4';
     }
     else if (novenaDay == '10/24/2022'){
         jude()
-        Novena2A.innerHTML = 'Day 4';
+        Novena2A.innerHTML = 'Day 5';
     }
     else if (novenaDay == '10/25/2022'){
         jude()
-        Novena2A.innerHTML = 'Day 5';
+        Novena2A.innerHTML = 'Day 6';
     }
     else if (novenaDay == '10/26/2022'){
         jude()
-        Novena2A.innerHTML = 'Day 6';
+        Novena2A.innerHTML = 'Day 7';
     }
     else if (novenaDay == '10/27/2022'){
         jude()
-        Novena2A.innerHTML = 'Day 7';
+        Novena2A.innerHTML = 'Day 8';
     }
     else if (novenaDay == '10/28/2022'){
         jude()
-        Novena2A.innerHTML = 'Day 8';
+        Novena2A.innerHTML = 'Day 9';
     }
 
-    //Teresa Of Avila
+    //ALL SAINTS
     if (novenaDay == '10/16/2022') {
         allSaints()
         Novena3A.innerHTML = 'Starts the 24th';
@@ -612,6 +638,222 @@ window.onload = function(){
         allSaints()
         Novena3A.innerHTML = 'Day 9';
     }
+
+
+
+    //Martin Tours
+    if (novenaDay == '10/23/2022') {
+        martinTours();
+        Novena1A.innerHTML = 'Starts the 3rd!';
+    }
+    if (novenaDay == '10/24/2022') {
+        martinTours();
+        Novena1A.innerHTML = 'Starts the 3rd!';
+    }
+    if (novenaDay == '10/25/2022') {
+        martinTours();
+        Novena1A.innerHTML = 'Starts the 3rd!';
+    }
+    if (novenaDay == '10/26/2022') {
+        martinTours();
+        Novena1A.innerHTML = 'Starts the 3rd!';
+    }
+    if (novenaDay == '10/27/2022') {
+        martinTours();
+        Novena1A.innerHTML = 'Starts the 3rd!';
+    }
+    if (novenaDay == '10/28/2022') {
+        martinTours();
+        Novena1A.innerHTML = 'Starts the 3rd!';
+    }
+    if (novenaDay == '10/29/2022') {
+        martinTours();
+        Novena1A.innerHTML = 'Starts the 3rd!';
+    }
+    if (novenaDay == '10/30/2022') {
+        martinTours();
+        Novena1A.innerHTML = 'Starts the 3rd!';
+    }
+    if (novenaDay == '10/31/2022') {
+        martinTours();
+        Novena1A.innerHTML = 'Starts the 3rd!';
+    }
+    if (novenaDay == '11/01/2022') {
+        martinTours();
+        Novena1A.innerHTML = 'Starts the 3rd!';
+    }
+    if (novenaDay == '11/02/2022') {
+        martinTours();
+        Novena1A.innerHTML = 'Starts the 3rd!';
+    }
+    if (novenaDay == '11/03/2022') {
+        martinTours();
+        Novena1A.innerHTML = 'Day 1';
+    }
+    else if (novenaDay == '11/04/2022') {
+        martinTours();
+        Novena1A.innerHTML = 'Day 2';
+    }
+    else if (novenaDay == '11/05/2022') {
+        martinTours();
+        Novena1A.innerHTML = 'Day 3';
+    }
+    else if (novenaDay == '11/06/2022') {
+        martinTours();
+        Novena1A.innerHTML = 'Day 4';
+    }
+    else if (novenaDay == '11/07/2022') {
+        martinTours();
+        Novena1A.innerHTML = 'Day 5';
+    }
+    else if (novenaDay == '11/08/2022') {
+        martinTours();
+        Novena1A.innerHTML = 'Day 6';
+    }
+    else if (novenaDay == '11/09/2022') {
+        martinTours();
+        Novena1A.innerHTML = 'Day 7';
+    }
+    else if (novenaDay == '11/10/2022') {
+        martinTours();
+        Novena1A.innerHTML = 'Day 8';
+    }
+    else if (novenaDay == '11/11/2022') {
+        martinTours();
+        Novena1A.innerHTML = 'Day 9';
+    }
+
+
+    //frances Xaiver
+    if (novenaDay == '10/29/2022'){
+        francesXaiver()
+        Novena2A.innerHTML = 'Starts the 5th!'
+    }
+    else if (novenaDay == '10/30/2022'){
+        francesXaiver()
+        Novena2A.innerHTML = 'Starts the 5th!'
+    }
+    else if (novenaDay == '10/31/2022'){
+        francesXaiver()
+        Novena2A.innerHTML = 'Starts the 5th!'
+    }
+    else if (novenaDay == '11/01/2022'){
+        francesXaiver()
+        Novena2A.innerHTML = 'Starts the 5th!'
+    }
+    else if (novenaDay == '11/02/2022'){
+        francesXaiver()
+        Novena2A.innerHTML = 'Starts the 5th!'
+    }
+    else if (novenaDay == '11/03/2022'){
+        francesXaiver()
+        Novena2A.innerHTML = 'Starts the 5th!';
+    }
+    else if (novenaDay == '11/04/2022'){
+        francesXaiver()
+        Novena2A.innerHTML = 'Starts the 5th!';
+    }
+    else if (novenaDay == '11/05/2022'){
+        francesXaiver()
+        Novena2A.innerHTML = 'Day 1';
+    }
+    else if (novenaDay == '11/06/2022'){
+        francesXaiver()
+        Novena2A.innerHTML = 'Day 2';
+    }
+    else if (novenaDay == '11/07/2022'){
+        francesXaiver()
+        Novena2A.innerHTML = 'Day 3';
+    }
+    else if (novenaDay == '11/08/2022'){
+        francesXaiver()
+        Novena2A.innerHTML = 'Day 4';
+    }
+    else if (novenaDay == '11/09/2022'){
+        francesXaiver()
+        Novena2A.innerHTML = 'Day 5';
+    }
+    else if (novenaDay == '11/10/2022'){
+        francesXaiver()
+        Novena2A.innerHTML = 'Day 6';
+    }
+    else if (novenaDay == '11/11/2022'){
+        francesXaiver()
+        Novena2A.innerHTML = 'Day 7';
+    }
+    else if (novenaDay == '11/12/2022'){
+        francesXaiver()
+        Novena2A.innerHTML = 'Day 8';
+    }
+    else if (novenaDay == '11/13/2022'){
+        francesXaiver()
+        Novena2A.innerHTML = 'Day 9';
+    }
+
+
+
+    //St. Gertrude
+    if (novenaDay == '11/02/2022') {
+        gertrude()
+        Novena3A.innerHTML = 'Starts the 8th!';
+    }
+    else if (novenaDay == '11/03/2022') {
+        gertrude()
+        Novena3A.innerHTML = 'Starts the 8th!';
+    }
+    else if (novenaDay == '11/04/2022') {
+        gertrude()
+        Novena3A.innerHTML = 'Starts the 8th!';
+    }
+    else if (novenaDay == '11/05/2022') {
+        gertrude()
+        Novena3A.innerHTML = 'Starts the 8th!';
+    }
+    else if (novenaDay == '11/06/2022') {
+        gertrude()
+        Novena3A.innerHTML = 'Starts the 8th!';
+    }
+    else if (novenaDay == '11/07/2022') {
+        gertrude()
+        Novena3A.innerHTML = 'Starts the 8th!';
+    }
+    else if (novenaDay == '11/08/2022') {
+        gertrude()
+        Novena3A.innerHTML = 'Day 1';
+    }
+    else if (novenaDay == '11/09/2022') {
+        gertrude()
+        Novena3A.innerHTML = 'Day 2';
+    }
+    else if (novenaDay == '11/10/2022') {
+        gertrude()
+        Novena3A.innerHTML = 'Day 3';
+    }
+    else if (novenaDay == '11/11/2022') {
+        gertrude()
+        Novena3A.innerHTML = 'Day 4';
+    }
+    else if (novenaDay == '11/12/2022') {
+        gertrude()
+        Novena3A.innerHTML = 'Day 5';
+    }
+    else if (novenaDay == '11/13/2022') {
+        gertrude()
+        Novena3A.innerHTML = 'Day 6';
+    }
+    else if (novenaDay == '11/14/2022') {
+        gertrude()
+        Novena3A.innerHTML = 'Day 7';
+    }
+    else if (novenaDay == '11/15/2022') {
+        gertrude()
+        Novena3A.innerHTML = 'Day 8';
+    }
+    else if (novenaDay == '11/16/2022') {
+        gertrude()
+        Novena3A.innerHTML = 'Day 9';
+    }
+
 
 }
 
