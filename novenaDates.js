@@ -103,16 +103,16 @@ window.onload = function(){
         Novena1A.innerHTML = 'Starts the 2nd!'
         Novena1sub.innerHTML = 'Feast Day <br> November 11'
         Novena1subA.innerHTML = 'Blessed Saint Martín of Tours, full of the Spirit of the Lord always having inexhaustible charity for the needy. You, who full of love and generosity when you saw the beggar that was freezing from cold, without knowing that in truth he was Christ, did not doubt to give him half of your cape, and did not give it completely to him since the other half belonged to the Roman army; you, who did not seek recognition but only to favor your neighbor, found glory before the Lord. And when the Savior appeared to you dressed with the half-cape so as to express appreciation for your gesture and He told you “today you covered me with your mantle”, you decided to no longer serve the army and to dedicate your life to God and to the salvation of souls, being from then on a propagator of the faith and a holy man totally dedicated to whomever was in need. Glorious Saint Martin, you who worked miracles and prodigies, who with joy, amiability and the most exquisite goodness won over the hearts of all and did not cease to ever work for their well being: give me your hand and help me to come out of all lack and scarcity which today afflicts me and weighs me down. Glorious Saint Martin, my blessed patron, I humbly ask you with great faith that you attain from God, the fount of all Mercies that my ways on this earth, my work and my toils be cleansed and opened with clarity. In the name of Omnipotent God, Saint Martin of Tours, remove all that harms me and give me work and prosperity. O blessed relief, give me your saintly protection, assist me, I beg you, in these difficult times: <br> (Mention your request here…) <br> Say 1: Our Father… Say 1: Hail Mary…Say 1: Glory Be…'
-        novena3Pic.src = './novenaImages/stmartinTours.jpg';
+        novena1Pic.src = './novenaImages/stmartinTours.jpg';
     }
 
 
     function francesXaiver(){
-        Novena2.innerHTML = 'St. Frances Xavier <br> November 5 - November 13'
+        Novena2.innerHTML = 'St. Frances Xavier Cabrini <br> November 5 - November 13'
         Novena2A.innerHTML = 'Starts the 5th!'
         Novena2sub.innerHTML = 'Feast Day <br> November 13'
         Novena2subA.innerHTML = 'Fortify me with the grace of Your Holy Spirit and give Your peace to my soul that I may be free from all needless anxiety, solicitude and worry. Help me to desire always that which is pleasing and acceptable to You so that Your will may be my will. Amen <br> (Mention your request here…) St. Frances Cabrini, pray for us <br> Say 1: Our Father… Say 1: Hail Mary…Say 1: Glory Be…'
-        novena3Pic.src = './novenaImages/stFrancesCabrini.jpg';
+        novena2Pic.src = './novenaImages/stFrancesCabrini.jpg';
     }
 
 
@@ -122,6 +122,38 @@ window.onload = function(){
         Novena3sub.innerHTML = 'Feast Day <br> November 16'
         Novena3subA.innerHTML = 'O Lord Jesus, by the love Thou didst bear to the virginal heart of Saint Gertrude and by which Thou hast promised that no sinner who would honor and love her should die a sudden and unprovided death, grant me, I beseech Thee, this grace, and let me so love Thee and repent of my sins that with faith and confidence I may expect a happy death. Amen <br> (Mention your request here…) <br> Prayer that was prayed by St. Gertrude for all the souls in Purgatory: “Eternal Father, I offer Thee the Most Precious Blood of Thy Divine Son, Jesus, in union with the Masses said throughout the world today, for all the holy Souls in Purgatory. Amen. Our Lord told St. Gertrude the Great that this prayer would release 1,000 Souls from Purgatory each time it is said. St. Gertrude The Great, pray for us. <br> Say 1: Our Father…  Say 1: Hail Mary… Say 1: Glory Be…'
         novena3Pic.src = './novenaImages/stGertrude.jpg';
+    }
+
+    function cecilia(){
+        Novena1.innerHTML = 'St. Martin De Tours <br> November 14 - November 22'
+        Novena1A.innerHTML = 'Starts the 14th!'
+        Novena1sub.innerHTML = 'Feast Day <br> November 22'
+        Novena1subA.innerHTML = 'Lord, have mercy on us. Christ, have mercy on us. Lord, have mercy on us. Christ hear us. Christ, graciously hear us. God the Father of heaven, Have mercy on us. God the Son, Redeemer of the world, Have mercy on us. God the Holy Spirit, Have mercy on us. Holy Trinity, one God, Have mercy on us. Holy Mary, Mother of God, Pray for us. (repeat after each line) St. Cecilia, St. Cecilia, wise virgin, St. Cecilia, whose heart burned with the fire of divine love, St. Cecilia, apostle by your zeal and charity, St. Cecilia, who converted your spouse and procured for him the crown of martyrdom, St. Cecilia, who by your pleadings moved the hearts of pagans, and brought them into the true Church, St. Cecilia, who did unceasingly see your guardian angel by your side, St. Cecilia, who mingled your voice with the celestial harmonies of the virgins, St. Cecilia, who by your melodious accents celebrated the praises of Jesus, St. Cecilia, illustrious martyr of Jesus Christ, St. Cecilia, who during three days suffered most excruciating torments, St. Cecilia, consolation of the afflicted, St. Cecilia, protectress of all who invoke you, St. Cecilia, patroness of holy canticles, St. Cecilia, special patroness and advocate of all singers, musicians, authors, and students, We salute you, O Virgin, who gave your blood for the defense and faith of Jesus Christ. <br> (Mention your request here…) <br> Say 1: Our Father… Say 1: Hail Mary…Say 1: Glory Be…'
+        novena1Pic.src = './novenaImages/stCecilia.jpg';
+    }
+
+    function miraculousMedal(){
+        Novena2.innerHTML = 'Miraculous Medal <br> November 20 - November 29'
+        Novena2A.innerHTML = 'Starts the 20th!'
+        Novena2sub.innerHTML = 'Feast Day <br> November 29'
+        Novena2subA.innerHTML = 'O Immaculate Virgin Mary, Mother of Our Lord Jesus and our Mother, penetrated with the most lively confidence in your all-powerful and never-failing intercession, manifested so often through the Miraculous Medal, we your loving and trustful children implore you to obtain for us the graces and favors we ask during this novena, if they be beneficial to our immortal souls and the souls for whom we pray. <br> (Mention your request here…) <br> You know, O Mary, how often our souls have been the sanctuaries of your Son who hates iniquity. Obtain for us then a deep hatred of sin and that purity of heart which will attach us to God alone so that our every thought, word and deed may tend to His greater glory. Obtain for us also a spirit of prayer and self-denial that we may recover by penance what we have lost by sin and at length attain to that blessed abode where you are the Queen of angels and of men. Amen. O Mary, conceived without sin, pray for us. who have recourse to Thee, and for those who do not have recourse to Thee, especially the enemies of the Church and those recommended Thee, Amen. <br> Say 1: Our Father… Say 1: Hail Mary… Say 1: Glory Be…'
+        novena2Pic.src= './novenaImages/miraculousMedal.jpg';
+    }
+
+    function barbara(){
+        Novena3.innerHTML = 'St. Barbara <br> November 26 - December 4'
+        Novena3A.innerHTML = 'Starts the 26th!'
+        Novena3sub.innerHTML = 'Feast Day <br> December 4'
+        Novena3subA.innerHTML = 'O GOD, Who didst adorn Thy holy Virgin and Martyr Barbara with extraordinary fortitude in the confession of the Faith, and didst console her in the most atrocious torments; grant us through her intercession perseverance in the fulfillment of Thy law and the grace of being fortified before our end with the holy Sacraments, and of a happy death. Through Christ our Lord.  St. Barbara, at my last end Obtain for me the Sacrament; Assist one in that direst need  When I my God and Judge must meet: That robed in sanctifying grace  My soul may stand before His face. Amen. <br> (Mention your request here…) <br> Say 1: Our Father…  Say 1: Hail Mary… Say 1: Glory Be…'
+        novena3Pic.src = './novenaImages/st.barbara.jpg';
+    }
+
+    function immaculateConception(){
+        Novena1.innerHTML = 'Immaculate Conception <br> November 30 - December 8'
+        Novena1A.innerHTML = 'Starts the 30th!'
+        Novena1sub.innerHTML = 'Feast Day <br> December 8'
+        Novena1subA.innerHTML = 'O most Holy Virgin, who was pleasing to the Lord and became His mother, immaculate in body and spirit, in faith and in love, look kindly on me as I implore your powerful intercession. O most Holy Mother, who by your blessed Immaculate Conception, from the first moment of your conception did crush the head of the enemy, receive our prayers as we implore you to present at the throne of God the favor we now request… <br> (Mention your request here…) <br> O Mary of the Immaculate Conception, Mother of Christ, you had influence with your Divine Son while upon this earth; you have the same influence now in heaven. Pray for us and obtain for us from him the granting of my petition if it be the Divine Will. Amen <br> Say 1: Our Father…Say 1: Hail Mary…Say 1: Glory Be… '
+        novena1Pic.src = './novenaImages/immaculateConception.jpg';
     }
     
 
@@ -724,7 +756,7 @@ window.onload = function(){
     }
 
 
-    //frances Xaiver
+    //frances Xaiver Cab
     if (novenaDay == '10/29/2022'){
         francesXaiver()
         Novena2A.innerHTML = 'Starts the 5th!'
@@ -854,6 +886,255 @@ window.onload = function(){
         Novena3A.innerHTML = 'Day 9';
     }
 
+
+    //Cecilia
+    if (novenaDay == '11/12/2022') {
+        cecilia();
+        Novena1A.innerHTML = 'Starts the 14th!';
+    }
+    if (novenaDay == '11/13/2022') {
+        cecilia();
+        Novena1A.innerHTML = 'Starts the 14th!';
+    }
+    if (novenaDay == '11/14/2022') {
+        cecilia();
+        Novena1A.innerHTML = 'Day 1';
+    }
+    if (novenaDay == '11/15/2022') {
+        cecilia();
+        Novena1A.innerHTML = 'Day 2';
+    }
+    if (novenaDay == '11/16/2022') {
+        cecilia();
+        Novena1A.innerHTML = 'Day 3';
+    }
+    else if (novenaDay == '11/17/2022') {
+        cecilia();
+        Novena1A.innerHTML = 'Day 4';
+    }
+    else if (novenaDay == '11/18/2022') {
+        cecilia();
+        Novena1A.innerHTML = 'Day 5';
+    }
+    else if (novenaDay == '11/19/2022') {
+        cecilia();
+        Novena1A.innerHTML = 'Day 6';
+    }
+    else if (novenaDay == '11/20/2022') {
+        cecilia();
+        Novena1A.innerHTML = 'Day 7';
+    }
+    else if (novenaDay == '11/21/2022') {
+        cecilia();
+        Novena1A.innerHTML = 'Day 8';
+    }
+    else if (novenaDay == '11/22/2022') {
+        cecilia();
+        Novena1A.innerHTML = 'Day 9';
+    }
+
+    
+    //Miraculous Medal
+    if (novenaDay == '11/14/2022'){
+        miraculousMedal()
+        Novena2A.innerHTML = 'Starts the 20th!';
+    }
+    else if (novenaDay == '11/15/2022'){
+        miraculousMedal()
+        Novena2A.innerHTML = 'Starts the 20th!';
+    }
+    else if (novenaDay == '11/16/2022'){
+        miraculousMedal()
+        Novena2A.innerHTML = 'Starts the 20th!';
+    }
+    else if (novenaDay == '11/17/2022'){
+        miraculousMedal()
+        Novena2A.innerHTML = 'Starts the 20th!';
+    }
+    else if (novenaDay == '11/18/2022'){
+        miraculousMedal()
+        Novena2A.innerHTML = 'Starts the 20th!';
+    }
+    else if (novenaDay == '11/19/2022'){
+        miraculousMedal()
+        Novena2A.innerHTML = 'Starts the 20th!';
+    }
+    else if (novenaDay == '11/20/2022'){
+        miraculousMedal()
+        Novena2A.innerHTML = 'Day 1';
+    }
+    else if (novenaDay == '11/21/2022'){
+        miraculousMedal()
+        Novena2A.innerHTML = 'Day 2';
+    }
+    else if (novenaDay == '11/22/2022'){
+        miraculousMedal()
+        Novena2A.innerHTML = 'Day 3';
+    }
+    else if (novenaDay == '11/23/2022'){
+        miraculousMedal()
+        Novena2A.innerHTML = 'Day 4';
+    }
+    else if (novenaDay == '11/24/2022'){
+        miraculousMedal()
+        Novena2A.innerHTML = 'Day 5';
+    }
+    else if (novenaDay == '11/25/2022'){
+        miraculousMedal()
+        Novena2A.innerHTML = 'Day 6';
+    }
+    else if (novenaDay == '11/26/2022'){
+        miraculousMedal()
+        Novena2A.innerHTML = 'Day 7';
+    }
+    else if (novenaDay == '11/27/2022'){
+        miraculousMedal()
+        Novena2A.innerHTML = 'Day 8';
+    }
+    else if (novenaDay == '11/28/2022'){
+        miraculousMedal()
+        Novena2A.innerHTML = 'Day 9';
+    }
+
+    //St. Barbara
+    if (novenaDay == '11/17/2022') {
+        barbara()
+        Novena3A.innerHTML = 'Starts the 26th!';
+    }
+    else if (novenaDay == '11/18/2022') {
+        barbara()
+        Novena3A.innerHTML = 'Starts the 26th!';
+    }
+    else if (novenaDay == '11/19/2022') {
+        barbara()
+        Novena3A.innerHTML = 'Starts the 26th!';
+    }
+    else if (novenaDay == '11/20/2022') {
+        barbara()
+        Novena3A.innerHTML = 'Starts the 26th!';
+    }
+    else if (novenaDay == '11/21/2022') {
+        barbara()
+        Novena3A.innerHTML = 'Starts the 26th!';
+    }
+    else if (novenaDay == '11/22/2022') {
+        barbara()
+        Novena3A.innerHTML = 'Starts the 26th!';
+    }
+    else if (novenaDay == '11/23/2022') {
+        barbara()
+        Novena3A.innerHTML = 'Starts the 26th!';
+    }
+    else if (novenaDay == '11/24/2022') {
+        barbara()
+        Novena3A.innerHTML = 'Starts the 26th!';
+    }
+    else if (novenaDay == '11/25/2022') {
+        barbara()
+        Novena3A.innerHTML = 'Starts the 26th!';
+    }
+    else if (novenaDay == '11/26/2022') {
+        barbara()
+        Novena3A.innerHTML = 'Day 1';
+    }
+    else if (novenaDay == '11/27/2022') {
+        barbara()
+        Novena3A.innerHTML = 'Day 2';
+    }
+    else if (novenaDay == '11/28/2022') {
+        barbara()
+        Novena3A.innerHTML = 'Day 3';
+    }
+    else if (novenaDay == '11/29/2022') {
+        barbara()
+        Novena3A.innerHTML = 'Day 4';
+    }
+    else if (novenaDay == '11/30/2022') {
+        barbara()
+        Novena3A.innerHTML = 'Day 5';
+    }
+    else if (novenaDay == '12/01/2022') {
+        barbara()
+        Novena3A.innerHTML = 'Day 6';
+    }
+    else if (novenaDay == '12/02/2022') {
+        barbara()
+        Novena3A.innerHTML = 'Day 7';
+    }
+    else if (novenaDay == '12/03/2022') {
+        barbara()
+        Novena3A.innerHTML = 'Day 8';
+    }
+    else if (novenaDay == '12/04/2022') {
+        barbara()
+        Novena3A.innerHTML = 'Day 9';
+    }
+
+    //Immaculate Conception
+    if (novenaDay == '11/23/2022') {
+        immaculateConception()
+        Novena1A.innerHTML = 'Starts the 30th!';
+    }
+    if (novenaDay == '11/24/2022') {
+        immaculateConception()
+        Novena1A.innerHTML = 'Starts the 30th!';
+    }
+    if (novenaDay == '11/25/2022') {
+        immaculateConception()
+        Novena1A.innerHTML = 'Starts the 30th!';
+    }
+    if (novenaDay == '11/26/2022') {
+        immaculateConception()
+        Novena1A.innerHTML = 'Starts the 30th!';
+    }
+    if (novenaDay == '11/27/2022') {
+        immaculateConception()
+        Novena1A.innerHTML = 'Starts the 30th!';
+    }
+    else if (novenaDay == '11/28/2022') {
+        immaculateConception()
+        Novena1A.innerHTML = 'Starts the 30th!';
+    }
+    else if (novenaDay == '11/29/2022') {
+        immaculateConception()
+        Novena1A.innerHTML = 'Starts the 30th!';
+    }
+    else if (novenaDay == '11/30/2022') {
+        immaculateConception()
+        Novena1A.innerHTML = 'Day 1';
+    }
+    else if (novenaDay == '12/01/2022') {
+        immaculateConception()
+        Novena1A.innerHTML = 'Day 2';
+    }
+    else if (novenaDay == '12/02/2022') {
+        immaculateConception()
+        Novena1A.innerHTML = 'Day 3';
+    }
+    else if (novenaDay == '12/03/2022') {
+        immaculateConception()
+        Novena1A.innerHTML = 'Day 4';
+    }
+    else if (novenaDay == '12/04/2022') {
+        immaculateConception()
+        Novena1A.innerHTML = 'Day 5';
+    }
+    else if (novenaDay == '12/05/2022') {
+        immaculateConception()
+        Novena1A.innerHTML = 'Day 6';
+    }
+    else if (novenaDay == '12/06/2022') {
+        immaculateConception()
+        Novena1A.innerHTML = 'Day 7';
+    }
+    else if (novenaDay == '12/07/2022') {
+        immaculateConception()
+        Novena1A.innerHTML = 'Day 8';
+    }
+    else if (novenaDay == '12/08/2022') {
+        immaculateConception()
+        Novena1A.innerHTML = 'Day 9';
+    }
 
 }
 
