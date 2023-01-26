@@ -38,7 +38,7 @@ window.onload = function(){
         Novena2.innerHTML = 'St. Michael The Archangel <br> September 21 - 29'
         Novena2A.innerHTML = 'Starts the 21st!'
         Novena2sub.innerHTML = 'Feast Day <br> September 29'
-        Novena2subA.innerHTML = 'Let us begin, In the name of the Father, and of the Son, and of the Holy Spirit. Amen. O glorious prince Saint Michael, chief and commander of the heavenly hosts, guardian of souls, vanquisher of rebel spirits, servant in the house of the Divine King and our admirable conductor, you who shine with excellence and superhuman virtue deliver us from all evil, who turn to you with confidence and enable us by your gracious protection to serve God more and more faithfully every day. Pray for us, O glorious Saint Michael, Prince of the Church of Jesus Christ, that we may be made worthy of His promises. <br> (Mention your request here…) <br> Almighty and Everlasting God, Who, by a prodigy of goodness and a merciful desire for the salvation of all men, has appointed the most glorious Archangel Saint Michael Prince of Your Church, make us worthy, we ask You, to be delivered from all our enemies, that none of them may harass us at the hour of death, but that we may be conducted by him into Your Presence. This we ask through the merits of Jesus Christ Our Lord. Amen. Saint Michael the Archangel, defend us in battle, be our protection against the wickedness and snares of the devil. May God rebuke him we humbly pray; and do thou, O Prince of the Heavenly host, by the power of God, cast into Hell Satan and all evil spirits who prowl about the world seeking the ruin of souls. Amen. Say 1: Our Father… Say 1: Hail Mary… Say 1: Glory Be…'
+        Novena2subA.innerHTML = 'O glorious prince Saint Michael, chief and commander of the heavenly hosts, guardian of souls, vanquisher of rebel spirits, servant in the house of the Divine King and our admirable conductor, you who shine with excellence and superhuman virtue deliver us from all evil, who turn to you with confidence and enable us by your gracious protection to serve God more and more faithfully every day. Pray for us, O glorious Saint Michael, Prince of the Church of Jesus Christ, that we may be made worthy of His promises. <br> (Mention your request here…) <br> Almighty and Everlasting God, Who, by a prodigy of goodness and a merciful desire for the salvation of all men, has appointed the most glorious Archangel Saint Michael Prince of Your Church, make us worthy, we ask You, to be delivered from all our enemies, that none of them may harass us at the hour of death, but that we may be conducted by him into Your Presence. This we ask through the merits of Jesus Christ Our Lord. Amen. Saint Michael the Archangel, defend us in battle, be our protection against the wickedness and snares of the devil. May God rebuke him we humbly pray; and do thou, O Prince of the Heavenly host, by the power of God, cast into Hell Satan and all evil spirits who prowl about the world seeking the ruin of souls. Amen. Say 1: Our Father… Say 1: Hail Mary… Say 1: Glory Be…'
         novena2Pic.src = './novenaImages/St. Michael Archangel.jpg';
     }
 
@@ -46,7 +46,7 @@ window.onload = function(){
         Novena3.innerHTML = 'St. Therese <br> September 23 - October 1'
         Novena3A.innerHTML = 'Starts the 23rd!'
         Novena3sub.innerHTML = 'Feast Day <br> October 1'
-        Novena3subA.innerHTML = ' In the name of the Father, and of the Son, and of the Holy Spirit. Amen. O Little Therese of the Child Jesus, please pick for me a rose from the heavenly gardens and send it to me as a message of love. O Little Flower of Jesus, ask God to grant the favors I now place with confidence in your hands <br> (Mention your request here…) <br> St. Therese, help me to always believe as you did in God’s great love for me, so that I might imitate your “Little Way” each day. Amen <br> Say 1: Our Father… Say 1: Hail Mary…Say 1: Glory Be…'
+        Novena3subA.innerHTML = 'O Little Therese of the Child Jesus, please pick for me a rose from the heavenly gardens and send it to me as a message of love. O Little Flower of Jesus, ask God to grant the favors I now place with confidence in your hands <br> (Mention your request here…) <br> St. Therese, help me to always believe as you did in God’s great love for me, so that I might imitate your “Little Way” each day. Amen <br> Say 1: Our Father… Say 1: Hail Mary…Say 1: Glory Be…'
         novena3Pic.src = './novenaImages/Therese.jpg';
     }
 
@@ -54,7 +54,7 @@ window.onload = function(){
         Novena1.innerHTML = 'St. Faustina <br> September 27 - October 5'
         Novena1A.innerHTML = 'Starts the 27th!'
         Novena1sub.innerHTML = 'Feast Day <br> October 5'
-        Novena1subA.innerHTML = ' In the name of the Father, and of the Son, and of the Holy Spirit. Amen. O Jesus, who filled Saint Faustina with profound veneration for Your boundless Mercy, deign, if it be Your holy will, to grant me, through her intercession, the grace for which I fervently pray… <br> (Mention your request here…) <br> My sins render me unworthy of Your Mercy, but be mindful of Saint Faustina spirit of sacrifice and self-denial, and reward her virtue by granting the petition which, with childlike trust, I present to You through her intercession. Saint Faustina, pray for us. <br> Say 1: Our Father…  Say 1: Hail Mary… Say 1: Glory Be…'
+        Novena1subA.innerHTML = 'O Jesus, who filled Saint Faustina with profound veneration for Your boundless Mercy, deign, if it be Your holy will, to grant me, through her intercession, the grace for which I fervently pray… <br> (Mention your request here…) <br> My sins render me unworthy of Your Mercy, but be mindful of Saint Faustina spirit of sacrifice and self-denial, and reward her virtue by granting the petition which, with childlike trust, I present to You through her intercession. Saint Faustina, pray for us. <br> Say 1: Our Father…  Say 1: Hail Mary… Say 1: Glory Be…'
         novena1Pic.src = './novenaImages/Fpic3.jpg';
     }
 
@@ -62,7 +62,7 @@ window.onload = function(){
         Novena2.innerHTML = 'Our Lady Of The Rosary <br> September 29 - October 7'
         Novena2A.innerHTML = 'Starts the 29th!'
         Novena2sub.innerHTML = 'Feast Day <br> October 7'
-        Novena2subA.innerHTML = 'In the name of the Father, and of the Son, and of the Holy Spirit. Amen. Queen of the Most Holy Rosary, in these times of such brazen impiety, show your power with the signs of your former victories. Look with mercy on the Church of your Son, on His Vicar on earth, and on all the clergy and laity, who are sorely oppressed in this mighty conflict. Powerful vanquisher of all heresies, hasten the hour of mercy even though the hour of God’s justice is every day provoked by the countless sins of men. As I kneel before you in prayer, obtain for me my requests <br> (Mention your request here…) <br> Queen of the Most Holy Rosary, pray for us. <br> Say 1: Our Father…  Say 1: Hail Mary… Say 1: Glory Be…'
+        Novena2subA.innerHTML = 'Amen. Queen of the Most Holy Rosary, in these times of such brazen impiety, show your power with the signs of your former victories. Look with mercy on the Church of your Son, on His Vicar on earth, and on all the clergy and laity, who are sorely oppressed in this mighty conflict. Powerful vanquisher of all heresies, hasten the hour of mercy even though the hour of God’s justice is every day provoked by the countless sins of men. As I kneel before you in prayer, obtain for me my requests <br> (Mention your request here…) <br> Queen of the Most Holy Rosary, pray for us. <br> Say 1: Our Father…  Say 1: Hail Mary… Say 1: Glory Be…'
         novena2Pic.src = './novenaImages/LadyOfRosary.jpg';
     }
 
@@ -70,7 +70,7 @@ window.onload = function(){
         Novena3.innerHTML = 'St. Teresa Of Avila <br> October 7 - 15'
         Novena3A.innerHTML = 'Starts the 7th!'
         Novena3sub.innerHTML = 'Feast Day <br> October 15'
-        Novena3subA.innerHTML = 'In the name of the Father, and of the Son, and of the Holy Spirit. Amen. O Saint Teresa, seraphic Virgin, beloved spouse of thy crucified Lord, thou who on earth didst burn with a love so intense toward thy God and my God, and now dost glow with a brighter and purer flame in paradise: obtain for me also, I beseech thee, a spark of that same holy fire which shall cause me to forget the world, all things created, and even myself; for thou didst ever avidly desire to see Him loved by all men.  Grant that my every thought and desire and affection may be continually directed to doing the will of God, the supreme Good, whether I am in joy or in pain, for He is worthy to be loved and obeyed forever. Obtain for me this grace, thou who art so powerful with God; may I be all on fire, like thee, with the holy love of God. Amen. <br> (Mention your request here…) <br> Let nothing disturb you, Let nothing frighten you, All things are passing away: God never changes. Patience obtains all things Whoever has God lacks nothing; God alone suffices. <br> Say 1: Our Father…  Say 1: Hail Mary… Say 1: Glory Be…'
+        Novena3subA.innerHTML = 'O Saint Teresa, seraphic Virgin, beloved spouse of thy crucified Lord, thou who on earth didst burn with a love so intense toward thy God and my God, and now dost glow with a brighter and purer flame in paradise: obtain for me also, I beseech thee, a spark of that same holy fire which shall cause me to forget the world, all things created, and even myself; for thou didst ever avidly desire to see Him loved by all men.  Grant that my every thought and desire and affection may be continually directed to doing the will of God, the supreme Good, whether I am in joy or in pain, for He is worthy to be loved and obeyed forever. Obtain for me this grace, thou who art so powerful with God; may I be all on fire, like thee, with the holy love of God. Amen. <br> (Mention your request here…) <br> Let nothing disturb you, Let nothing frighten you, All things are passing away: God never changes. Patience obtains all things Whoever has God lacks nothing; God alone suffices. <br> Say 1: Our Father…  Say 1: Hail Mary… Say 1: Glory Be…'
         novena3Pic.src = './novenaImages/St. Teresa Of Avila.jpg';
     }
 
@@ -78,7 +78,7 @@ window.onload = function(){
         Novena1.innerHTML = 'St. John Paul II <br> October 14 - 22'
         Novena1A.innerHTML = 'Starts the 14th!'
         Novena1sub.innerHTML = 'Feast Day <br> October 22'
-        Novena1subA.innerHTML = ' In the name of the Father, and of the Son, and of the Holy Spirit. Amen. Saint John Paul II, you taught the world through word and example that Jesus is the face of the Father’s merciful love. You called upon the world to “be not afraid” and “open wide the doors for Christ.” Now, through your powerful intercession, show us that the love of God is living and active, stronger than all the forces of the world, the flesh, and the devil.  Through your prayers, help us in every need and deliver us from every evil. May we always know by experience the love of God the Father, mediated through Jesus Christ by the power of the Holy Spirit. “God, merciful Father, in your Son, Jesus Christ, you have revealed your love and poured it out upon us in the Holy Spirit, the Comforter. We entrust to you today the destiny of the world and of every man and woman. Bend down to us sinners, heal our weakness, conquer all evil, and grant that all the peoples of the earth may experience your mercy.  In You, the Triune God, may they ever find the source of hope. Eternal Father, by the Passion and Resurrection of your Son, have mercy on us and upon the whole world!” <br> (Mention your request here…) <br> Amen <br> Say 1: Our Father…  Say 1: Hail Mary… Say 1: Glory Be…'
+        Novena1subA.innerHTML = 'Saint John Paul II, you taught the world through word and example that Jesus is the face of the Father’s merciful love. You called upon the world to “be not afraid” and “open wide the doors for Christ.” Now, through your powerful intercession, show us that the love of God is living and active, stronger than all the forces of the world, the flesh, and the devil.  Through your prayers, help us in every need and deliver us from every evil. May we always know by experience the love of God the Father, mediated through Jesus Christ by the power of the Holy Spirit. “God, merciful Father, in your Son, Jesus Christ, you have revealed your love and poured it out upon us in the Holy Spirit, the Comforter. We entrust to you today the destiny of the world and of every man and woman. Bend down to us sinners, heal our weakness, conquer all evil, and grant that all the peoples of the earth may experience your mercy.  In You, the Triune God, may they ever find the source of hope. Eternal Father, by the Passion and Resurrection of your Son, have mercy on us and upon the whole world!” <br> (Mention your request here…) <br> Amen <br> Say 1: Our Father…  Say 1: Hail Mary… Say 1: Glory Be…'
         novena1Pic.src = './novenaImages/JohnPaulII.jpg';
     }
 
@@ -86,7 +86,7 @@ window.onload = function(){
         Novena2.innerHTML = 'St. Jude <br> October 19 - 28'
         Novena2A.innerHTML = 'Starts the 19th!'
         Novena2sub.innerHTML = 'Feast Day <br> October 28'
-        Novena2subA.innerHTML = 'In the name of the Father, and of the Son, and of the Holy Spirit. Amen. Most holy Apostle, St. Jude, faithful servant and friend of Jesus, the Church honors and invokes you universally, as the patron of difficult cases, of things almost despaired of, Pray for me, I am so helpless and alone. Intercede with God for me that He bring visible and speedy help where help is almost despaired of. Come to my assistance in this great need that I may receive the consolation and help of heaven in all my necessities, tribulations, and sufferings, particularly <br> (Mention your request here…) <br> And that I may praise God with you and all the saints forever. I promise, O Blessed St. Jude, to be ever mindful of this great favor granted me by God and to always honor you as my special and powerful patron, and to gratefully encourage devotion to you. Amen <br> Say 1: Our Father… Say 1: Hail Mary… Say 1: Glory Be…'
+        Novena2subA.innerHTML = 'Most holy Apostle, St. Jude, faithful servant and friend of Jesus, the Church honors and invokes you universally, as the patron of difficult cases, of things almost despaired of, Pray for me, I am so helpless and alone. Intercede with God for me that He bring visible and speedy help where help is almost despaired of. Come to my assistance in this great need that I may receive the consolation and help of heaven in all my necessities, tribulations, and sufferings, particularly <br> (Mention your request here…) <br> And that I may praise God with you and all the saints forever. I promise, O Blessed St. Jude, to be ever mindful of this great favor granted me by God and to always honor you as my special and powerful patron, and to gratefully encourage devotion to you. Amen <br> Say 1: Our Father… Say 1: Hail Mary… Say 1: Glory Be…'
         novena2Pic.src = './novenaImages/St-Jude.jpg';
     }
 
@@ -94,7 +94,7 @@ window.onload = function(){
         Novena3.innerHTML = 'All Saints <br> October 24 - November 1'
         Novena3A.innerHTML = 'Starts the 24th!'
         Novena3sub.innerHTML = 'Feast Day <br> November 1'
-        Novena3subA.innerHTML = 'In the name of the Father, and of the Son, and of the Holy Spirit. Amen. O holy Mary, Mother of God and Mother of the Church, be my mother and guide me to a life of holiness that I may one day join you and your Son in Heaven for all eternity. Intercede on my behalf that I may be a student of your humility and purity. I ask that you place before your Son my petitions. <br> (State your intentions here) <br> Mary, conceived without sin, pray for us. Mary, Most Holy, pray for us. Mary, Most Pure, pray for us. Mary, Star of the Sea, pray for us. Mary, Queen of Heaven and Earth, pray for us. Mary, Queen of Angels and Saints, pray for us. Amen. In the name of the Father, and of the Son, and of the Holy Spirit. Amen.'
+        Novena3subA.innerHTML = 'O holy Mary, Mother of God and Mother of the Church, be my mother and guide me to a life of holiness that I may one day join you and your Son in Heaven for all eternity. Intercede on my behalf that I may be a student of your humility and purity. I ask that you place before your Son my petitions. <br> (State your intentions here) <br> Mary, conceived without sin, pray for us. Mary, Most Holy, pray for us. Mary, Most Pure, pray for us. Mary, Star of the Sea, pray for us. Mary, Queen of Heaven and Earth, pray for us. Mary, Queen of Angels and Saints, pray for us. Amen. In the name of the Father, and of the Son, and of the Holy Spirit. Amen.'
         novena3Pic.src = './novenaImages/AllSaints.jpg';
     }
 
@@ -154,6 +154,14 @@ window.onload = function(){
         Novena1sub.innerHTML = 'Feast Day <br> December 8'
         Novena1subA.innerHTML = 'O most Holy Virgin, who was pleasing to the Lord and became His mother, immaculate in body and spirit, in faith and in love, look kindly on me as I implore your powerful intercession. O most Holy Mother, who by your blessed Immaculate Conception, from the first moment of your conception did crush the head of the enemy, receive our prayers as we implore you to present at the throne of God the favor we now request… <br> (Mention your request here…) <br> O Mary of the Immaculate Conception, Mother of Christ, you had influence with your Divine Son while upon this earth; you have the same influence now in heaven. Pray for us and obtain for us from him the granting of my petition if it be the Divine Will. Amen <br> Say 1: Our Father…Say 1: Hail Mary…Say 1: Glory Be… '
         novena1Pic.src = './novenaImages/immaculateConception.jpg';
+    }
+
+    function guadalupe(){
+        Novena2.innerHTML = 'Lady Of Guadalupe <br> December 4 - December 12'
+        Novena2A.innerHTML = 'Starts the 4th!'
+        Novena2sub.innerHTML = 'Feast Day <br> December 12'
+        Novena2subA.innerHTML = 'Our Lady of Guadalupe, Mystical Rose, make intercession for the Holy Church, protect the Sovereign Pontiff, help all those who invoke thee in their necessities, and since thou art the ever Virgin Mary, and Mother of the True God, obtain for us from thy most holy Son the grace of keeping our faith, of sweet hope in the midst of the bitterness of life, of burning charity, and the precious gift of final perseverance. "Am I not here? I who am your mother?" <br> (Mention your request here…) <br> Say 1: Our Father…  Say 1: Hail Mary… Say 1: Glory Be…'
+        novena2Pic.src= './novenaImages/ladyOfGuadalupe.jpg';
     }
     
 
@@ -1134,6 +1142,64 @@ window.onload = function(){
     else if (novenaDay == '12/08/2022') {
         immaculateConception()
         Novena1A.innerHTML = 'Day 9';
+    }
+
+    //Guadalupe
+    if (novenaDay == '11/29/2022'){
+        guadalupe()
+        Novena2A.innerHTML = 'Starts the 4th!';
+    }
+    else if (novenaDay == '11/30/2022'){
+        guadalupe()
+        Novena2A.innerHTML = 'Starts the 4th!';
+    }
+    else if (novenaDay == '12/01/2022'){
+        guadalupe()
+        Novena2A.innerHTML = 'Starts the 4th!';
+    }
+    else if (novenaDay == '12/02/2022'){
+        guadalupe()
+        Novena2A.innerHTML = 'Starts the 4th!';
+    }
+    else if (novenaDay == '12/03/2022'){
+        guadalupe()
+        Novena2A.innerHTML = 'Starts the 4th!';
+    }
+    else if (novenaDay == '12/04/2022'){
+        guadalupe()
+        Novena2A.innerHTML = 'Day 1';
+    }
+    else if (novenaDay == '12/05/2022'){
+        guadalupe()
+        Novena2A.innerHTML = 'Day 2';
+    }
+    else if (novenaDay == '12/06/2022'){
+        guadalupe()
+        Novena2A.innerHTML = 'Day 3';
+    }
+    else if (novenaDay == '12/07/2022'){
+        guadalupe()
+        Novena2A.innerHTML = 'Day 4';
+    }
+    else if (novenaDay == '12/08/2022'){
+        guadalupe()
+        Novena2A.innerHTML = 'Day 5';
+    }
+    else if (novenaDay == '12/09/2022'){
+        guadalupe()
+        Novena2A.innerHTML = 'Day 6';
+    }
+    else if (novenaDay == '12/10/2022'){
+        guadalupe()
+        Novena2A.innerHTML = 'Day 7';
+    }
+    else if (novenaDay == '12/11/2022'){
+        guadalupe()
+        Novena2A.innerHTML = 'Day 8';
+    }
+    else if (novenaDay == '12/12/2022'){
+        guadalupe()
+        Novena2A.innerHTML = 'Day 9';
     }
 
 }
