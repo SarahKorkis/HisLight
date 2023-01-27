@@ -164,6 +164,21 @@ window.onload = function(){
         novena2Pic.src= './novenaImages/ladyOfGuadalupe.jpg';
     }
     
+    function johnOfCross(){
+        Novena3.innerHTML = 'St. Barbara <br> December 6 - December 14'
+        Novena3A.innerHTML = 'Starts the 6th!'
+        Novena3sub.innerHTML = 'Feast Day <br> December 14'
+        Novena3subA.innerHTML = 'Almighty Father, you endowed John of the Cross with a spirit of self-denial and a love of the Cross. By following his example, may we come to the eternal vision of your glory. We ask this through our Lord Jesus Christ, Your Son, who lives and reigns with You and the Holy Spirit, one God, for ever and ever. Amen <br> (Mention your request here…) St. John of the Cross, pray for us. <br> Say 1: Our Father…  Say 1: Hail Mary… Say 1: Glory Be…'
+        novena3Pic.src = './novenaImages/st.JohnOfCross.jpg';
+    }
+
+    function ignatiusOfAntioch(){
+        Novena1.innerHTML = 'Immaculate Conception <br> December 12 - December 20'
+        Novena1A.innerHTML = 'Starts the 12th!'
+        Novena1sub.innerHTML = 'Feast Day <br> December 20'
+        Novena1subA.innerHTML = '"I am the wheat of God, and am ground by the teeth of the wild beasts, that I may be found the pure bread of God. I long after the Lord, the Son of the true God and Father, Jesus Christ. Him I seek, who died for us and rose again. I am eager to die for the sake of Christ. My love has been crucified, and there is no fire in me that loves anything. But there is living water springing up in me, and it says to me inwardly: Come to the Father.” Amen <br> (Mention your request here…) <br> Say 1: Our Father…   Say 1: Hail Mary…  Say 1: Glory Be…'
+        novena1Pic.src = './novenaImages/ignatiusOfAntioch.png';
+    }
 
     
     //MARY UNDOER OF KNOTS
@@ -1201,6 +1216,100 @@ window.onload = function(){
         guadalupe()
         Novena2A.innerHTML = 'Day 9';
     }
+
+    //JOHN OF CROSS
+    if (novenaDay == '12/05/2022') {
+        johnOfCross()
+        Novena3A.innerHTML = 'Starts the 6th!';
+    }
+    else if (novenaDay == '12/06/2022') {
+        johnOfCross()
+        Novena3A.innerHTML = 'Day 1';
+    }
+    else if (novenaDay == '12/07/2022') {
+        johnOfCross()
+        Novena3A.innerHTML = 'Day 2';
+    }
+    else if (novenaDay == '12/08/2022') {
+        johnOfCross()
+        Novena3A.innerHTML = 'Day 3';
+    }
+    else if (novenaDay == '12/09/2022') {
+        johnOfCross()
+        Novena3A.innerHTML = 'Day 4';
+    }
+    else if (novenaDay == '12/10/2022') {
+        johnOfCross()
+        Novena3A.innerHTML = 'Day 5';
+    }
+    else if (novenaDay == '12/11/2022') {
+        johnOfCross()
+        Novena3A.innerHTML = 'Day 6';
+    }
+    else if (novenaDay == '12/12/2022') {
+        johnOfCross()
+        Novena3A.innerHTML = 'Day 7';
+    }
+    else if (novenaDay == '12/13/2022') {
+        johnOfCross()
+        Novena3A.innerHTML = 'Day 8';
+    }
+    else if (novenaDay == '12/14/2022') {
+        johnOfCross()
+        Novena3A.innerHTML = 'Day 9';
+    }
+
+
+    //IGNATIUS OF ANTIOCH
+    if (novenaDay == '12/09/2022') {
+        ignatiusOfAntioch()
+        Novena1A.innerHTML = 'Starts the 12th!';
+    }
+    if (novenaDay == '12/10/2022') {
+        ignatiusOfAntioch()
+        Novena1A.innerHTML = 'Starts the 12th!';
+    }
+    if (novenaDay == '12/11/2022') {
+        ignatiusOfAntioch()
+        Novena1A.innerHTML = 'Starts the 12th!';
+    }
+    if (novenaDay == '12/12/2022') {
+        ignatiusOfAntioch()
+        Novena1A.innerHTML = 'Day 1';
+    }
+    if (novenaDay == '12/13/2022') {
+        ignatiusOfAntioch()
+        Novena1A.innerHTML = 'Day 2';
+    }
+    else if (novenaDay == '12/14/2022') {
+        ignatiusOfAntioch()
+        Novena1A.innerHTML = 'Day 3';
+    }
+    else if (novenaDay == '12/15/2022') {
+        ignatiusOfAntioch()
+        Novena1A.innerHTML = 'Day 4';
+    }
+    else if (novenaDay == '12/16/2022') {
+        ignatiusOfAntioch()
+        Novena1A.innerHTML = 'Day 5';
+    }
+    else if (novenaDay == '12/17/2022') {
+        ignatiusOfAntioch()
+        Novena1A.innerHTML = 'Day 6';
+    }
+    else if (novenaDay == '12/18/2022') {
+        ignatiusOfAntioch()
+        Novena1A.innerHTML = 'Day 7';
+    }
+    else if (novenaDay == '12/19/2022') {
+        ignatiusOfAntioch()
+        Novena1A.innerHTML = 'Day 8';
+    }
+    else if (novenaDay == '12/20/2022') {
+        ignatiusOfAntioch()
+        Novena1A.innerHTML = 'Day 9';
+    }
+    
 
 }
 
