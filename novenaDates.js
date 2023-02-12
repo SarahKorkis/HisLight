@@ -204,6 +204,22 @@ window.onload = function(){
         //novena1Pic.src = './novenaImages/ignatiusOfAntioch.png';
     }
 
+    function elizabethAnn(){
+        Novena2.innerHTML = 'St. Elizabeth Ann <br> December 27 - January 4'
+        Novena2A.innerHTML = 'Starts the 27th!'
+        Novena2sub.innerHTML = 'Feast Day <br> January 4'
+        Novena2subA.innerHTML = 'Lord God, you blessed Elizabeth Seton with gifts of grace as wife and mother, educator and foundress, so that she might spend her life in service to your people. Through her example and prayers may we learn to express our love for you in love for our fellow men and women. We ask this through Christ our Lord Jesus Christ, your Son, who lives and reigns with you and the Holy Spirit, one God, for ever and ever. Amen <br> (Mention your request here…)Saint Elizabeth Ann Seton, pray for us. <br> Say 1: Our Father…  Say 1: Hail Mary… Say 1: Glory Be…'
+        //novena2Pic.src= './novenaImages/ladyOfGuadalupe.jpg';
+    }
+
+    function johnNeumann(){
+        Novena3.innerHTML = 'St. John Neumann <br> December 28 - January 5'
+        Novena3A.innerHTML = 'Starts the 28th!'
+        Novena3sub.innerHTML = 'Feast Day <br> January 5'
+        Novena3subA.innerHTML = 'Dear Lord, make me selfless as St. John Neumann was. Throughout my life, give me the grace to direct my first thoughts to the service of You and of others. Make my prayer “Your will be done,” knowing that in Your mercy and love, Your will for me is my sanctification. Merciful Father, You have given me all that I have in this world, even life itself. In all my daily needs, help me to remember the needs of others too. Make me aware of the need to pray to You, not just for myself but also for the Church, the pope, the clergy, and all people who suffer any need. I ask this through Jesus Christ, Our Lord. Amen. <br> (Mention your request here…) St. John Neumann, pray for us <br> Say 1: Our Father…  Say 1: Hail Mary… Say 1: Glory Be…'
+        //novena3Pic.src = './novenaImages/st.JohnOfCross.jpg';
+    }
+
     
     //MARY UNDOER OF KNOTS
     if (novenaDay == '9/15/2023') {
@@ -1499,6 +1515,86 @@ window.onload = function(){
     else if (novenaDay == '01/03/2024') {
         holyNameJesus()
         Novena1A.innerHTML = 'Day 9';
+    }
+
+    //ELIZABETH ANN
+    if (novenaDay == '12/26/2023'){
+        elizabethAnn()
+        Novena2A.innerHTML = 'Starts the 27th!';
+    }
+    else if (novenaDay == '12/27/2023'){
+        elizabethAnn()
+        Novena2A.innerHTML = 'Day 1';
+    }
+    else if (novenaDay == '12/28/2023'){
+        elizabethAnn()
+        Novena2A.innerHTML = 'Day 2';
+    }
+    else if (novenaDay == '12/29/2023'){
+        elizabethAnn()
+        Novena2A.innerHTML = 'Day 3';
+    }
+    else if (novenaDay == '12/30/2023'){
+        elizabethAnn()
+        Novena2A.innerHTML = 'Day 4';
+    }
+    else if (novenaDay == '12/31/2023'){
+        elizabethAnn()
+        Novena2A.innerHTML = 'Day 5';
+    }
+    else if (novenaDay == '01/01/2024'){
+        elizabethAnn()
+        Novena2A.innerHTML = 'Day 6';
+    }
+    else if (novenaDay == '01/02/2023'){
+        elizabethAnn()
+        Novena2A.innerHTML = 'Day 7';
+    }
+    else if (novenaDay == '01/03/2023'){
+        elizabethAnn()
+        Novena2A.innerHTML = 'Day 8';
+    }
+    else if (novenaDay == '01/04/2023'){
+        elizabethAnn()
+        Novena2A.innerHTML = 'Day 9';
+    }
+
+    //John Neumann
+    if (novenaDay == '12/28/2023') {
+        johnNeumann()
+        Novena3A.innerHTML = 'Day 1';
+    }
+    else if (novenaDay == '12/29/2023') {
+        johnNeumann()
+        Novena3A.innerHTML = 'Day 2';
+    }
+    else if (novenaDay == '12/30/2023') {
+        johnNeumann()
+        Novena3A.innerHTML = 'Day 3';
+    }
+    else if (novenaDay == '12/31/2023') {
+        johnNeumann()
+        Novena3A.innerHTML = 'Day 4';
+    }
+    else if (novenaDay == '01/01/2023') {
+        johnNeumann()
+        Novena3A.innerHTML = 'Day 5';
+    }
+    else if (novenaDay == '01/02/2023') {
+        johnNeumann()
+        Novena3A.innerHTML = 'Day 6';
+    }
+    else if (novenaDay == '01/03/2023') {
+        johnNeumann()
+        Novena3A.innerHTML = 'Day 7';
+    }
+    else if (novenaDay == '01/04/2023') {
+        johnNeumann()
+        Novena3A.innerHTML = 'Day 8';
+    }
+    else if (novenaDay == '01/05/2023') {
+        johnNeumann()
+        Novena3A.innerHTML = 'Day 9';
     }
 
 }
