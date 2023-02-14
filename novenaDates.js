@@ -211,7 +211,7 @@ window.onload = function(){
         Novena2subA.innerHTML = 'Lord God, you blessed Elizabeth Seton with gifts of grace as wife and mother, educator and foundress, so that she might spend her life in service to your people. Through her example and prayers may we learn to express our love for you in love for our fellow men and women. We ask this through Christ our Lord Jesus Christ, your Son, who lives and reigns with you and the Holy Spirit, one God, for ever and ever. Amen <br> (Mention your request here…)Saint Elizabeth Ann Seton, pray for us. <br> Say 1: Our Father…  Say 1: Hail Mary… Say 1: Glory Be…'
         //novena2Pic.src= './novenaImages/ladyOfGuadalupe.jpg';
     }
-
+ 
     function johnNeumann(){
         Novena3.innerHTML = 'St. John Neumann <br> December 28 - January 5'
         Novena3A.innerHTML = 'Starts the 28th!'
@@ -219,6 +219,56 @@ window.onload = function(){
         Novena3subA.innerHTML = 'Dear Lord, make me selfless as St. John Neumann was. Throughout my life, give me the grace to direct my first thoughts to the service of You and of others. Make my prayer “Your will be done,” knowing that in Your mercy and love, Your will for me is my sanctification. Merciful Father, You have given me all that I have in this world, even life itself. In all my daily needs, help me to remember the needs of others too. Make me aware of the need to pray to You, not just for myself but also for the Church, the pope, the clergy, and all people who suffer any need. I ask this through Jesus Christ, Our Lord. Amen. <br> (Mention your request here…) St. John Neumann, pray for us <br> Say 1: Our Father…  Say 1: Hail Mary… Say 1: Glory Be…'
         //novena3Pic.src = './novenaImages/st.JohnOfCross.jpg';
     }
+
+    function sebastion(){
+        Novena1.innerHTML = 'St. Sebastion <br> January 12 - January 20'
+        Novena1A.innerHTML = 'Starts the 12th!'
+        Novena1sub.innerHTML = 'Feast Day <br> January 20'
+        Novena1subA.innerHTML = 'Glorious Sebastian, martyr and saint, I call on your strength and courage to help me through this difficult trial. Your faith was so deep, a multitude of arrows could not finish you. The piercing wounds inflicted for your faith only proved to strengthen your belief. May you intercede for those who are weakened from the effects of disease. I ask for your intercession that I may also survive that which threatens to destroy my beliefs in the mercy of Christ. Amen. <br> (Mention your request here…) St. Sebastian, pray for us.  <br> Say 1: Our Father…    Say 1: Hail Mary…  Say 1: Glory Be…'
+        //novena1Pic.src = './novenaImages/ignatiusOfAntioch.png';
+    }
+
+    function agnes(){
+        Novena2.innerHTML = 'St. Agnes <br> January 13 - January 21'
+        Novena2A.innerHTML = 'Starts the 13th!'
+        Novena2sub.innerHTML = 'Feast Day <br> January 21'
+        Novena2subA.innerHTML = 'O glorious St. Agnes, You served God in humility and confidence on earth and are now in the enjoyment of His beatific Vision in heaven because you persevered till death and gained the crown of eternal life. Remember now the dangers that surround me in the vale of tears, and intercede for me in my needs and troubles. Amen. <br> (Mention your request here…) Saint Agnes, pray for us. <br> Say 1: Our Father…  Say 1: Hail Mary… Say 1: Glory Be…'
+        //novena2Pic.src= './novenaImages/ladyOfGuadalupe.jpg';
+    }
+
+    function francisDeSales(){
+        Novena3.innerHTML = 'St. Francis De Sales <br> January 15 - January 24'
+        Novena3A.innerHTML = 'Starts the 15th!'
+        Novena3sub.innerHTML = 'Feast Day <br> January 24'
+        Novena3subA.innerHTML = 'Do not look forward in fear to the changes in life; rather, look to them with full hope that as they arise, God, whose very own you are, will lead you safely through all things; and when you cannot stand it, God will carry you in His arms. Do not fear what may happen tomorrow, the same understanding Father who cares for you today will take care of you then and every day. He will either shield you from suffering or will give you unfailing strength to bear it. Be at peace, and put aside all anxious thoughts and imaginations. <br> (Mention your request here…)  <br> Say 1: Our Father…  Say 1: Hail Mary… Say 1: Glory Be…'
+        //novena3Pic.src = './novenaImages/st.JohnOfCross.jpg';
+    }
+
+    function johnBosco(){
+        Novena1.innerHTML = 'St. John Bosco <br> January 23 - January 31'
+        Novena1A.innerHTML = 'Starts the 23rd!'
+        Novena1sub.innerHTML = 'Feast Day <br> January 31'
+        Novena1subA.innerHTML = 'O glorious Saint John Bosco, who in order to lead young people to the feet of the divine Master and to mold them in the light of faith and Christian morality didst heroically sacrifice thyself to the very end of thy life and didst set up a proper religious Institute destined to endure and to bring to the farthest boundaries of the earth thy glorious work, obtain also for us from Our Lord a holy love for young people who are exposed to so many seductions in order that we may generously spend ourselves in supporting them against the snares of the devil, in keeping them safe from the dangers of the world, and in guiding them, pure and holy, in the path that leads to God. <br> (Mention your request here…) Amen <br> Say 1: Our Father…   Say 1: Hail Mary…  Say 1: Glory Be…'
+        //novena1Pic.src = './novenaImages/ignatiusOfAntioch.png';
+    }
+
+    function ourLadyOfGoodSuccess(){
+        Novena2.innerHTML = 'Our Lady Of Good Success <br> January 25 - February 2'
+        Novena2A.innerHTML = 'Starts the 25th!'
+        Novena2sub.innerHTML = 'Feast Day <br> February 2'
+        Novena2subA.innerHTML = 'I believe in Thee, O my God. Strengthen, O Lord, my faith. I hope in Thee, O my God. Affirm, O Lord, my hope. I love Thee, O my God; increase, O Lord, my love. I repent of having offended Thee. O my God, help me to have contrition, so that with the help of Thy grace and the powerful patronage of Holy Mary of Good Success, I may never sin again. O Lord, have pity and mercy on me. Amen. <br> (Mention your request here…) <br> Say 1: Our Father…  Say 1: Hail Mary… Say 1: Glory Be…  <br> Hail Holy Queen, Mother of Mercy, our life, our sweetness, and our hope. To Thee do we cry, poor banished children of Eve. To Thee do we send up our sighs, mourning and weeping in this valley of tears. Turn, then, most gracious advocate, thine eyes of mercy toward us. And after this, our exile, show unto us the blessed fruit of Thy womb, Jesus. O clement, O loving, O sweet Virgin Mary, Pray for us, O Holy Mother of God: That we may be made worthy of the promises of Christ. Amen'
+        //novena2Pic.src= './novenaImages/ladyOfGuadalupe.jpg';
+    }
+
+
+    function bakhita(){
+        Novena3.innerHTML = 'St. Bakhita <br> January 31 - February 8'
+        Novena3A.innerHTML = 'Starts the 31st!'
+        Novena3sub.innerHTML = 'Feast Day <br> January 31'
+        Novena3subA.innerHTML = 'Loving God, rewarder of the humble, you blessed St. Josephine Bakhita with charity and patience. May her prayers help us, and her example inspire us to carry our cross and to love you always.  Pour upon us the spirit of wisdom and love with which you filled St. Josephine Bakhita. <br> (Mention your request here…) By serving you as she did, may we please you by our faith and our actions. Grant this through our Lord Jesus Christ, your Son, who lives and reigns with you and the Holy Spirit, one God, for ever and ever. Amen <br> Say 1: Our Father…  Say 1: Hail Mary… Say 1: Glory Be…'
+        //novena3Pic.src = './novenaImages/st.JohnOfCross.jpg';
+    }
+
 
     
     //MARY UNDOER OF KNOTS
@@ -1464,19 +1514,19 @@ window.onload = function(){
         holyNameJesus()
         Novena1A.innerHTML = 'Starts the 26th!';
     }
-    if (novenaDay == '12/22/2023') {
+    else if (novenaDay == '12/22/2023') {
         holyNameJesus()
         Novena1A.innerHTML = 'Starts the 26th!';
     }
-    if (novenaDay == '12/23/2023') {
+    else if (novenaDay == '12/23/2023') {
         holyNameJesus()
         Novena1A.innerHTML = 'Starts the 26th!';
     }
-    if (novenaDay == '12/24/2023') {
+    else if (novenaDay == '12/24/2023') {
         holyNameJesus()
         Novena1A.innerHTML = 'Starts the 26th!';
     }
-    if (novenaDay == '12/25/2023') {
+    else if (novenaDay == '12/25/2023') {
         holyNameJesus()
         Novena1A.innerHTML = 'Starts the 26th!';
     }
@@ -1594,6 +1644,390 @@ window.onload = function(){
     }
     else if (novenaDay == '01/05/2023') {
         johnNeumann()
+        Novena3A.innerHTML = 'Day 9';
+    }
+
+
+    //St SEBASTION
+    if (novenaDay == '01/04/2024') {
+        sebastion()
+        Novena1A.innerHTML = 'Starts the 12th';
+    }
+    else if (novenaDay == '01/05/2024') {
+        sebastion()
+        Novena1A.innerHTML = 'Starts the 12th';
+    }
+    else if (novenaDay == '01/06/2024') {
+        sebastion()
+        Novena1A.innerHTML = 'Starts the 12th';
+    }
+    else if (novenaDay == '01/07/2024') {
+        sebastion()
+        Novena1A.innerHTML = 'Starts the 12th';
+    }
+    else if (novenaDay == '01/08/2024') {
+        sebastion()
+        Novena1A.innerHTML = 'Starts the 12th';
+    }
+    else if (novenaDay == '01/09/2024') {
+        sebastion()
+        Novena1A.innerHTML = 'Starts the 12th';
+    }
+    else if (novenaDay == '01/10/2024') {
+        sebastion()
+        Novena1A.innerHTML = 'Starts the 12th';
+    }
+    else if (novenaDay == '01/11/2024') {
+        sebastion()
+        Novena1A.innerHTML = 'Starts the 12th';
+    }
+    else if (novenaDay == '01/12/2024') {
+        sebastion()
+        Novena1A.innerHTML = 'Day 1';
+    }
+    else if (novenaDay == '01/13/2024') {
+        sebastion()
+        Novena1A.innerHTML = 'Day 2';
+    }
+    else if (novenaDay == '01/14/2024') {
+        sebastion()
+        Novena1A.innerHTML = 'Day 3';
+    }
+    else if (novenaDay == '01/15/2024') {
+        sebastion()
+        Novena1A.innerHTML = 'Day 4';
+    }
+    else if (novenaDay == '01/16/2024') {
+        sebastion()
+        Novena1A.innerHTML = 'Day 5';
+    }
+    else if (novenaDay == '01/17/2024') {
+        sebastion()
+        Novena1A.innerHTML = 'Day 6';
+    }
+    else if (novenaDay == '01/18/2024') {
+        sebastion()
+        Novena1A.innerHTML = 'Day 7';
+    }
+    else if (novenaDay == '01/19/2024') {
+        sebastion()
+        Novena1A.innerHTML = 'Day 8';
+    }
+    else if (novenaDay == '01/20/2024') {
+        sebastion()
+        Novena1A.innerHTML = 'Day 9';
+    }
+    
+    //AGNES
+    if (novenaDay == '01/05/2023'){
+        agnes()
+        Novena2A.innerHTML = 'Starts the 27th!';
+    }
+    else if (novenaDay == '01/06/2023'){
+        agnes()
+        Novena2A.innerHTML = 'Day 1';
+    }
+    else if (novenaDay == '01/07/2023'){
+        agnes()
+        Novena2A.innerHTML = 'Day 2';
+    }
+    else if (novenaDay == '01/08/2023'){
+        agnes()
+        Novena2A.innerHTML = 'Day 3';
+    }
+    else if (novenaDay == '01/09/2023'){
+        agnes()
+        Novena2A.innerHTML = 'Day 4';
+    }
+    else if (novenaDay == '01/10/2023'){
+        agnes()
+        Novena2A.innerHTML = 'Day 5';
+    }
+    else if (novenaDay == '01/11/2024'){
+        agnes()
+        Novena2A.innerHTML = 'Day 6';
+    }
+    else if (novenaDay == '01/12/2023'){
+        agnes()
+        Novena2A.innerHTML = 'Day 7';
+    }
+    else if (novenaDay == '01/13/2023'){
+        agnes()
+        Novena2A.innerHTML = 'Day 1';
+    }
+    else if (novenaDay == '01/14/2023'){
+        agnes()
+        Novena2A.innerHTML = 'Day 2';
+    }
+    else if (novenaDay == '01/15/2023'){
+        agnes()
+        Novena2A.innerHTML = 'Day 3';
+    }
+    else if (novenaDay == '01/16/2023'){
+        agnes()
+        Novena2A.innerHTML = 'Day 4';
+    }
+    else if (novenaDay == '01/17/2023'){
+        agnes()
+        Novena2A.innerHTML = 'Day 5';
+    }
+    else if (novenaDay == '01/18/2023'){
+        agnes()
+        Novena2A.innerHTML = 'Day 6';
+    }
+    else if (novenaDay == '01/19/2023'){
+        agnes()
+        Novena2A.innerHTML = 'Day 7';
+    }
+    else if (novenaDay == '01/20/2023'){
+        agnes()
+        Novena2A.innerHTML = 'Day 8';
+    }
+    else if (novenaDay == '01/21/2023'){
+        agnes()
+        Novena2A.innerHTML = 'Day 9';
+    }
+
+    //FRANCIS DE SALES
+    if (novenaDay == '01/05/2023') {
+        francisDeSales()
+        Novena3A.innerHTML = 'Starts the 16th!';
+    }
+    else if (novenaDay == '01/06/2023') {
+        francisDeSales()
+        Novena3A.innerHTML = 'Starts the 16th!';
+    }
+    else if (novenaDay == '01/07/2023') {
+        francisDeSales()
+        Novena3A.innerHTML = 'Starts the 16th!';
+    }
+    else if (novenaDay == '01/08/2023') {
+        francisDeSales()
+        Novena3A.innerHTML = 'Starts the 16th!';
+    }
+    else if (novenaDay == '01/09/2023') {
+        francisDeSales()
+        Novena3A.innerHTML = 'Starts the 16th!';
+    }
+    else if (novenaDay == '01/10/2023') {
+        francisDeSales()
+        Novena3A.innerHTML = 'Starts the 16th!';
+    }
+    else if (novenaDay == '01/11/2023') {
+        francisDeSales()
+        Novena3A.innerHTML = 'Starts the 16th!';
+    }
+    else if (novenaDay == '01/12/2023') {
+        francisDeSales()
+        Novena3A.innerHTML = 'Starts the 16th!';
+    }
+    else if (novenaDay == '01/13/2023') {
+        francisDeSales()
+        Novena3A.innerHTML = 'Starts the 16th!';
+    }
+    else if (novenaDay == '01/14/2023') {
+        francisDeSales()
+        Novena3A.innerHTML = 'Starts the 16th!';
+    }
+    else if (novenaDay == '01/15/2023') {
+        francisDeSales()
+        Novena3A.innerHTML = 'Starts the 16th!';
+    }
+    else if (novenaDay == '01/16/2023') {
+        francisDeSales()
+        Novena3A.innerHTML = 'Day 1';
+    }
+    else if (novenaDay == '01/17/2023') {
+        francisDeSales()
+        Novena3A.innerHTML = 'Day 2';
+    }
+    else if (novenaDay == '01/18/2023') {
+        francisDeSales()
+        Novena3A.innerHTML = 'Day 3';
+    }
+    else if (novenaDay == '01/19/2023') {
+        francisDeSales()
+        Novena3A.innerHTML = 'Day 4';
+    }
+    else if (novenaDay == '01/20/2023') {
+        francisDeSales()
+        Novena3A.innerHTML = 'Day 5';
+    }
+    else if (novenaDay == '01/21/2023') {
+        francisDeSales()
+        Novena3A.innerHTML = 'Day 6';
+    }
+    else if (novenaDay == '01/22/2023') {
+        francisDeSales()
+        Novena3A.innerHTML = 'Day 7';
+    }
+    else if (novenaDay == '01/23/2023') {
+        francisDeSales()
+        Novena3A.innerHTML = 'Day 8';
+    }
+    else if (novenaDay == '01/24/2023') {
+        francisDeSales()
+        Novena3A.innerHTML = 'Day 9';
+    }
+
+
+
+    //St John Bosco
+    if (novenaDay == '01/21/2024') {
+        johnBosco()
+        Novena1A.innerHTML = 'Starts the 23rd!';
+    }
+    else if (novenaDay == '01/22/2024') {
+        johnBosco()
+        Novena1A.innerHTML = 'Starts the 23rd!';
+    }
+    else if (novenaDay == '01/23/2024') {
+        johnBosco()
+        Novena1A.innerHTML = 'Day 1';
+    }
+    else if (novenaDay == '01/24/2024') {
+        johnBosco()
+        Novena1A.innerHTML = 'Day 2';
+    }
+    else if (novenaDay == '01/25/2024') {
+        johnBosco()
+        Novena1A.innerHTML = 'Day 3';
+    }
+    else if (novenaDay == '01/26/2024') {
+        johnBosco()
+        Novena1A.innerHTML = 'Day 4';
+    }
+    else if (novenaDay == '01/27/2024') {
+        johnBosco()
+        Novena1A.innerHTML = 'Day 5';
+    }
+    else if (novenaDay == '01/28/2024') {
+        johnBosco()
+        Novena1A.innerHTML = 'Day 6';
+    }
+    else if (novenaDay == '01/29/2024') {
+        johnBosco()
+        Novena1A.innerHTML = 'Day 7';
+    }
+    else if (novenaDay == '01/30/2024') {
+        johnBosco()
+        Novena1A.innerHTML = 'Day 8';
+    }
+    else if (novenaDay == '01/31/2024') {
+        johnBosco()
+        Novena1A.innerHTML = 'Day 9';
+    }
+
+
+    //OUR LADY OF GOOD SUCCESS
+    if (novenaDay == '01/22/2023'){
+        ourLadyOfGoodSuccess()
+        Novena2A.innerHTML = 'Starts the 25th!';
+    }
+    else if (novenaDay == '01/23/2023'){
+        ourLadyOfGoodSuccess()
+        Novena2A.innerHTML = 'Starts the 25th!';
+    }
+    else if (novenaDay == '01/24/2023'){
+        ourLadyOfGoodSuccess()
+        Novena2A.innerHTML = 'Starts the 25th!';
+    }
+    else if (novenaDay == '01/25/2023'){
+        ourLadyOfGoodSuccess()
+        Novena2A.innerHTML = 'Day 1';
+    }
+    else if (novenaDay == '01/26/2023'){
+        ourLadyOfGoodSuccess()
+        Novena2A.innerHTML = 'Day 2';
+    }
+    else if (novenaDay == '01/27/2023'){
+        ourLadyOfGoodSuccess()
+        Novena2A.innerHTML = 'Day 3';
+    }
+    else if (novenaDay == '01/28/2024'){
+        ourLadyOfGoodSuccess()
+        Novena2A.innerHTML = 'Day 4';
+    }
+    else if (novenaDay == '01/29/2023'){
+        ourLadyOfGoodSuccess()
+        Novena2A.innerHTML = 'Day 5';
+    }
+    else if (novenaDay == '01/30/2023'){
+        ourLadyOfGoodSuccess()
+        Novena2A.innerHTML = 'Day 6';
+    }
+    else if (novenaDay == '01/31/2023'){
+        ourLadyOfGoodSuccess()
+        Novena2A.innerHTML = 'Day 7';
+    }
+    else if (novenaDay == '02/01/2023'){
+        ourLadyOfGoodSuccess()
+        Novena2A.innerHTML = 'Day 8';
+    }
+    else if (novenaDay == '02/02/2023'){
+        ourLadyOfGoodSuccess()
+        Novena2A.innerHTML = 'Day 9';
+    }
+
+    //BAKHITA
+    if (novenaDay == '01/25/2023') {
+        francisDeSales()
+        Novena3A.innerHTML = 'Starts the 31st!';
+    }
+    else if (novenaDay == '01/26/2023') {
+        francisDeSales()
+        Novena3A.innerHTML = 'Starts the 31st!';
+    }
+    else if (novenaDay == '01/27/2023') {
+        francisDeSales()
+        Novena3A.innerHTML = 'Starts the 31st!';
+    }
+    else if (novenaDay == '01/28/2023') {
+        francisDeSales()
+        Novena3A.innerHTML = 'Starts the 31st!';
+    }
+    else if (novenaDay == '01/29/2023') {
+        francisDeSales()
+        Novena3A.innerHTML = 'Starts the 31st!';
+    }
+    else if (novenaDay == '01/30/2023') {
+        francisDeSales()
+        Novena3A.innerHTML = 'Starts the 31st!';
+    }
+    else if (novenaDay == '01/31/2023') {
+        francisDeSales()
+        Novena3A.innerHTML = 'Day 1';
+    }
+    else if (novenaDay == '02/01/2023') {
+        francisDeSales()
+        Novena3A.innerHTML = 'Day 2';
+    }
+    else if (novenaDay == '02/02/2023') {
+        francisDeSales()
+        Novena3A.innerHTML = 'Day 3';
+    }
+    else if (novenaDay == '02/03/2023') {
+        francisDeSales()
+        Novena3A.innerHTML = 'Day 4';
+    }
+    else if (novenaDay == '02/04/2023') {
+        francisDeSales()
+        Novena3A.innerHTML = 'Day 5';
+    }
+    else if (novenaDay == '02/05/2023') {
+        francisDeSales()
+        Novena3A.innerHTML = 'Day 6';
+    }
+    else if (novenaDay == '02/06/2023') {
+        francisDeSales()
+        Novena3A.innerHTML = 'Day 7';
+    }
+    else if (novenaDay == '02/07/2023') {
+        francisDeSales()
+        Novena3A.innerHTML = 'Day 8';
+    }
+    else if (novenaDay == '02/08/2023') {
+        francisDeSales()
         Novena3A.innerHTML = 'Day 9';
     }
 
