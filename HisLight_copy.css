@@ -1517,6 +1517,15 @@ p{
         line-height: 30px;
         font-family:Georgia, 'Times New Roman', Times, serif;
     }
+    
+    #SubV{
+        font-size: 3.5vw;
+        top: 210vw;
+        left: 10vw;
+        width: 80vw;
+        line-height: 30px;
+        font-family:Georgia, 'Times New Roman', Times, serif;
+    }
 
     textarea{
         top: 275vw;
