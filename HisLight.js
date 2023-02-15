@@ -132,12 +132,16 @@ const textElement = document.getElementById("SubV");
 // Function to select a random text
 function getRandomText() {
   const texts = [
-    "Again Jesus said, “Peace be with you! As the Father has sent me, I am sending you. John 20:21",
-    "Then you will call on me and come and pray to me, and I will listen to you. Jeremiah 29:12",
-    "You are the light of the world. A town built on a hill cannot be hidden. Matthew 5:14",
-    "But our citizenship is in heaven. And we eagerly await a Savior from there, the Lord Jesus Christ. Philippians 3:20",
-    "But when you ask, you must believe and not doubt, because the one who doubts is like a wave of the sea, blown and tossed by the wind. James 1:6",
-
+    "Again Jesus said, “Peace be with you! As the Father has sent me, I am sending you. - John 20:21",
+    "Then you will call on me and come and pray to me, and I will listen to you. - Jeremiah 29:12",
+    "You are the light of the world. A town built on a hill cannot be hidden. - Matthew 5:14",
+    "But our citizenship is in heaven. And we eagerly await a Savior from there, the Lord Jesus Christ. - Philippians 3:20",
+    "But when you ask, you must believe and not doubt, because the one who doubts is like a wave of the sea, blown and tossed by the wind. - James 1:6",
+    "I press on toward the goal to win the prize for which God has called me heavenward in Christ Jesus. - Philippians 3:14",
+    "Whenever you are arrested and brought to trial, do not worry beforehand about what to say. Just say whatever is given you at the time, for it is not you speaking, but the Holy Spirit. - Mark 13:11",
+    "My prayer is not that you take them out of the world but that you protect them from the evil one. - John 17:15",
+    "Those who know your name trust in you, for you, Lord, have never forsaken those who seek you. - Psalm 9:10",
+    "“The time has come,” he said. “The kingdom of God has come near. Repent and believe the good news!” - Mark 1:15"
   ];
   return texts[Math.floor(Math.random() * texts.length)];
 }
