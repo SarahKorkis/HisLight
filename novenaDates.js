@@ -269,6 +269,54 @@ window.onload = function(){
         //novena3Pic.src = './novenaImages/st.JohnOfCross.jpg';
     }
 
+    function scholastica(){
+        Novena1.innerHTML = 'St. Scholastica <br> February 2 - February 10'
+        Novena1A.innerHTML = 'Starts the 2nd!'
+        Novena1sub.innerHTML = 'Feast Day <br> February 10'
+        Novena1subA.innerHTML = 'O God, to show us where innocence leads, you made the soul of your virgin Saint Scholastica soar to heaven like a dove in flight. Grant through her merits and her prayers that we may so live in innocence as to attain to joys everlasting. This we ask through our Lord Jesus Christ, Your Son, Who lives and reigns with You and the Holy Spirit, One God, forever and ever. Amen <br> (Mention your request here…) St. Scholastica, pray for us.  <br> Say 1: Our Father…  Say 1: Hail Mary… Say 1: Glory Be…'
+        //novena1Pic.src = './novenaImages/ignatiusOfAntioch.png';
+    }
+
+    function ourLadyLourd(){
+        Novena2.innerHTML = 'Our Lady Of Lourdes <br> February 3 - February 11'
+        Novena2A.innerHTML = 'Starts the 3rd!'
+        Novena2sub.innerHTML = 'Feast Day <br> February 11'
+        Novena2subA.innerHTML = 'O Mary Immaculate, Our Lady of Lourdes, virgin and mother, queen of heaven, chosen from all eternity to be the Mother of the Eternal Word and in virtue of this title preserved from original sin, we kneel before you as did little Bernadette at Lourdes and pray with childlike trust in you that as we contemplate your glorious appearance at Lourdes, you will look with mercy on our present petition and secure for us a favorable answer to the request for which we are making this novena. <br> (Mention your request here…) O Brilliant star of purity, Mary Immaculate, Our Lady of Lourdes, glorious in your Assumption, triumphant in your coronation, show unto us the mercy of the Mother of God, Virgin Mary, Queen and Mother, be our comfort, hope, strength, and consolation. Amen. Our Lady of Lourdes, pray for us. Saint Bernadette, pray for us.  <br> Say 1: Our Father…  Say 1: Hail Mary… Say 1: Glory Be…'
+        //novena2Pic.src= './novenaImages/ladyOfGuadalupe.jpg';
+    }
+
+    function margaretOfCortona(){
+        Novena3.innerHTML = 'St. Margaret Of Cortona <br> February 14 - February 22'
+        Novena3A.innerHTML = 'Starts the 14th!'
+        Novena3sub.innerHTML = 'Feast Day <br> February 22'
+        Novena3subA.innerHTML = 'O glorious St. Margaret, you embarked on a life of penance and poverty after you repented of your sins. Jesus touched your heart, and after imposing on yourself a rigorous life of fasting, Jesus talked and conversed with you, revealing to you his merciful heart that rejoices whenever a sinner returns to him. On controlling your appetite for food, you managed to free yourself from all temptations, including those of the flesh of which you were a victim for many years. Listen then to our petitions. May you bring our petitions to Jesus. Amen <br> (Mention your request here…) St. Margaret of Cortona, pray for us. <br> Say 1: Our Father…  Say 1: Hail Mary… Say 1: Glory Be…'
+        novena3Pic.src = './novenaImages/margaretOfCortona.jpg';
+    }
+
+    function walburga(){
+        Novena1.innerHTML = 'St. Walburga <br> February 17 - February 25'
+        Novena1A.innerHTML = 'Starts the 17th!'
+        Novena1sub.innerHTML = 'Feast Day <br> February 25'
+        Novena1subA.innerHTML = 'St. Walburga, by your blessed life of love, God blessed you with the power to heal, to make whole the soul as well as the body. Beg for us what we cannot obtain for ourselves, and heal our world of sickness and sorrow. May God hear you, who lived so graciously for His glory, and send us the healing grace we need, through your powerful intercession. Amen. <br> (Mention your request here…) <br> Say 1: Our Father…  Say 1: Hail Mary… Say 1: Glory Be…'
+        novena1Pic.src = './novenaImages/stWalburga.png';
+    }
+
+    function gabrielLadyOfSorrows(){
+        Novena2.innerHTML = 'St. Gabriel Of Our Lady Of Sorrows <br> February 19 - February 27'
+        Novena2A.innerHTML = 'Starts the 19th!'
+        Novena2sub.innerHTML = 'Feast Day <br> February 27'
+        Novena2subA.innerHTML = 'Lord, you gave Saint Gabriel of Our Lady of Sorrows a special privilege of entering into the passion of Your Son and into the compassion of his Virgin Mother, Mary. Teach us to contemplate with his eyes the very mystery of salvation and to grow in love in the spirit of joy. Amen <br> (Mention your request here…) Saint Gabriel of Our Lady of Sorrows, pray for us <br> Say 1: Our Father…  Say 1: Hail Mary… Say 1: Glory Be…'
+        novena2Pic.src= './novenaImages/stGabrielOfSorrows.jpg';
+    }
+
+    function johnOfGod(){
+        Novena3.innerHTML = 'St. John Of God <br> February 29 - March 8'
+        Novena3A.innerHTML = 'Starts the 29th!'
+        Novena3sub.innerHTML = 'Feast Day <br> March 8'
+        Novena3subA.innerHTML = 'Saint John of God, heavenly Patron of the Sick, I come to you in prayer to seek your help in my present sickness. Through the love which Jesus had for you in choosing you for the sublime vocation of serving the sick, and through the tender affection with which the Blessed Virgin Mary placed upon your head a crown of thorns as a symbol of the sufferings you would undergo in the service of the sick to attain to your crown of glory, I beg you to intercede for me to Jesus and Mary that They may grant me a cure, if this should be according to the Will of God. How patiently you bore the sufferings of your own disease! Teach me to carry with cheerful resignation the cross that God has given me. Let me never complain or lose courage. Help me to understand that suffering is a very important means of sanctifying my soul, of atoning for my many sins, and of reaping a plentiful harvest of merit for Heaven. I trust in your great love for the sick and in the power of your intercession to help them. <br> Help me, good St. John, and beg the God whose name you bear to touch me as He touched the sick while on earth, that through His almighty power health may return to my body. And as you derived strength in your own sufferings from the crucifix, so may I be able to say what you did to Jesus Crucified: “Lord, Thy thorns are my roses and Thy sufferings my paradise.” Good Saint John, lover of those who suffer and special Patron of the Sick, I confidently place before you my earnest petition. <br> (Mention your request here…) <br> I beg you to recommend my request to Mary, the Mother of Sorrows and Health of the Sick, that both Mary and you may present it to Jesus, the Divine Physician. Saint John of God, patron of the Sick and beloved of Jesus and Mary, pray to Them for me and obtain my request. (Three times.) Saint John of God, Patron of the Sick, pray for us. <br> Say 1: Our Father…  Say 1: Hail Mary… Say 1: Glory Be…'
+        novena3Pic.src = './novenaImages/stJohnOfGod.jpg';
+    }
+
 
     
     //MARY UNDOER OF KNOTS
@@ -1971,63 +2019,202 @@ window.onload = function(){
 
     //BAKHITA
     if (novenaDay == '01/25/2023') {
-        francisDeSales()
+        bakhita()
         Novena3A.innerHTML = 'Starts the 31st!';
     }
     else if (novenaDay == '01/26/2023') {
-        francisDeSales()
+        bakhita()
         Novena3A.innerHTML = 'Starts the 31st!';
     }
     else if (novenaDay == '01/27/2023') {
-        francisDeSales()
+        bakhita()
         Novena3A.innerHTML = 'Starts the 31st!';
     }
     else if (novenaDay == '01/28/2023') {
-        francisDeSales()
+        bakhita()
         Novena3A.innerHTML = 'Starts the 31st!';
     }
     else if (novenaDay == '01/29/2023') {
-        francisDeSales()
+        bakhita()
         Novena3A.innerHTML = 'Starts the 31st!';
     }
     else if (novenaDay == '01/30/2023') {
-        francisDeSales()
+        bakhita()
         Novena3A.innerHTML = 'Starts the 31st!';
     }
     else if (novenaDay == '01/31/2023') {
-        francisDeSales()
+        bakhita()
         Novena3A.innerHTML = 'Day 1';
     }
     else if (novenaDay == '02/01/2023') {
-        francisDeSales()
+        bakhita()
         Novena3A.innerHTML = 'Day 2';
     }
     else if (novenaDay == '02/02/2023') {
-        francisDeSales()
+        bakhita()
         Novena3A.innerHTML = 'Day 3';
     }
     else if (novenaDay == '02/03/2023') {
-        francisDeSales()
+        bakhita()
         Novena3A.innerHTML = 'Day 4';
     }
     else if (novenaDay == '02/04/2023') {
-        francisDeSales()
+        bakhita()
         Novena3A.innerHTML = 'Day 5';
     }
     else if (novenaDay == '02/05/2023') {
-        francisDeSales()
+        bakhita()
         Novena3A.innerHTML = 'Day 6';
     }
     else if (novenaDay == '02/06/2023') {
-        francisDeSales()
+        bakhita()
         Novena3A.innerHTML = 'Day 7';
     }
     else if (novenaDay == '02/07/2023') {
-        francisDeSales()
+        bakhita()
         Novena3A.innerHTML = 'Day 8';
     }
     else if (novenaDay == '02/08/2023') {
-        francisDeSales()
+        bakhita()
+        Novena3A.innerHTML = 'Day 9';
+    }
+
+    //St SCHOLASTICA
+    if (novenaDay == '02/01/2024') {
+        scholastica()
+        Novena1A.innerHTML = 'Starts the 2nd';
+    }
+    else if (novenaDay == '02/02/2024') {
+        scholastica()
+        Novena1A.innerHTML = 'Day 1';
+    }
+    else if (novenaDay == '02/03/2024') {
+        scholastica()
+        Novena1A.innerHTML = 'Day 2';
+    }
+    else if (novenaDay == '02/04/2024') {
+        scholastica()
+        Novena1A.innerHTML = 'Day 3';
+    }
+    else if (novenaDay == '02/05/2024') {
+        scholastica()
+        Novena1A.innerHTML = 'Day 4';
+    }
+    else if (novenaDay == '02/06/2024') {
+        scholastica()
+        Novena1A.innerHTML = 'Day 5';
+    }
+    else if (novenaDay == '02/07/2024') {
+        scholastica()
+        Novena1A.innerHTML = 'Day 6';
+    }
+    else if (novenaDay == '02/08/2024') {
+        scholastica()
+        Novena1A.innerHTML = 'Day 7';
+    }
+    else if (novenaDay == '02/09/2024') {
+        scholastica()
+        Novena1A.innerHTML = 'Day 8';
+    }
+    else if (novenaDay == '02/10/2024') {
+        scholastica()
+        Novena1A.innerHTML = 'Day 9';
+    }
+
+
+    //OUR LADY OF LOURDES
+    if (novenaDay == '02/03/2023'){
+        ourLadyLourd()
+        Novena2A.innerHTML = 'Day 1';
+    }
+    else if (novenaDay == '02/04/2023'){
+        ourLadyLourd()
+        Novena2A.innerHTML = 'Day 2';
+    }
+    else if (novenaDay == '02/05/2023'){
+        ourLadyLourd()
+        Novena2A.innerHTML = 'Day 3';
+    }
+    else if (novenaDay == '02/06/2023'){
+        ourLadyLourd()
+        Novena2A.innerHTML = 'Day 4';
+    }
+    else if (novenaDay == '02/07/2023'){
+        ourLadyLourd()
+        Novena2A.innerHTML = 'Day 5';
+    }
+    else if (novenaDay == '02/08/2023'){
+        ourLadyLourd()
+        Novena2A.innerHTML = 'Day 6';
+    }
+    else if (novenaDay == '02/09/2024'){
+        ourLadyLourd()
+        Novena2A.innerHTML = 'Day 7';
+    }
+    else if (novenaDay == '02/10/2023'){
+        ourLadyLourd()
+        Novena2A.innerHTML = 'Day 8';
+    }
+    else if (novenaDay == '02/11/2023'){
+        ourLadyLourd()
+        Novena2A.innerHTML = 'Day 9';
+    }
+
+    //MARGARET OF CORTONA
+    if (novenaDay == '02/09/2023') {
+        margaretOfCortona()
+        Novena3A.innerHTML = 'Starts the 14th!';
+    }
+    else if (novenaDay == '02/10/2023') {
+        margaretOfCortona()
+        Novena3A.innerHTML = 'Starts the 14th!';
+    }
+    else if (novenaDay == '02/11/2023') {
+        margaretOfCortona()
+        Novena3A.innerHTML = 'Starts the 14th!';
+    }
+    else if (novenaDay == '02/12/2023') {
+        margaretOfCortona()
+        Novena3A.innerHTML = 'Starts the 14th!';
+    }
+    else if (novenaDay == '02/13/2023') {
+        margaretOfCortona()
+        Novena3A.innerHTML = 'Starts the 14th!';
+    }
+    else if (novenaDay == '02/14/2023') {
+        margaretOfCortona()
+        Novena3A.innerHTML = 'Day 1';
+    }
+    else if (novenaDay == '02/15/2023') {
+        margaretOfCortona()
+        Novena3A.innerHTML = 'Day 2';
+    }
+    else if (novenaDay == '02/16/2023') {
+        margaretOfCortona()
+        Novena3A.innerHTML = 'Day 3';
+    }
+    else if (novenaDay == '02/17/2023') {
+        margaretOfCortona()
+        Novena3A.innerHTML = 'Day 4';
+    }
+    else if (novenaDay == '02/18/2023') {
+        margaretOfCortona()
+        Novena3A.innerHTML = 'Day 5';
+    }
+    else if (novenaDay == '02/19/2023') {
+        margaretOfCortona()
+        Novena3A.innerHTML = 'Day 6';
+    }
+    else if (novenaDay == '02/20/2023') {
+        margaretOfCortona()
+        Novena3A.innerHTML = 'Day 7';
+    }
+    else if (novenaDay == '02/21/2023') {
+        margaretOfCortona()
+        Novena3A.innerHTML = 'Day 8';
+    }
+    else if (novenaDay == '02/22/2023') {
+        margaretOfCortona()
         Novena3A.innerHTML = 'Day 9';
     }
 
