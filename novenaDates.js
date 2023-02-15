@@ -298,7 +298,7 @@ window.onload = function(){
         Novena1A.innerHTML = 'Starts the 17th!'
         Novena1sub.innerHTML = 'Feast Day <br> February 25'
         Novena1subA.innerHTML = 'St. Walburga, by your blessed life of love, God blessed you with the power to heal, to make whole the soul as well as the body. Beg for us what we cannot obtain for ourselves, and heal our world of sickness and sorrow. May God hear you, who lived so graciously for His glory, and send us the healing grace we need, through your powerful intercession. Amen. <br> (Mention your request here…) <br> Say 1: Our Father…  Say 1: Hail Mary… Say 1: Glory Be…'
-        novena1Pic.src = './novenaImages/stWalburga.png';
+        novena1Pic.src = './novenaImages/stWalburga.webp';
     }
 
     function gabrielLadyOfSorrows(){
