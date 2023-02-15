@@ -2280,5 +2280,75 @@ window.onload = function(){
         Novena1A.innerHTML = 'Day 9';
     }
 
+    //GABRIEL OF SORROWS
+    if (novenaDay == '2/11/2023'){
+        gabrielLadyOfSorrows()
+        Novena2A.innerHTML = 'Starts the 19th!';
+    }
+    else if (novenaDay == '2/12/2023'){
+        gabrielLadyOfSorrows()
+        Novena2A.innerHTML = 'Starts the 19th!';
+    }
+    else if (novenaDay == '2/13/2023'){
+        gabrielLadyOfSorrows()
+        Novena2A.innerHTML = 'Starts the 19th!';
+    }
+    else if (novenaDay == '2/14/2023'){
+        gabrielLadyOfSorrows()
+        Novena2A.innerHTML = 'Starts the 19th!';
+    }
+    else if (novenaDay == '2/15/2023'){
+        gabrielLadyOfSorrows()
+        Novena2A.innerHTML = 'Starts the 19th!';
+    }
+    else if (novenaDay == '2/16/2023'){
+        gabrielLadyOfSorrows()
+        Novena2A.innerHTML = 'Starts the 19th!';
+    }
+    else if (novenaDay == '2/17/2024'){
+        gabrielLadyOfSorrows()
+        Novena2A.innerHTML = 'Starts the 19th!';
+    }
+    else if (novenaDay == '2/18/2023'){
+        gabrielLadyOfSorrows()
+        Novena2A.innerHTML = 'Starts the 19th!';
+    }
+    else if (novenaDay == '2/19/2023'){
+        gabrielLadyOfSorrows()
+        Novena2A.innerHTML = 'Day 1';
+    }
+    else if (novenaDay == '2/20/2023'){
+        gabrielLadyOfSorrows()
+        Novena2A.innerHTML = 'Day 2';
+    }
+    else if (novenaDay == '2/21/2023'){
+        gabrielLadyOfSorrows()
+        Novena2A.innerHTML = 'Day 3';
+    }
+    else if (novenaDay == '2/22/2023'){
+        gabrielLadyOfSorrows()
+        Novena2A.innerHTML = 'Day 4';
+    }
+    else if (novenaDay == '2/23/2023'){
+        gabrielLadyOfSorrows()
+        Novena2A.innerHTML = 'Day 5';
+    }
+    else if (novenaDay == '2/24/2023'){
+        gabrielLadyOfSorrows()
+        Novena2A.innerHTML = 'Day 6';
+    }
+    else if (novenaDay == '2/25/2023'){
+        gabrielLadyOfSorrows()
+        Novena2A.innerHTML = 'Day 7';
+    }
+    else if (novenaDay == '2/26/2023'){
+        gabrielLadyOfSorrows()
+        Novena2A.innerHTML = 'Day 8';
+    }
+    else if (novenaDay == '2/27/2023'){
+        gabrielLadyOfSorrows()
+        Novena2A.innerHTML = 'Day 9';
+    }
+
 }
 
