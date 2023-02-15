@@ -125,18 +125,79 @@ function N1function() {
   }
 
 
-  var theHours = new Date().getHours();
-  let random = Math.floor(Math.random() * verses.length);
-  var SubV = document.getElementByClassName("SubV");
-  
 
-  const verses = [{
-      verse: "YO"},
-    {
-      verse: "HEYYY"
-    },{
-      verse: "LOL"
-    },]
+  // Find the element to change
+const textElement = document.getElementById("SubV");
+
+// Function to select a random text
+function getRandomText() {
+  const texts = [
+    "Again Jesus said, “Peace be with you! As the Father has sent me, I am sending you. John 20:21",
+    "Then you will call on me and come and pray to me, and I will listen to you. Jeremiah 29:12",
+    "You are the light of the world. A town built on a hill cannot be hidden. Matthew 5:14",
+    "But our citizenship is in heaven. And we eagerly await a Savior from there, the Lord Jesus Christ. Philippians 3:20",
+    "But when you ask, you must believe and not doubt, because the one who doubts is like a wave of the sea, blown and tossed by the wind. James 1:6",
+
+  ];
+  return texts[Math.floor(Math.random() * texts.length)];
+}
+
+// Update the text every 24 hours
+function updateText() {
+  const lastUpdate = localStorage.getItem("lastUpdate");
+  let text;
+  if (lastUpdate && Date.now() - lastUpdate < 24 * 60 * 60 * 1000) {
+    // Use the stored text if it was updated less than 24 hours ago
+    text = localStorage.getItem("text");
+  } else {
+    // Generate a new random text
+    text = getRandomText();
+    localStorage.setItem("text", text);
+    localStorage.setItem("lastUpdate", Date.now());
+  }
+  textElement.textContent = text;
+  setTimeout(updateText, 24 * 60 * 60 * 1000);
+}
+
+// Start updating the text
+updateText();
+
+
+
+
+
+// // Set the target time to change the text every minute
+// const targetTime = new Date();
+// targetTime.setSeconds(targetTime.getSeconds() + 60);
+
+// // Find the element to change
+// const textElement = document.getElementById("SubV");
+
+// // Function to select a random text
+// function getRandomText() {
+//   const texts = [
+//     "Again Jesus said, “Peace be with you! As the Father has sent me, I am sending you. John 20:21",
+//     "Then you will call on me and come and pray to me, and I will listen to you. Jeremiah 29:12",
+//     "You are the light of the world. A town built on a hill cannot be hidden. Matthew 5:14",
+//     "But our citizenship is in heaven. And we eagerly await a Savior from there, the Lord Jesus Christ. Philippians 3:20"
+//   ];
+//   return texts[Math.floor(Math.random() * texts.length)];
+// }
+
+// // Update the text every minute
+// function updateText() {
+//   textElement.textContent = getRandomText();
+//   targetTime.setSeconds(targetTime.getSeconds() + 60);
+//   setTimeout(updateText, targetTime - Date.now());
+// }
+
+// // Start updating the text
+// setTimeout(updateText, targetTime - Date.now());
+
+
+
+
+
 
 
 

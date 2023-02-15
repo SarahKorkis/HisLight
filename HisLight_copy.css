@@ -336,13 +336,13 @@ body::-webkit-scrollbar-thumb{
 .SubV {
     position: absolute;
     top: 135%;
-    left: 58%;
+    left: 60%;
     color: whitesmoke;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     letter-spacing: 3px;
     font-size: 150%;
     filter: drop-shadow(4px 4px 4px rgba(0, 0, 0, 0.536));
-    width: auto;
+    width: 35%;
     text-align: center;
     line-height: 60px;
     z-index: 1;
