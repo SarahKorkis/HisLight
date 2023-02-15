@@ -11,9 +11,9 @@ html{
 body{
     background-image: linear-gradient(rgb(0, 71, 71), rgb(25, 0, 61));
     height: 800vh;
-    width: auto;
+
     overflow: auto;
-    display: flex;
+
 }
 
 body::-webkit-scrollbar{
@@ -348,7 +348,7 @@ body::-webkit-scrollbar-thumb{
     z-index: 1;
 }
 
-textarea{
+/* textarea{
     position: absolute;
     top: 180%;
     left: 64%;
@@ -368,7 +368,7 @@ textarea{
 }
 textarea::-webkit-scrollbar {
     display: none;
-}
+} */
 
 .BiblePic{
     top: 105%;
@@ -1519,21 +1519,22 @@ p{
     }
     
     #SubV{
-        font-size: 3.5vw;
-        top: 210vw;
+        font-size: 5vw;
+        top: 215vw;
         left: 10vw;
         width: 80vw;
+        height: 10%;
         line-height: 30px;
         font-family:Georgia, 'Times New Roman', Times, serif;
     }
 
-    textarea{
+    /* textarea{
         top: 275vw;
         height: 10vw;
         width: 90vw;
         left: 8vw;
         font-size: 7vw;
-    }
+    } */
 
     .church{
         position: absolute;
