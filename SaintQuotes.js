@@ -298,6 +298,54 @@ const quotes = [{
 },{
     quote: '"Sanctify yourself and you will sanctify society."',
     writer: '- St. Francis Of Assisi'
+},{
+    quote: '“Resentment is like drinking poison and waiting for the other person to die.”',
+    writer: '- St. Augustine'
+},{
+    quote: '“The best way to prepare for death is to spend every day of life as though it were the last.”',
+    writer: '- St. Philip Neri'
+},{
+    quote: '“Reflect carefully on this, for it is so important that I can hardly lay too much stress on it. Fix your eyes on the Crucified and nothing else will be of much importance to you.”',
+    writer: '- St. Teresa of Avila'
+},{
+    quote: '“You cannot be half a saint; you must be a whole saint or no saint at all.”',
+    writer: '- St. Therese of Lisieux'
+},{
+    quote: '“Our Lord loves you and loves you tenderly; and if He does not let you feel the sweetness of His love, it is to make you more humble and abject in your own eyes.”',
+    writer: '- St. Pio of Pietrelcina'
+},{
+    quote: '"Actions speak louder than words; let your words teach and your actions speak."',
+    writer: '- St. Anthony of Padua'
+},{
+    quote: '“If God sends you many sufferings it is a sign that He has great plans for you, and certainly wants to make you a saint.”',
+    writer: '- St. Ignatius of Loyola'
+},{
+    quote: '“Do not fear what may happen tomorrow. The same loving Father who cares for you today will care for you tomorrow and every day. Either He will shield you from suffering, or He will give you unfailing strength to bear it. Be at peace, then, and put aside all anxious thoughts and imaginings.”',
+    writer: '- St. Francis de Sales'
+},{
+    quote: '“Trust in God’s Providence, interfering–as it always does–for our own good.” ',
+    writer: '- St. Mary MacKillop'
+},{
+    quote: '“Lay all your cares about the future trustingly in God’s hands, and let yourself be guided by the Lord just like a little child.”',
+    writer: '- St. Edith Stein'
+},{
+    quote: '“I see that God never tries us beyond what we are able to suffer. Oh, I fear nothing; if God sends such great sufferings to a soul, He upholds it with an even greater grace, though we are not aware of it. One act of trust in such moments gives greater glory to God than whole hours passed in prayer filled with consolation.”',
+    writer: '- St. Faustina'
+},{
+    quote: '“Hold your eyes on God and leave the doing to Him. That is all the doing you have to worry about.”',
+    writer: '- St. Jeanne de Chantal'
+},{
+    quote: '“Anxiety is the greatest evil that can befall a soul except sin. God commands you to pray, but He forbids you to worry.”',
+    writer: '- St. Francis de Sales'
+},{
+    quote: '“God is full of compassion and never fails those who are afflicted and despised, if they trust in Him alone.”',
+    writer: '- St. Teresa of Avila'
+},{
+    quote: '“The greater and more persistent your confidence in God, the more abundantly you will receive all that you ask.”',
+    writer: '- St. Albert the Great'
+},{
+    quote: '“The secret of happiness is to live moment by moment and to thank God for all that He, in His goodness, sends to us day after day.”',
+    writer: '- St. Gianna Molla'
 },]
 
 
