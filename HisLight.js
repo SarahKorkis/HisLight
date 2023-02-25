@@ -141,7 +141,21 @@ function getRandomText() {
     "Whenever you are arrested and brought to trial, do not worry beforehand about what to say. Just say whatever is given you at the time, for it is not you speaking, but the Holy Spirit. - Mark 13:11",
     "My prayer is not that you take them out of the world but that you protect them from the evil one. - John 17:15",
     "Those who know your name trust in you, for you, Lord, have never forsaken those who seek you. - Psalm 9:10",
-    "“The time has come,” he said. “The kingdom of God has come near. Repent and believe the good news!” - Mark 1:15"
+    "“The time has come,” he said. “The kingdom of God has come near. Repent and believe the good news!” - Mark 1:15",
+    "Jesus answered, “I am the way and the truth and the life. No one comes to the Father except through me.” - John 14:6",
+    "For it is by grace you have been saved, through faith—and this is not from yourselves, it is the gift of God—not by works, so that no one can boast. - Ephesians 2:8-9",
+    "Be strong and take heart, all you who hope in the Lord. - Psalm 31:24",
+    "Wisdom’s instruction is to fear the Lord, and humility comes before honor. - Proverbs 15:33",
+    "Many will be purified, made spotless and refined, but the wicked will continue to be wicked. None of the wicked will understand, but those who are wise will understand. - Daniel 12:10",
+    "Look at the birds of the air; they do not sow or reap or store away in barns, and yet your heavenly Father feeds them. Are you not much more valuable than they? - Matthew 6:26",
+    "Do not turn to the right or the left; keep your foot from evil. - Proverbs 4:27",
+    "No one who denies the Son has the Father; whoever acknowledges the Son has the Father also. - 1 John 2:23",
+    "So then, let us not be like others, who are asleep, but let us be awake and sober. - 1 Thessalonians 5:6",
+    "Do not add to what I command you and do not subtract from it, but keep the commands of the Lord your God that I give you. - Deuteronomy 4:2",
+    "Accept one another, then, just as Christ accepted you, in order to bring praise to God. - Romans 15:7",
+    "Do not store up for yourselves treasures on earth, where moths and vermin destroy, and where thieves break in and steal. But store up for yourselves treasures in heaven, where moths and vermin do not destroy, and where thieves do not break in and steal. - Matthew 6:19-20",
+    
+
   ];
   return texts[Math.floor(Math.random() * texts.length)];
 }
@@ -168,63 +182,6 @@ updateText();
 
 
 
-
-
-// // Set the target time to change the text every minute
-// const targetTime = new Date();
-// targetTime.setSeconds(targetTime.getSeconds() + 60);
-
-// // Find the element to change
-// const textElement = document.getElementById("SubV");
-
-// // Function to select a random text
-// function getRandomText() {
-//   const texts = [
-//     "Again Jesus said, “Peace be with you! As the Father has sent me, I am sending you. John 20:21",
-//     "Then you will call on me and come and pray to me, and I will listen to you. Jeremiah 29:12",
-//     "You are the light of the world. A town built on a hill cannot be hidden. Matthew 5:14",
-//     "But our citizenship is in heaven. And we eagerly await a Savior from there, the Lord Jesus Christ. Philippians 3:20"
-//   ];
-//   return texts[Math.floor(Math.random() * texts.length)];
-// }
-
-// // Update the text every minute
-// function updateText() {
-//   textElement.textContent = getRandomText();
-//   targetTime.setSeconds(targetTime.getSeconds() + 60);
-//   setTimeout(updateText, targetTime - Date.now());
-// }
-
-// // Start updating the text
-// setTimeout(updateText, targetTime - Date.now());
-
-
-
-
-
-
-
-
-
-
-/*    if (Novena2.style.display === "inline") {
-      Novena2.style.display = "inline";
-      Novena2sub.style.display = "inline";
-      Novena1.style.display = "none";
-      N2Button.style.display = "inline";
-      N1Button.style.display = "none";
-      Novena1sub.style.display = "none";
-      scrollButtons.style.display = "inline";
-    } else{
-      Novena2.style.display = "inline";
-      Novena2sub.style.display = "inline";
-      Novena1.style.display = "none";
-      N2Button.style.display = "inline";
-      N1Button.style.display = "none";
-      Novena1sub.style.display = "none";
-      scrollButtons.style.display = "none";
-    }
-  */
 
   if(window.innerWidth <= 400){
     function N1function() {
