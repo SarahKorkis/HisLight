@@ -154,6 +154,13 @@ function getRandomText() {
     "Do not add to what I command you and do not subtract from it, but keep the commands of the Lord your God that I give you. - Deuteronomy 4:2",
     "Accept one another, then, just as Christ accepted you, in order to bring praise to God. - Romans 15:7",
     "Do not store up for yourselves treasures on earth, where moths and vermin destroy, and where thieves break in and steal. But store up for yourselves treasures in heaven, where moths and vermin do not destroy, and where thieves do not break in and steal. - Matthew 6:19-20",
+    "Who is wise and understanding among you? Let them show it by their good life, by deeds done in the humility that comes from wisdom. - James 3:13",
+    "But when you pray, go into your room, close the door and pray to your Father, who is unseen. Then your Father, who sees what is done in secret, will reward you. - Matthew 6:6",
+    "For I take no pleasure in the death of anyone, declares the Sovereign Lord. Repent and live! - Ezekiel 18:32",
+    "And now these three remain: faith, hope and love. But the greatest of these is love. - 1 Corinthians 13:13",
+    "Carry each other’s burdens, and in this way you will fulfill the law of Christ. - Galatians 6:2",
+    "So when you give to the needy, do not announce it with trumpets, as the hypocrites do in the synagogues and on the streets, to be honored by others. Truly I tell you, they have received their reward in full. - Matthew 6:2",
+    "Do not worry about your life, what you will eat; or about your body, what you will wear. For life is more than food, and the body more than clothes. - Luke 12:22-23",
     
 
   ];
