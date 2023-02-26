@@ -1511,6 +1511,7 @@ p{
     .SubV{
         font-size: 3.5vw;
         letter-spacing: 2px;
+        line-height: 3vh;
         top: 210vw;
         left: 10vw;
         width: 80vw;
@@ -1520,7 +1521,7 @@ p{
     
     #SubV{
         font-size: 3.5vw;
-        line-height: 5vw;
+        line-height: 3vh;
         letter-spacing: 2px;
         top: 210vw;
         left: 10vw;
