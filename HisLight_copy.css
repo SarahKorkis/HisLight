@@ -1520,6 +1520,7 @@ p{
     
     #SubV{
         font-size: 3.5vw;
+        line-height: 5vw;
         letter-spacing: 2px;
         top: 210vw;
         left: 10vw;
