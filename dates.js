@@ -2205,18 +2205,18 @@ function Nfunction() {
 
     const novena1Day = new Date();
     let newNovena1Day = novena1Day.getDate();
-    if (newNovena1Day == '12'){
-      Novena1A.innerHTML = 'Day 7';
-    }
-    else if (newNovena1Day == '13'){
-      Novena1A.innerHTML = 'Day 8';
-    }
-    else if (newNovena1Day == '14'){
-      Novena1A.innerHTML = 'Day 9';
-    }
-    else{
-      Novena2A.innerHTML = 'ERROR';
-    }
+    // if (newNovena1Day == '12'){
+    //   Novena1A.innerHTML = 'Day 7';
+    // }
+    // else if (newNovena1Day == '13'){
+    //   Novena1A.innerHTML = 'Day 8';
+    // }
+    // else if (newNovena1Day == '14'){
+    //   Novena1A.innerHTML = 'Day 9';
+    // }
+    // else{
+    //   Novena2A.innerHTML = 'ERROR';
+    // }
   
     if (Novena1.style.display === "none") {
       Novena1.style.display = "inline";
@@ -2245,21 +2245,21 @@ function Nfunction() {
     var Novena2subA = document.getElementById("Novena2subA");
     const novena2Day = new Date();
     let newNovena2Day = novena2Day.getDate();
-    if (newNovena2Day == '12'){
-      Novena2A.innerHTML = 'Day 6';
-    }
-    else if (newNovena2Day == '13'){
-      Novena2A.innerHTML = 'Day 7';
-    }
-    else if (newNovena2Day == '14'){
-      Novena2A.innerHTML = 'Day 8';
-    }
-    else if (newNovena2Day == '15'){
-      Novena2A.innerHTML = 'Day 9';
-    }
-    else{
-      Novena2A.innerHTML = 'ERROR';
-    }
+    // if (newNovena2Day == '12'){
+    //   Novena2A.innerHTML = 'Day 6';
+    // }
+    // else if (newNovena2Day == '13'){
+    //   Novena2A.innerHTML = 'Day 7';
+    // }
+    // else if (newNovena2Day == '14'){
+    //   Novena2A.innerHTML = 'Day 8';
+    // }
+    // else if (newNovena2Day == '15'){
+    //   Novena2A.innerHTML = 'Day 9';
+    // }
+    // else{
+    //   Novena2A.innerHTML = 'ERROR';
+    // }
   
     if (Novena2.style.display === "none") {
       Novena2.style.display = "inline";
@@ -2288,18 +2288,18 @@ function Nfunction() {
 
       const novena1Day = new Date();
       let newNovena1Day = novena1Day.getDate();
-      if (newNovena1Day == '12'){
-        Novena1A.innerHTML = 'Day 7';
-      }
-      else if (newNovena1Day == '13'){
-        Novena1A.innerHTML = 'Day 8';
-      }
-      else if (newNovena1Day == '14'){
-        Novena1A.innerHTML = 'Day 9';
-      }
-      else{
-        Novena2A.innerHTML = 'ERROR';
-      }
+      // if (newNovena1Day == '12'){
+      //   Novena1A.innerHTML = 'Day 7';
+      // }
+      // else if (newNovena1Day == '13'){
+      //   Novena1A.innerHTML = 'Day 8';
+      // }
+      // else if (newNovena1Day == '14'){
+      //   Novena1A.innerHTML = 'Day 9';
+      // }
+      // else{
+      //   Novena2A.innerHTML = 'ERROR';
+      // }
     
       if (Novena1.style.display === "none") {
         Novena1.style.display = "inline";

@@ -26,6 +26,22 @@ window.onload = function(){
     const novenaDay = new Date().toLocaleString().split(',')[0];
 
 
+    function holyCross(){
+        Novena1.innerHTML = 'Holy Cross <br> September 6 - 14'
+        Novena1A.innerHTML = 'Starts the 6th!'
+        Novena1sub.innerHTML = 'Feast Day <br> September 14'
+        Novena1subA.innerHTML = 'In the name of the Father, and of the Son, and of the Holy Spirit. Amen. Jesus, Who because of Your burning love for us willed to be crucified and to shed Your Most Precious Blood for the redemption and salvation of our souls, <br> look down upon us and grant the petition we ask for… <br> (Mention your request here…) <br> We trust completely in Your Mercy. Cleanse us from sin by Your Grace, sanctify our work, <br> give us and all those who are dear to us our daily bread, lighten the burden of our sufferings, bless our families, and grant to the nations, so sorely afflicted, Your Peace, which is the only true peace, so that by obeying Your Commandments we may come at last to the glory of Heaven. Amen. <br> Say 1: Our Father…  Say 1: Hail Mary… Say 1: Glory Be…'
+        novena1Pic.src = './novenaImages/jesus crucified.jpeg';
+    }
+
+    function sorrowfulMary(){
+        Novena1.innerHTML = 'Sorrowful Mary <br> September 7 - 15'
+        Novena1A.innerHTML = 'Starts the 7th!'
+        Novena1sub.innerHTML = 'Feast Day <br> September 15'
+        Novena1subA.innerHTML = 'In the name of the Father, and of the Son, and of the Holy Spirit. Amen. O sorrowful Mother, I turn to you in total trust. <br> You suffered the sharpest pains in life, watching your Son die upon the Cross, and yet you remained by Him to the end. <br> Look with favor upon me, a poor sinner, and obtain for me from your Son all the graces I need to endure the sufferings God allows me to face. <br> Daily Prayer - <br> On the Cross her Son was dying. Mary stood beneath Him crying, Sharing in His saving cross. As He hangs, her soul is grieving, and a sword her heart is cleaving and she weeps the bitter loss. O Mother of Sorrows, through thy First Sorrow, the Prophecy of Holy Simeon, intercede for me with the Sacred Heart of Jesus, and grant me the favor I implore <br> (mention your request here…) <br> Say 1: Our Father…  Say 1: Hail Mary… Say 1: Glory Be...'
+        novena1Pic.src = './novenaImages/sorrowful Mary.jpg';
+    }
+
     function MaryOfKnots(){
         Novena1.innerHTML = 'Mary UnDoer Of Knots <br> September 20 - 28'
         Novena1A.innerHTML = 'Starts the 20th!'
@@ -317,6 +333,82 @@ window.onload = function(){
         novena3Pic.src = './novenaImages/stJohnOfGod.jpg';
     }
 
+
+    //Holy Cross
+    if (novenaDay == '9/6/2023') {
+        holyCross();
+        Novena1A.innerHTML = 'Day 1';
+    }
+    else if (novenaDay == '9/7/2023') {
+        holyCross();
+        Novena1A.innerHTML = 'Day 2';
+    }
+    else if (novenaDay == '9/8/2023') {
+        holyCross();
+        Novena1A.innerHTML = 'Day 3';
+    }
+    else if (novenaDay == '9/9/2023') {
+        holyCross();
+        Novena1A.innerHTML = 'Day 4';
+    }
+    else if (novenaDay == '9/10/2023') {
+        holyCross();
+        Novena1A.innerHTML = 'Day 5';
+    }
+    else if (novenaDay == '9/11/2023') {
+        holyCross();
+        Novena1A.innerHTML = 'Day 6';
+    }
+    else if (novenaDay == '9/12/2023') {
+        holyCross();
+        Novena1A.innerHTML = 'Day 7';
+    }
+    else if (novenaDay == '9/13/2023') {
+        holyCross();
+        Novena1A.innerHTML = 'Day 8';
+    }
+    else if (novenaDay == '9/14/2023') {
+        holyCross();
+        Novena1A.innerHTML = 'Day 9';
+    }
+
+    //Sorrowful Mary
+    if (novenaDay == '9/7/2023') {
+        sorrowfulMary();
+        Novena1A.innerHTML = 'Day 1';
+    }
+    else if (novenaDay == '9/8/2023') {
+        sorrowfulMary();
+        Novena1A.innerHTML = 'Day 2';
+    }
+    else if (novenaDay == '9/9/2023') {
+        sorrowfulMary();
+        Novena1A.innerHTML = 'Day 3';
+    }
+    else if (novenaDay == '9/10/2023') {
+        sorrowfulMary();
+        Novena1A.innerHTML = 'Day 4';
+    }
+    else if (novenaDay == '9/11/2023') {
+        sorrowfulMary();
+        Novena1A.innerHTML = 'Day 5';
+    }
+    else if (novenaDay == '9/12/2023') {
+        sorrowfulMary();
+        Novena1A.innerHTML = 'Day 6';
+    }
+    else if (novenaDay == '9/13/2023') {
+        sorrowfulMary();
+        Novena1A.innerHTML = 'Day 7';
+    }
+    else if (novenaDay == '9/14/2023') {
+        sorrowfulMary();
+        Novena1A.innerHTML = 'Day 8';
+    }
+    else if (novenaDay == '9/15/2023') {
+        sorrowfulMary();
+        Novena1A.innerHTML = 'Day 9';
+    }
 
     
     //MARY UNDOER OF KNOTS

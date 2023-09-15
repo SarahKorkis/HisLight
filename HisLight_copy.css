@@ -1402,6 +1402,69 @@ p{
     fill: #32247691;
 }
 
+.bibleContainer::-webkit-scrollbar{
+    width: 10px;
+    height: 10px;
+    display: flex;
+    background-color: transparent;
+}
+
+.bibleContainer::-webkit-scrollbar-thumb{
+    border-radius: 10px;
+    height: 5px;
+    /* background: rgba(126, 126, 126, 0.518); */
+    background: transparent;
+}
+
+.bibleContainer {
+    position: absolute;
+    display: flex;
+    z-index: 10;
+    top: 660vh;
+    left: 2vw;
+    width: 90vw;
+    height: 45vh;
+    overflow-x: scroll;
+    overflow-y: hidden;
+  }
+  
+  .bibleContent {
+    margin-top: 5vh;
+    display: flex;
+    flex-wrap: nowrap;
+  }
+  
+  .bibleContent img {
+    width: 20vw;
+    height: 35vh;
+    object-fit: cover;
+    flex-shrink: 0;
+    padding-right: 1vw;
+    padding-left: 1vw;
+    border-radius: 1.5vw;
+  }
+
+
+  .gospelOfMatthew{
+    position: absolute;
+    top: 655vh;
+    left: 4vw;
+    font-size: 2vw;
+    /* text-decoration: underline; */
+    color: #d3d3d3;
+  }
+
+  .gospelLine{
+    position: absolute;
+    width: 45%;
+    height: 1px;
+    top: 661vh;
+    left: 4%;
+    background-color: rgb(155, 155, 155);
+    z-index: 1;
+}
+  
+
 
 @media only screen and (max-width: 400px){
 
@@ -1510,7 +1573,8 @@ p{
 
     .SubV{
         font-size: 3.5vw;
-        letter-spacing: 2px;
+        letter-spacing: 1px;
+        line-height: 5vh;
         top: 210vw;
         left: 10vw;
         width: 80vw;
@@ -1520,7 +1584,8 @@ p{
     
     #SubV{
         font-size: 3.5vw;
-        letter-spacing: 2px;
+        letter-spacing: 1px;
+        line-height: 5vh;
         top: 210vw;
         left: 10vw;
         width: 80vw;
@@ -1741,7 +1806,6 @@ p{
         flex-direction: column;
         align-items: center;
         text-align: center;
-        left: 2vw;
         font-size: 5.5vw;
         top: 860vw;
         font-family:Georgia, 'Times New Roman', Times, serif;
@@ -1916,7 +1980,7 @@ p{
         top: 1100vw;
     }
 
-    .wine{
+    /* .wine{
         width: 75%;
         height: 30%;
         border-radius: 12px;
@@ -2120,7 +2184,29 @@ p{
         filter: drop-shadow(4px 4px 4px rgb(0, 0, 0));
         z-index: 2;
         opacity: 1;
+    } */
+
+    .bibleContent img{
+        width: 50vw;
+        height: 22vh;
     }
+
+    .bibleContainer{
+        position: absolute;
+        top: 595vh;
+        height: 30vh;
+    }
+
+    .gospelOfMatthew{
+        top: 593vh;
+        font-size: 5vw;
+    }
+
+    .gospelLine{
+        top: 597vh;
+        width: 60vw;
+    }
+
 
 
     /* dropdown Button */
