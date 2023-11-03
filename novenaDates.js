@@ -972,7 +972,7 @@ window.onload = function(){
         Novena1A.innerHTML = 'Starts the 3rd!';
     }
     if (novenaDay == '11/03/2023') {
-        martinTours();
+        martinTours()
         Novena1A.innerHTML = 'Day 1';
     }
     else if (novenaDay == '11/04/2023') {
