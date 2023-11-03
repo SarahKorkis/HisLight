@@ -968,7 +968,7 @@ window.onload = function(){
         Novena1A.innerHTML = 'Starts the 3rd!';
     }
     if (novenaDay == '11/2/2023') {
-        martinTours();
+        martinTours()
         Novena1A.innerHTML = 'Starts the 3rd!';
     }
     if (novenaDay == '11/03/2023') {
