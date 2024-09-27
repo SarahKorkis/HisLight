@@ -335,136 +335,136 @@ window.onload = function(){
 
 
     //Holy Cross
-    if (novenaDay == '9/6/2023') {
+    if (novenaDay == '9/6/2024') {
         holyCross();
         Novena1A.innerHTML = 'Day 1';
     }
-    else if (novenaDay == '9/7/2023') {
+    else if (novenaDay == '9/7/2024') {
         holyCross();
         Novena1A.innerHTML = 'Day 2';
     }
-    else if (novenaDay == '9/8/2023') {
+    else if (novenaDay == '9/8/2024') {
         holyCross();
         Novena1A.innerHTML = 'Day 3';
     }
-    else if (novenaDay == '9/9/2023') {
+    else if (novenaDay == '9/9/2024') {
         holyCross();
         Novena1A.innerHTML = 'Day 4';
     }
-    else if (novenaDay == '9/10/2023') {
+    else if (novenaDay == '9/10/2024') {
         holyCross();
         Novena1A.innerHTML = 'Day 5';
     }
-    else if (novenaDay == '9/11/2023') {
+    else if (novenaDay == '9/11/2024') {
         holyCross();
         Novena1A.innerHTML = 'Day 6';
     }
-    else if (novenaDay == '9/12/2023') {
+    else if (novenaDay == '9/12/2024') {
         holyCross();
         Novena1A.innerHTML = 'Day 7';
     }
-    else if (novenaDay == '9/13/2023') {
+    else if (novenaDay == '9/13/2024') {
         holyCross();
         Novena1A.innerHTML = 'Day 8';
     }
-    else if (novenaDay == '9/14/2023') {
+    else if (novenaDay == '9/14/2024') {
         holyCross();
         Novena1A.innerHTML = 'Day 9';
     }
 
     //Sorrowful Mary
-    if (novenaDay == '9/7/2023') {
+    if (novenaDay == '9/7/2024') {
         sorrowfulMary();
         Novena1A.innerHTML = 'Day 1';
     }
-    else if (novenaDay == '9/8/2023') {
+    else if (novenaDay == '9/8/2024') {
         sorrowfulMary();
         Novena1A.innerHTML = 'Day 2';
     }
-    else if (novenaDay == '9/9/2023') {
+    else if (novenaDay == '9/9/2024') {
         sorrowfulMary();
         Novena1A.innerHTML = 'Day 3';
     }
-    else if (novenaDay == '9/10/2023') {
+    else if (novenaDay == '9/10/2024') {
         sorrowfulMary();
         Novena1A.innerHTML = 'Day 4';
     }
-    else if (novenaDay == '9/11/2023') {
+    else if (novenaDay == '9/11/2024') {
         sorrowfulMary();
         Novena1A.innerHTML = 'Day 5';
     }
-    else if (novenaDay == '9/12/2023') {
+    else if (novenaDay == '9/12/2024') {
         sorrowfulMary();
         Novena1A.innerHTML = 'Day 6';
     }
-    else if (novenaDay == '9/13/2023') {
+    else if (novenaDay == '9/13/2024') {
         sorrowfulMary();
         Novena1A.innerHTML = 'Day 7';
     }
-    else if (novenaDay == '9/14/2023') {
+    else if (novenaDay == '9/14/2024') {
         sorrowfulMary();
         Novena1A.innerHTML = 'Day 8';
     }
-    else if (novenaDay == '9/15/2023') {
+    else if (novenaDay == '9/15/2024') {
         sorrowfulMary();
         Novena1A.innerHTML = 'Day 9';
     }
 
     
     //MARY UNDOER OF KNOTS
-    if (novenaDay == '9/15/2023') {
+    if (novenaDay == '9/15/2024') {
         MaryOfKnots();
         Novena1A.innerHTML = 'Starts the 20th!';
     }
-    else if (novenaDay == '9/16/2023') {
+    else if (novenaDay == '9/16/2024') {
         MaryOfKnots();
         Novena1A.innerHTML = 'Starts the 20th!';
     }
-    else if (novenaDay == '9/17/2023') {
+    else if (novenaDay == '9/17/2024') {
         MaryOfKnots();
         Novena1A.innerHTML = 'Starts the 20th!';
     }
-    else if (novenaDay == '9/18/2023') {
+    else if (novenaDay == '9/18/2024') {
         MaryOfKnots();
         Novena1A.innerHTML = 'Starts the 20th!';
     }
-    else if (novenaDay == '9/19/2023') {
+    else if (novenaDay == '9/19/2024') {
         MaryOfKnots();
         Novena1A.innerHTML = 'Starts the 20th!';
     }
-    else if (novenaDay == '9/20/2023') {
+    else if (novenaDay == '9/20/2024') {
         MaryOfKnots();
         Novena1A.innerHTML = 'Day 1';
     }
-    else if (novenaDay == '9/21/2023') {
+    else if (novenaDay == '9/21/2024') {
         MaryOfKnots();
         Novena1A.innerHTML = 'Day 2';
     }
-    else if (novenaDay == '9/22/2023') {
+    else if (novenaDay == '9/22/2024') {
         MaryOfKnots();
         Novena1A.innerHTML = 'Day 3';
     }
-    else if (novenaDay == '9/23/2023') {
+    else if (novenaDay == '9/23/2024') {
         MaryOfKnots();
         Novena1A.innerHTML = 'Day 4';
     }
-    else if (novenaDay == '9/24/2023') {
+    else if (novenaDay == '9/24/2024') {
         MaryOfKnots();
         Novena1A.innerHTML = 'Day 5';
     }
-    else if (novenaDay == '9/25/2023') {
+    else if (novenaDay == '9/25/2024') {
         MaryOfKnots();
         Novena1A.innerHTML = 'Day 6';
     }
-    else if (novenaDay == '9/26/2023') {
+    else if (novenaDay == '9/26/2024') {
         MaryOfKnots();
         Novena1A.innerHTML = 'Day 7';
     }
-    else if (novenaDay == '9/27/2023') {
+    else if (novenaDay == '9/27/2024') {
         MaryOfKnots();
         Novena1A.innerHTML = 'Day 8';
     }
-    else if (novenaDay == '9/28/2023') {
+    else if (novenaDay == '9/28/2024') {
         MaryOfKnots();
         Novena1A.innerHTML = 'Day 9';
     }
@@ -472,454 +472,454 @@ window.onload = function(){
 
 
     //MICHAEL ARCH ANGEL
-    if (novenaDay == '9/16/2023'){
+    if (novenaDay == '9/16/2024'){
         michaelArchAngel()
         Novena2A.innerHTML = 'Starts the 21st!'
     }
-    else if (novenaDay == '9/17/2023'){
+    else if (novenaDay == '9/17/2024'){
         michaelArchAngel()
         Novena2A.innerHTML = 'Starts the 21st!'
     }
-    else if (novenaDay == '9/18/2023'){
+    else if (novenaDay == '9/18/2024'){
         michaelArchAngel()
         Novena2A.innerHTML = 'Starts the 21st!'
     }
-    else if (novenaDay == '9/19/2023'){
+    else if (novenaDay == '9/19/2024'){
         michaelArchAngel()
         Novena2A.innerHTML = 'Starts the 21st!'
     }
-    else if (novenaDay == '9/20/2023'){
+    else if (novenaDay == '9/20/2024'){
         michaelArchAngel()
         Novena2A.innerHTML = 'Starts the 21st!'
     }
-    else if (novenaDay == '9/21/2023'){
+    else if (novenaDay == '9/21/2024'){
         michaelArchAngel()
         Novena2A.innerHTML = 'Day 1';
     }
-    else if (novenaDay == '9/22/2023'){
+    else if (novenaDay == '9/22/2024'){
         michaelArchAngel()
         Novena2A.innerHTML = 'Day 2';
     }
-    else if (novenaDay == '9/23/2023'){
+    else if (novenaDay == '9/23/2024'){
         michaelArchAngel()
         Novena2A.innerHTML = 'Day 3';
     }
-    else if (novenaDay == '9/24/2023'){
+    else if (novenaDay == '9/24/2024'){
         michaelArchAngel()
         Novena2A.innerHTML = 'Day 4';
     }
-    else if (novenaDay == '9/25/2023'){
+    else if (novenaDay == '9/25/2024'){
         michaelArchAngel()
         Novena2A.innerHTML = 'Day 5';
     }
-    else if (novenaDay == '9/26/2023'){
+    else if (novenaDay == '9/26/2024'){
         michaelArchAngel()
         Novena2A.innerHTML = 'Day 6';
     }
-    else if (novenaDay == '9/27/2023'){
+    else if (novenaDay == '9/27/2024'){
         michaelArchAngel()
         Novena2A.innerHTML = 'Day 7';
     }
-    else if (novenaDay == '9/28/2023'){
+    else if (novenaDay == '9/28/2024'){
         michaelArchAngel()
         Novena2A.innerHTML = 'Day 8';
     }
-    else if (novenaDay == '9/29/2023'){
+    else if (novenaDay == '9/29/2024'){
         michaelArchAngel()
         Novena2A.innerHTML = 'Day 9';
     }
 
 
         //Therese
-    if (novenaDay == '9/21/2023') {
+    if (novenaDay == '9/21/2024') {
         therese();
         Novena3A.innerHTML = 'Starts the 23rd!';
     }
-    else if (novenaDay == '9/22/2023') {
+    else if (novenaDay == '9/22/2024') {
         therese();
         Novena3A.innerHTML = 'Starts the 23rd!';
     }
-    else if (novenaDay == '9/23/2023') {
+    else if (novenaDay == '9/23/2024') {
         therese();
         Novena3A.innerHTML = 'Day 1';
     }
-    else if (novenaDay == '9/24/2023') {
+    else if (novenaDay == '9/24/2024') {
         therese();
         Novena3A.innerHTML = 'Day 2';
     }
-    else if (novenaDay == '9/25/2023') {
+    else if (novenaDay == '9/25/2024') {
         therese();
         Novena3A.innerHTML = 'Day 3';
     }
-    else if (novenaDay == '9/26/2023') {
+    else if (novenaDay == '9/26/2024') {
         therese();
         Novena3A.innerHTML = 'Day 4';
     }
-    else if (novenaDay == '9/27/2023') {
+    else if (novenaDay == '9/27/2024') {
         therese();
         Novena3A.innerHTML = 'Day 5';
     }
-    else if (novenaDay == '9/28/2023') {
+    else if (novenaDay == '9/28/2024') {
         therese();
         Novena3A.innerHTML = 'Day 6';
     }
-    else if (novenaDay == '9/29/2023') {
+    else if (novenaDay == '9/29/2024') {
         therese();
         Novena3A.innerHTML = 'Day 7';
     }
-    else if (novenaDay == '9/30/2023') {
+    else if (novenaDay == '9/30/2024') {
         therese();
         Novena3A.innerHTML = 'Day 8';
     }
-    else if (novenaDay == '10/1/2023') {
+    else if (novenaDay == '10/1/2024') {
         therese();
         Novena3A.innerHTML = 'Day 9';
     }
 
     //Faustina
-    if (novenaDay == '9/29/2023') {
+    if (novenaDay == '9/29/2024') {
         faustina();
         Novena1A.innerHTML = 'Day 3';
     }
-    else if (novenaDay == '9/30/2023') {
+    else if (novenaDay == '9/30/2024') {
         faustina();
         Novena1A.innerHTML = 'Day 4';
     }
-    else if (novenaDay == '10/1/2023') {
+    else if (novenaDay == '10/1/2024') {
         faustina();
         Novena1A.innerHTML = 'Day 5';
     }
-    else if (novenaDay == '10/2/2023') {
+    else if (novenaDay == '10/2/2024') {
         faustina();
         Novena1A.innerHTML = 'Day 6';
     }
-    else if (novenaDay == '10/3/2023') {
+    else if (novenaDay == '10/3/2024') {
         faustina();
         Novena1A.innerHTML = 'Day 7';
     }
-    else if (novenaDay == '10/4/2023') {
+    else if (novenaDay == '10/4/2024') {
         faustina();
         Novena1A.innerHTML = 'Day 8';
     }
-    else if (novenaDay == '10/5/2023') {
+    else if (novenaDay == '10/5/2024') {
         faustina();
         Novena1A.innerHTML = 'Day 9';
     }
 
     //Our Lady Rosary
-    if (novenaDay == '9/30/2023'){
+    if (novenaDay == '9/30/2024'){
         LadyOfRosary()
         Novena2A.innerHTML = 'Day 2'
     }
-    else if (novenaDay == '10/1/2023'){
+    else if (novenaDay == '10/1/2024'){
         LadyOfRosary()
         Novena2A.innerHTML = 'Day 3'
     }
-    else if (novenaDay == '10/2/2023'){
+    else if (novenaDay == '10/2/2024'){
         LadyOfRosary()
         Novena2A.innerHTML = 'Day 4'
     }
-    else if (novenaDay == '10/3/2023'){
+    else if (novenaDay == '10/3/2024'){
         LadyOfRosary()
         Novena2A.innerHTML = 'Day 5'
     }
-    else if (novenaDay == '10/4/2023'){
+    else if (novenaDay == '10/4/2024'){
         LadyOfRosary()
         Novena2A.innerHTML = 'Day 6'
     }
-    else if (novenaDay == '10/5/2023'){
+    else if (novenaDay == '10/5/2024'){
         LadyOfRosary()
         Novena2A.innerHTML = 'Day 7';
     }
-    else if (novenaDay == '10/6/2023'){
+    else if (novenaDay == '10/6/2024'){
         LadyOfRosary()
         Novena2A.innerHTML = 'Day 8';
     }
-    else if (novenaDay == '10/7/2023'){
+    else if (novenaDay == '10/7/2024'){
         LadyOfRosary()
         Novena2A.innerHTML = 'Day 9';
     }
 
     //Teresa Of Avila
-    if (novenaDay == '10/2/2023') {
+    if (novenaDay == '10/2/2024') {
         teresaOfAvila()
         Novena3A.innerHTML = 'Starts the 7th';
     }
-    else if (novenaDay == '10/3/2023') {
+    else if (novenaDay == '10/3/2024') {
         teresaOfAvila()
         Novena3A.innerHTML = 'Starts the 7th';
     }
-    else if (novenaDay == '10/4/2023') {
+    else if (novenaDay == '10/4/2024') {
         teresaOfAvila()
         Novena3A.innerHTML = 'Starts the 7th';
     }
-    else if (novenaDay == '10/5/2023') {
+    else if (novenaDay == '10/5/2024') {
         teresaOfAvila()
         Novena3A.innerHTML = 'Starts the 7th';
     }
-    else if (novenaDay == '10/6/2023') {
+    else if (novenaDay == '10/6/2024') {
         teresaOfAvila()
         Novena3A.innerHTML = 'Starts the 7th';
     }
-    else if (novenaDay == '10/7/2023') {
+    else if (novenaDay == '10/7/2024') {
         teresaOfAvila()
         Novena3A.innerHTML = 'Day 1';
     }
-    else if (novenaDay == '10/8/2023') {
+    else if (novenaDay == '10/8/2024') {
         teresaOfAvila()
         Novena3A.innerHTML = 'Day 2';
     }
-    else if (novenaDay == '10/9/2023') {
+    else if (novenaDay == '10/9/2024') {
         teresaOfAvila()
         Novena3A.innerHTML = 'Day 3';
     }
-    else if (novenaDay == '10/10/2023') {
+    else if (novenaDay == '10/10/2024') {
         teresaOfAvila()
         Novena3A.innerHTML = 'Day 4';
     }
-    else if (novenaDay == '10/11/2023') {
+    else if (novenaDay == '10/11/2024') {
         teresaOfAvila()
         Novena3A.innerHTML = 'Day 5';
     }
-    else if (novenaDay == '10/12/2023') {
+    else if (novenaDay == '10/12/2024') {
         teresaOfAvila()
         Novena3A.innerHTML = 'Day 6';
     }
-    else if (novenaDay == '10/13/2023') {
+    else if (novenaDay == '10/13/2024') {
         teresaOfAvila()
         Novena3A.innerHTML = 'Day 7';
     }
-    else if (novenaDay == '10/14/2023') {
+    else if (novenaDay == '10/14/2024') {
         teresaOfAvila()
         Novena3A.innerHTML = 'Day 8';
     }
-    else if (novenaDay == '10/15/2023') {
+    else if (novenaDay == '10/15/2024') {
         teresaOfAvila()
         Novena3A.innerHTML = 'Day 9';
     }
 
         //JohnPaulII
-    if (novenaDay == '10/6/2023') {
+    if (novenaDay == '10/6/2024') {
         johnPaulII();
         Novena1A.innerHTML = 'Starts the 14th!';
     }
-    else if (novenaDay == '10/7/2023') {
+    else if (novenaDay == '10/7/2024') {
         johnPaulII();
         Novena1A.innerHTML = 'Starts the 14th!';
     }
-    else if (novenaDay == '10/8/2023') {
+    else if (novenaDay == '10/8/2024') {
         johnPaulII();
         Novena1A.innerHTML = 'Starts the 14th!';
     }
-    else if (novenaDay == '10/9/2023') {
+    else if (novenaDay == '10/9/2024') {
         johnPaulII();
         Novena1A.innerHTML = 'Starts the 14th!';
     }
-    else if (novenaDay == '10/10/2023') {
+    else if (novenaDay == '10/10/2024') {
         johnPaulII();
         Novena1A.innerHTML = 'Starts the 14th!';
     }
-    else if (novenaDay == '10/11/2023') {
+    else if (novenaDay == '10/11/2024') {
         johnPaulII();
         Novena1A.innerHTML = 'Starts the 14th!';
     }
-    else if (novenaDay == '10/12/2023') {
+    else if (novenaDay == '10/12/2024') {
         johnPaulII();
         Novena1A.innerHTML = 'Starts the 14th!';
     }
-    else if (novenaDay == '10/13/2023') {
+    else if (novenaDay == '10/13/2024') {
         johnPaulII();
         Novena1A.innerHTML = 'Starts the 14th!';
     }
-    else if (novenaDay == '10/14/2023') {
+    else if (novenaDay == '10/14/2024') {
         johnPaulII();
         Novena1A.innerHTML = 'Day 1';
     }
-    else if (novenaDay == '10/15/2023') {
+    else if (novenaDay == '10/15/2024') {
         johnPaulII();
         Novena1A.innerHTML = 'Day 2';
     }
-    else if (novenaDay == '10/16/2023') {
+    else if (novenaDay == '10/16/2024') {
         johnPaulII();
         Novena1A.innerHTML = 'Day 3';
     }
-    else if (novenaDay == '10/17/2023') {
+    else if (novenaDay == '10/17/2024') {
         johnPaulII();
         Novena1A.innerHTML = 'Day 4';
     }
-    else if (novenaDay == '10/18/2023') {
+    else if (novenaDay == '10/18/2024') {
         johnPaulII();
         Novena1A.innerHTML = 'Day 5';
     }
-    else if (novenaDay == '10/19/2023') {
+    else if (novenaDay == '10/19/2024') {
         johnPaulII();
         Novena1A.innerHTML = 'Day 6';
     }
-    else if (novenaDay == '10/20/2023') {
+    else if (novenaDay == '10/20/2024') {
         johnPaulII();
         Novena1A.innerHTML = 'Day 7';
     }
-    else if (novenaDay == '10/21/2023') {
+    else if (novenaDay == '10/21/2024') {
         johnPaulII();
         Novena1A.innerHTML = 'Day 8';
     }
-    else if (novenaDay == '10/22/2023') {
+    else if (novenaDay == '10/22/2024') {
         johnPaulII();
         Novena1A.innerHTML = 'Day 9';
     }
 
     //St Jude
-    if (novenaDay == '10/8/2023'){
+    if (novenaDay == '10/8/2024'){
         jude()
         Novena2A.innerHTML = 'Starts the 20th'
     }
-    else if (novenaDay == '10/9/2023'){
+    else if (novenaDay == '10/9/2024'){
         jude()
         Novena2A.innerHTML = 'Starts the 20th'
     }
-    else if (novenaDay == '10/10/2023'){
+    else if (novenaDay == '10/10/2024'){
         jude()
         Novena2A.innerHTML = 'Starts the 20th'
     }
-    else if (novenaDay == '10/11/2023'){
+    else if (novenaDay == '10/11/2024'){
         jude()
         Novena2A.innerHTML = 'Starts the 20th'
     }
-    else if (novenaDay == '10/12/2023'){
+    else if (novenaDay == '10/12/2024'){
         jude()
         Novena2A.innerHTML = 'Starts the 20th'
     }
-    else if (novenaDay == '10/13/2023'){
+    else if (novenaDay == '10/13/2024'){
         jude()
         Novena2A.innerHTML = 'Starts the 20th';
     }
-    else if (novenaDay == '10/14/2023'){
+    else if (novenaDay == '10/14/2024'){
         jude()
         Novena2A.innerHTML = 'Starts the 20th';
     }
-    else if (novenaDay == '10/15/2023'){
+    else if (novenaDay == '10/15/2024'){
         jude()
         Novena2A.innerHTML = 'Starts the 20th';
     }
-    else if (novenaDay == '10/16/2023'){
+    else if (novenaDay == '10/16/2024'){
         jude()
         Novena2A.innerHTML = 'Starts the 20th';
     }
-    else if (novenaDay == '10/17/2023'){
+    else if (novenaDay == '10/17/2024'){
         jude()
         Novena2A.innerHTML = 'Starts the 20th';
     }
-    else if (novenaDay == '10/18/2023'){
+    else if (novenaDay == '10/18/2024'){
         jude()
         Novena2A.innerHTML = 'Starts the 20th';
     }
-    else if (novenaDay == '10/19/2023'){
+    else if (novenaDay == '10/19/2024'){
         jude()
         Novena2A.innerHTML = 'Starts the 20th';
     }
-    else if (novenaDay == '10/20/2023'){
+    else if (novenaDay == '10/20/2024'){
         jude()
         Novena2A.innerHTML = 'Day 1';
     }
-    else if (novenaDay == '10/21/2023'){
+    else if (novenaDay == '10/21/2024'){
         jude()
         Novena2A.innerHTML = 'Day 2';
     }
-    else if (novenaDay == '10/22/2023'){
+    else if (novenaDay == '10/22/2024'){
         jude()
         Novena2A.innerHTML = 'Day 3';
     }
-    else if (novenaDay == '10/23/2023'){
+    else if (novenaDay == '10/23/2024'){
         jude()
         Novena2A.innerHTML = 'Day 4';
     }
-    else if (novenaDay == '10/24/2023'){
+    else if (novenaDay == '10/24/2024'){
         jude()
         Novena2A.innerHTML = 'Day 5';
     }
-    else if (novenaDay == '10/25/2023'){
+    else if (novenaDay == '10/25/2024'){
         jude()
         Novena2A.innerHTML = 'Day 6';
     }
-    else if (novenaDay == '10/26/2023'){
+    else if (novenaDay == '10/26/2024'){
         jude()
         Novena2A.innerHTML = 'Day 7';
     }
-    else if (novenaDay == '10/27/2023'){
+    else if (novenaDay == '10/27/2024'){
         jude()
         Novena2A.innerHTML = 'Day 8';
     }
-    else if (novenaDay == '10/28/2023'){
+    else if (novenaDay == '10/28/2024'){
         jude()
         Novena2A.innerHTML = 'Day 9';
     }
 
     //ALL SAINTS
-    if (novenaDay == '10/16/2023') {
+    if (novenaDay == '10/16/2024') {
         allSaints()
         Novena3A.innerHTML = 'Starts the 24th';
     }
-    else if (novenaDay == '10/17/2023') {
+    else if (novenaDay == '10/17/2024') {
         allSaints()
         Novena3A.innerHTML = 'Starts the 24th';
     }
-    else if (novenaDay == '10/18/2023') {
+    else if (novenaDay == '10/18/2024') {
         allSaints()
         Novena3A.innerHTML = 'Starts the 24th';
     }
-    else if (novenaDay == '10/19/2023') {
+    else if (novenaDay == '10/19/2024') {
         allSaints()
         Novena3A.innerHTML = 'Starts the 24th';
     }
-    else if (novenaDay == '10/20/2023') {
+    else if (novenaDay == '10/20/2024') {
         allSaints()
         Novena3A.innerHTML = 'Starts the 24th';
     }
-    else if (novenaDay == '10/21/2023') {
+    else if (novenaDay == '10/21/2024') {
         allSaints()
         Novena3A.innerHTML = 'Starts the 24th';
     }
-    else if (novenaDay == '10/22/2023') {
+    else if (novenaDay == '10/22/2024') {
         allSaints()
         Novena3A.innerHTML = 'Starts the 24th';
     }
-    else if (novenaDay == '10/23/2023') {
+    else if (novenaDay == '10/23/2024') {
         allSaints()
         Novena3A.innerHTML = 'Starts the 24th';
     }
-    else if (novenaDay == '10/24/2023') {
+    else if (novenaDay == '10/24/2024') {
         allSaints()
         Novena3A.innerHTML = 'Day 1';
     }
-    else if (novenaDay == '10/25/2023') {
+    else if (novenaDay == '10/25/2024') {
         allSaints()
         Novena3A.innerHTML = 'Day 2';
     }
-    else if (novenaDay == '10/26/2023') {
+    else if (novenaDay == '10/26/2024') {
         allSaints()
         Novena3A.innerHTML = 'Day 3';
     }
-    else if (novenaDay == '10/27/2023') {
+    else if (novenaDay == '10/27/2024') {
         allSaints()
         Novena3A.innerHTML = 'Day 4';
     }
-    else if (novenaDay == '10/28/2023') {
+    else if (novenaDay == '10/28/2024') {
         allSaints()
         Novena3A.innerHTML = 'Day 5';
     }
-    else if (novenaDay == '10/29/2023') {
+    else if (novenaDay == '10/29/2024') {
         allSaints()
         Novena3A.innerHTML = 'Day 6';
     }
-    else if (novenaDay == '10/30/2023') {
+    else if (novenaDay == '10/30/2024') {
         allSaints()
         Novena3A.innerHTML = 'Day 7';
     }
-    else if (novenaDay == '10/31/2023') {
+    else if (novenaDay == '10/31/2024') {
         allSaints()
         Novena3A.innerHTML = 'Day 8';
     }
-    else if (novenaDay == '11/1/2023') {
+    else if (novenaDay == '11/1/2024') {
         allSaints()
         Novena3A.innerHTML = 'Day 9';
     }
@@ -927,150 +927,150 @@ window.onload = function(){
 
 
     //Martin Tours
-    if (novenaDay == '10/23/2023') {
+    if (novenaDay == '10/23/2024') {
         martinTours();
         Novena1A.innerHTML = 'Starts the 3rd!';
     }
-    if (novenaDay == '10/24/2023') {
+    if (novenaDay == '10/24/2024') {
         martinTours();
         Novena1A.innerHTML = 'Starts the 3rd!';
     }
-    if (novenaDay == '10/25/2023') {
+    if (novenaDay == '10/25/2024') {
         martinTours();
         Novena1A.innerHTML = 'Starts the 3rd!';
     }
-    if (novenaDay == '10/26/2023') {
+    if (novenaDay == '10/26/2024') {
         martinTours();
         Novena1A.innerHTML = 'Starts the 3rd!';
     }
-    if (novenaDay == '10/27/2023') {
+    if (novenaDay == '10/27/2024') {
         martinTours();
         Novena1A.innerHTML = 'Starts the 3rd!';
     }
-    if (novenaDay == '10/28/2023') {
+    if (novenaDay == '10/28/2024') {
         martinTours();
         Novena1A.innerHTML = 'Starts the 3rd!';
     }
-    if (novenaDay == '10/29/2023') {
+    if (novenaDay == '10/29/2024') {
         martinTours();
         Novena1A.innerHTML = 'Starts the 3rd!';
     }
-    if (novenaDay == '10/30/2023') {
+    if (novenaDay == '10/30/2024') {
         martinTours();
         Novena1A.innerHTML = 'Starts the 3rd!';
     }
-    if (novenaDay == '10/31/2023') {
+    if (novenaDay == '10/31/2024') {
         martinTours();
         Novena1A.innerHTML = 'Starts the 3rd!';
     }
-    if (novenaDay == '11/1/2023') {
+    if (novenaDay == '11/1/2024') {
         martinTours();
         Novena1A.innerHTML = 'Starts the 3rd!';
     }
-    if (novenaDay == '11/2/2023') {
+    if (novenaDay == '11/2/2024') {
         martinTours()
         Novena1A.innerHTML = 'Starts the 3rd!';
     }
-    if (novenaDay == '11/03/2023') {
+    if (novenaDay == '11/03/2024') {
         martinTours()
         Novena1A.innerHTML = 'Day 1';
     }
-    else if (novenaDay == '11/04/2023') {
+    else if (novenaDay == '11/04/2024') {
         martinTours();
         Novena1A.innerHTML = 'Day 2';
     }
-    else if (novenaDay == '11/05/2023') {
+    else if (novenaDay == '11/05/2024') {
         martinTours();
         Novena1A.innerHTML = 'Day 3';
     }
-    else if (novenaDay == '11/06/2023') {
+    else if (novenaDay == '11/06/2024') {
         martinTours();
         Novena1A.innerHTML = 'Day 4';
     }
-    else if (novenaDay == '11/07/2023') {
+    else if (novenaDay == '11/07/2024') {
         martinTours();
         Novena1A.innerHTML = 'Day 5';
     }
-    else if (novenaDay == '11/08/2023') {
+    else if (novenaDay == '11/08/2024') {
         martinTours();
         Novena1A.innerHTML = 'Day 6';
     }
-    else if (novenaDay == '11/09/2023') {
+    else if (novenaDay == '11/09/2024') {
         martinTours();
         Novena1A.innerHTML = 'Day 7';
     }
-    else if (novenaDay == '11/10/2023') {
+    else if (novenaDay == '11/10/2024') {
         martinTours();
         Novena1A.innerHTML = 'Day 8';
     }
-    else if (novenaDay == '11/11/2023') {
+    else if (novenaDay == '11/11/2024') {
         martinTours();
         Novena1A.innerHTML = 'Day 9';
     }
 
 
     //frances Xaiver Cab
-    if (novenaDay == '10/29/2023'){
+    if (novenaDay == '10/29/2024'){
         francesXaiver()
         Novena2A.innerHTML = 'Starts the 5th!'
     }
-    else if (novenaDay == '10/30/2023'){
+    else if (novenaDay == '10/30/2024'){
         francesXaiver()
         Novena2A.innerHTML = 'Starts the 5th!'
     }
-    else if (novenaDay == '10/31/2023'){
+    else if (novenaDay == '10/31/2024'){
         francesXaiver()
         Novena2A.innerHTML = 'Starts the 5th!'
     }
-    else if (novenaDay == '11/1/2023'){
+    else if (novenaDay == '11/1/2024'){
         francesXaiver()
         Novena2A.innerHTML = 'Starts the 5th!'
     }
-    else if (novenaDay == '11/2/2023'){
+    else if (novenaDay == '11/2/2024'){
         francesXaiver()
         Novena2A.innerHTML = 'Starts the 5th!'
     }
-    else if (novenaDay == '11/03/2023'){
+    else if (novenaDay == '11/03/2024'){
         francesXaiver()
         Novena2A.innerHTML = 'Starts the 5th!';
     }
-    else if (novenaDay == '11/04/2023'){
+    else if (novenaDay == '11/04/2024'){
         francesXaiver()
         Novena2A.innerHTML = 'Starts the 5th!';
     }
-    else if (novenaDay == '11/05/2023'){
+    else if (novenaDay == '11/05/2024'){
         francesXaiver()
         Novena2A.innerHTML = 'Day 1';
     }
-    else if (novenaDay == '11/06/2023'){
+    else if (novenaDay == '11/06/2024'){
         francesXaiver()
         Novena2A.innerHTML = 'Day 2';
     }
-    else if (novenaDay == '11/07/2023'){
+    else if (novenaDay == '11/07/2024'){
         francesXaiver()
         Novena2A.innerHTML = 'Day 3';
     }
-    else if (novenaDay == '11/08/2023'){
+    else if (novenaDay == '11/08/2024'){
         francesXaiver()
         Novena2A.innerHTML = 'Day 4';
     }
-    else if (novenaDay == '11/09/2023'){
+    else if (novenaDay == '11/09/2024'){
         francesXaiver()
         Novena2A.innerHTML = 'Day 5';
     }
-    else if (novenaDay == '11/10/2023'){
+    else if (novenaDay == '11/10/2024'){
         francesXaiver()
         Novena2A.innerHTML = 'Day 6';
     }
-    else if (novenaDay == '11/11/2023'){
+    else if (novenaDay == '11/11/2024'){
         francesXaiver()
         Novena2A.innerHTML = 'Day 7';
     }
-    else if (novenaDay == '11/12/2023'){
+    else if (novenaDay == '11/12/2024'){
         francesXaiver()
         Novena2A.innerHTML = 'Day 8';
     }
-    else if (novenaDay == '11/13/2023'){
+    else if (novenaDay == '11/13/2024'){
         francesXaiver()
         Novena2A.innerHTML = 'Day 9';
     }
@@ -1078,934 +1078,934 @@ window.onload = function(){
 
 
     //St. Gertrude
-    if (novenaDay == '11/2/2023') {
+    if (novenaDay == '11/2/2024') {
         gertrude()
         Novena3A.innerHTML = 'Starts the 8th!';
     }
-    else if (novenaDay == '11/03/2023') {
+    else if (novenaDay == '11/03/2024') {
         gertrude()
         Novena3A.innerHTML = 'Starts the 8th!';
     }
-    else if (novenaDay == '11/04/2023') {
+    else if (novenaDay == '11/04/2024') {
         gertrude()
         Novena3A.innerHTML = 'Starts the 8th!';
     }
-    else if (novenaDay == '11/05/2023') {
+    else if (novenaDay == '11/05/2024') {
         gertrude()
         Novena3A.innerHTML = 'Starts the 8th!';
     }
-    else if (novenaDay == '11/06/2023') {
+    else if (novenaDay == '11/06/2024') {
         gertrude()
         Novena3A.innerHTML = 'Starts the 8th!';
     }
-    else if (novenaDay == '11/07/2023') {
+    else if (novenaDay == '11/07/2024') {
         gertrude()
         Novena3A.innerHTML = 'Starts the 8th!';
     }
-    else if (novenaDay == '11/08/2023') {
+    else if (novenaDay == '11/08/2024') {
         gertrude()
         Novena3A.innerHTML = 'Day 1';
     }
-    else if (novenaDay == '11/09/2023') {
+    else if (novenaDay == '11/09/2024') {
         gertrude()
         Novena3A.innerHTML = 'Day 2';
     }
-    else if (novenaDay == '11/10/2023') {
+    else if (novenaDay == '11/10/2024') {
         gertrude()
         Novena3A.innerHTML = 'Day 3';
     }
-    else if (novenaDay == '11/11/2023') {
+    else if (novenaDay == '11/11/2024') {
         gertrude()
         Novena3A.innerHTML = 'Day 4';
     }
-    else if (novenaDay == '11/12/2023') {
+    else if (novenaDay == '11/12/2024') {
         gertrude()
         Novena3A.innerHTML = 'Day 5';
     }
-    else if (novenaDay == '11/13/2023') {
+    else if (novenaDay == '11/13/2024') {
         gertrude()
         Novena3A.innerHTML = 'Day 6';
     }
-    else if (novenaDay == '11/14/2023') {
+    else if (novenaDay == '11/14/2024') {
         gertrude()
         Novena3A.innerHTML = 'Day 7';
     }
-    else if (novenaDay == '11/15/2023') {
+    else if (novenaDay == '11/15/2024') {
         gertrude()
         Novena3A.innerHTML = 'Day 8';
     }
-    else if (novenaDay == '11/16/2023') {
+    else if (novenaDay == '11/16/2024') {
         gertrude()
         Novena3A.innerHTML = 'Day 9';
     }
 
 
     //Cecilia
-    if (novenaDay == '11/12/2023') {
+    if (novenaDay == '11/12/2024') {
         cecilia();
         Novena1A.innerHTML = 'Starts the 14th!';
     }
-    if (novenaDay == '11/13/2023') {
+    if (novenaDay == '11/13/2024') {
         cecilia();
         Novena1A.innerHTML = 'Starts the 14th!';
     }
-    if (novenaDay == '11/14/2023') {
+    if (novenaDay == '11/14/2024') {
         cecilia();
         Novena1A.innerHTML = 'Day 1';
     }
-    if (novenaDay == '11/15/2023') {
+    if (novenaDay == '11/15/2024') {
         cecilia();
         Novena1A.innerHTML = 'Day 2';
     }
-    if (novenaDay == '11/16/2023') {
+    if (novenaDay == '11/16/2024') {
         cecilia();
         Novena1A.innerHTML = 'Day 3';
     }
-    else if (novenaDay == '11/17/2023') {
+    else if (novenaDay == '11/17/2024') {
         cecilia();
         Novena1A.innerHTML = 'Day 4';
     }
-    else if (novenaDay == '11/18/2023') {
+    else if (novenaDay == '11/18/2024') {
         cecilia();
         Novena1A.innerHTML = 'Day 5';
     }
-    else if (novenaDay == '11/19/2023') {
+    else if (novenaDay == '11/19/2024') {
         cecilia();
         Novena1A.innerHTML = 'Day 6';
     }
-    else if (novenaDay == '11/20/2023') {
+    else if (novenaDay == '11/20/2024') {
         cecilia();
         Novena1A.innerHTML = 'Day 7';
     }
-    else if (novenaDay == '11/21/2023') {
+    else if (novenaDay == '11/21/2024') {
         cecilia();
         Novena1A.innerHTML = 'Day 8';
     }
-    else if (novenaDay == '11/22/2023') {
+    else if (novenaDay == '11/22/2024') {
         cecilia();
         Novena1A.innerHTML = 'Day 9';
     }
 
     
     //Miraculous Medal
-    if (novenaDay == '11/14/2023'){
+    if (novenaDay == '11/14/2024'){
         miraculousMedal()
         Novena2A.innerHTML = 'Starts the 20th!';
     }
-    else if (novenaDay == '11/15/2023'){
+    else if (novenaDay == '11/15/2024'){
         miraculousMedal()
         Novena2A.innerHTML = 'Starts the 20th!';
     }
-    else if (novenaDay == '11/16/2023'){
+    else if (novenaDay == '11/16/2024'){
         miraculousMedal()
         Novena2A.innerHTML = 'Starts the 20th!';
     }
-    else if (novenaDay == '11/17/2023'){
+    else if (novenaDay == '11/17/2024'){
         miraculousMedal()
         Novena2A.innerHTML = 'Starts the 20th!';
     }
-    else if (novenaDay == '11/18/2023'){
+    else if (novenaDay == '11/18/2024'){
         miraculousMedal()
         Novena2A.innerHTML = 'Starts the 20th!';
     }
-    else if (novenaDay == '11/19/2023'){
+    else if (novenaDay == '11/19/2024'){
         miraculousMedal()
         Novena2A.innerHTML = 'Starts the 20th!';
     }
-    else if (novenaDay == '11/20/2023'){
+    else if (novenaDay == '11/20/2024'){
         miraculousMedal()
         Novena2A.innerHTML = 'Day 1';
     }
-    else if (novenaDay == '11/21/2023'){
+    else if (novenaDay == '11/21/2024'){
         miraculousMedal()
         Novena2A.innerHTML = 'Day 2';
     }
-    else if (novenaDay == '11/22/2023'){
+    else if (novenaDay == '11/22/2024'){
         miraculousMedal()
         Novena2A.innerHTML = 'Day 3';
     }
-    else if (novenaDay == '11/23/2023'){
+    else if (novenaDay == '11/23/2024'){
         miraculousMedal()
         Novena2A.innerHTML = 'Day 4';
     }
-    else if (novenaDay == '11/24/2023'){
+    else if (novenaDay == '11/24/2024'){
         miraculousMedal()
         Novena2A.innerHTML = 'Day 5';
     }
-    else if (novenaDay == '11/25/2023'){
+    else if (novenaDay == '11/25/2024'){
         miraculousMedal()
         Novena2A.innerHTML = 'Day 6';
     }
-    else if (novenaDay == '11/26/2023'){
+    else if (novenaDay == '11/26/2024'){
         miraculousMedal()
         Novena2A.innerHTML = 'Day 7';
     }
-    else if (novenaDay == '11/27/2023'){
+    else if (novenaDay == '11/27/2024'){
         miraculousMedal()
         Novena2A.innerHTML = 'Day 8';
     }
-    else if (novenaDay == '11/28/2023'){
+    else if (novenaDay == '11/28/2024'){
         miraculousMedal()
         Novena2A.innerHTML = 'Day 9';
     }
 
     //St. Barbara
-    if (novenaDay == '11/17/2023') {
+    if (novenaDay == '11/17/2024') {
         barbara()
         Novena3A.innerHTML = 'Starts the 26th!';
     }
-    else if (novenaDay == '11/18/2023') {
+    else if (novenaDay == '11/18/2024') {
         barbara()
         Novena3A.innerHTML = 'Starts the 26th!';
     }
-    else if (novenaDay == '11/19/2023') {
+    else if (novenaDay == '11/19/2024') {
         barbara()
         Novena3A.innerHTML = 'Starts the 26th!';
     }
-    else if (novenaDay == '11/20/2023') {
+    else if (novenaDay == '11/20/2024') {
         barbara()
         Novena3A.innerHTML = 'Starts the 26th!';
     }
-    else if (novenaDay == '11/21/2023') {
+    else if (novenaDay == '11/21/2024') {
         barbara()
         Novena3A.innerHTML = 'Starts the 26th!';
     }
-    else if (novenaDay == '11/22/2023') {
+    else if (novenaDay == '11/22/2024') {
         barbara()
         Novena3A.innerHTML = 'Starts the 26th!';
     }
-    else if (novenaDay == '11/23/2023') {
+    else if (novenaDay == '11/23/2024') {
         barbara()
         Novena3A.innerHTML = 'Starts the 26th!';
     }
-    else if (novenaDay == '11/24/2023') {
+    else if (novenaDay == '11/24/2024') {
         barbara()
         Novena3A.innerHTML = 'Starts the 26th!';
     }
-    else if (novenaDay == '11/25/2023') {
+    else if (novenaDay == '11/25/2024') {
         barbara()
         Novena3A.innerHTML = 'Starts the 26th!';
     }
-    else if (novenaDay == '11/26/2023') {
+    else if (novenaDay == '11/26/2024') {
         barbara()
         Novena3A.innerHTML = 'Day 1';
     }
-    else if (novenaDay == '11/27/2023') {
+    else if (novenaDay == '11/27/2024') {
         barbara()
         Novena3A.innerHTML = 'Day 2';
     }
-    else if (novenaDay == '11/28/2023') {
+    else if (novenaDay == '11/28/2024') {
         barbara()
         Novena3A.innerHTML = 'Day 3';
     }
-    else if (novenaDay == '11/29/2023') {
+    else if (novenaDay == '11/29/2024') {
         barbara()
         Novena3A.innerHTML = 'Day 4';
     }
-    else if (novenaDay == '11/30/2023') {
+    else if (novenaDay == '11/30/2024') {
         barbara()
         Novena3A.innerHTML = 'Day 5';
     }
-    else if (novenaDay == '12/1/2023') {
+    else if (novenaDay == '12/1/2024') {
         barbara()
         Novena3A.innerHTML = 'Day 6';
     }
-    else if (novenaDay == '12/2/2023') {
+    else if (novenaDay == '12/2/2024') {
         barbara()
         Novena3A.innerHTML = 'Day 7';
     }
-    else if (novenaDay == '12/03/2023') {
+    else if (novenaDay == '12/03/2024') {
         barbara()
         Novena3A.innerHTML = 'Day 8';
     }
-    else if (novenaDay == '12/04/2023') {
+    else if (novenaDay == '12/04/2024') {
         barbara()
         Novena3A.innerHTML = 'Day 9';
     }
 
     //Immaculate Conception
-    if (novenaDay == '11/23/2023') {
+    if (novenaDay == '11/23/2024') {
         immaculateConception()
         Novena1A.innerHTML = 'Starts the 30th!';
     }
-    if (novenaDay == '11/24/2023') {
+    if (novenaDay == '11/24/2024') {
         immaculateConception()
         Novena1A.innerHTML = 'Starts the 30th!';
     }
-    if (novenaDay == '11/25/2023') {
+    if (novenaDay == '11/25/2024') {
         immaculateConception()
         Novena1A.innerHTML = 'Starts the 30th!';
     }
-    if (novenaDay == '11/26/2023') {
+    if (novenaDay == '11/26/2024') {
         immaculateConception()
         Novena1A.innerHTML = 'Starts the 30th!';
     }
-    if (novenaDay == '11/27/2023') {
+    if (novenaDay == '11/27/2024') {
         immaculateConception()
         Novena1A.innerHTML = 'Starts the 30th!';
     }
-    else if (novenaDay == '11/28/2023') {
+    else if (novenaDay == '11/28/2024') {
         immaculateConception()
         Novena1A.innerHTML = 'Starts the 30th!';
     }
-    else if (novenaDay == '11/29/2023') {
+    else if (novenaDay == '11/29/2024') {
         immaculateConception()
         Novena1A.innerHTML = 'Starts the 30th!';
     }
-    else if (novenaDay == '11/30/2023') {
+    else if (novenaDay == '11/30/2024') {
         immaculateConception()
         Novena1A.innerHTML = 'Day 1';
     }
-    else if (novenaDay == '12/1/2023') {
+    else if (novenaDay == '12/1/2024') {
         immaculateConception()
         Novena1A.innerHTML = 'Day 2';
     }
-    else if (novenaDay == '12/2/2023') {
+    else if (novenaDay == '12/2/2024') {
         immaculateConception()
         Novena1A.innerHTML = 'Day 3';
     }
-    else if (novenaDay == '12/03/2023') {
+    else if (novenaDay == '12/03/2024') {
         immaculateConception()
         Novena1A.innerHTML = 'Day 4';
     }
-    else if (novenaDay == '12/04/2023') {
+    else if (novenaDay == '12/04/2024') {
         immaculateConception()
         Novena1A.innerHTML = 'Day 5';
     }
-    else if (novenaDay == '12/05/2023') {
+    else if (novenaDay == '12/05/2024') {
         immaculateConception()
         Novena1A.innerHTML = 'Day 6';
     }
-    else if (novenaDay == '12/06/2023') {
+    else if (novenaDay == '12/06/2024') {
         immaculateConception()
         Novena1A.innerHTML = 'Day 7';
     }
-    else if (novenaDay == '12/07/2023') {
+    else if (novenaDay == '12/07/2024') {
         immaculateConception()
         Novena1A.innerHTML = 'Day 8';
     }
-    else if (novenaDay == '12/08/2023') {
+    else if (novenaDay == '12/08/2024') {
         immaculateConception()
         Novena1A.innerHTML = 'Day 9';
     }
 
     //Guadalupe
-    if (novenaDay == '11/29/2023'){
+    if (novenaDay == '11/29/2024'){
         guadalupe()
         Novena2A.innerHTML = 'Starts the 4th!';
     }
-    else if (novenaDay == '11/30/2023'){
+    else if (novenaDay == '11/30/2024'){
         guadalupe()
         Novena2A.innerHTML = 'Starts the 4th!';
     }
-    else if (novenaDay == '12/1/2023'){
+    else if (novenaDay == '12/1/2024'){
         guadalupe()
         Novena2A.innerHTML = 'Starts the 4th!';
     }
-    else if (novenaDay == '12/2/2023'){
+    else if (novenaDay == '12/2/2024'){
         guadalupe()
         Novena2A.innerHTML = 'Starts the 4th!';
     }
-    else if (novenaDay == '12/03/2023'){
+    else if (novenaDay == '12/03/2024'){
         guadalupe()
         Novena2A.innerHTML = 'Starts the 4th!';
     }
-    else if (novenaDay == '12/04/2023'){
+    else if (novenaDay == '12/04/2024'){
         guadalupe()
         Novena2A.innerHTML = 'Day 1';
     }
-    else if (novenaDay == '12/05/2023'){
+    else if (novenaDay == '12/05/2024'){
         guadalupe()
         Novena2A.innerHTML = 'Day 2';
     }
-    else if (novenaDay == '12/06/2023'){
+    else if (novenaDay == '12/06/2024'){
         guadalupe()
         Novena2A.innerHTML = 'Day 3';
     }
-    else if (novenaDay == '12/07/2023'){
+    else if (novenaDay == '12/07/2024'){
         guadalupe()
         Novena2A.innerHTML = 'Day 4';
     }
-    else if (novenaDay == '12/08/2023'){
+    else if (novenaDay == '12/08/2024'){
         guadalupe()
         Novena2A.innerHTML = 'Day 5';
     }
-    else if (novenaDay == '12/09/2023'){
+    else if (novenaDay == '12/09/2024'){
         guadalupe()
         Novena2A.innerHTML = 'Day 6';
     }
-    else if (novenaDay == '12/10/2023'){
+    else if (novenaDay == '12/10/2024'){
         guadalupe()
         Novena2A.innerHTML = 'Day 7';
     }
-    else if (novenaDay == '12/11/2023'){
+    else if (novenaDay == '12/11/2024'){
         guadalupe()
         Novena2A.innerHTML = 'Day 8';
     }
-    else if (novenaDay == '12/12/2023'){
+    else if (novenaDay == '12/12/2024'){
         guadalupe()
         Novena2A.innerHTML = 'Day 9';
     }
 
     //JOHN OF CROSS
-    if (novenaDay == '12/05/2023') {
+    if (novenaDay == '12/05/2024') {
         johnOfCross()
         Novena3A.innerHTML = 'Starts the 6th!';
     }
-    else if (novenaDay == '12/06/2023') {
+    else if (novenaDay == '12/06/2024') {
         johnOfCross()
         Novena3A.innerHTML = 'Day 1';
     }
-    else if (novenaDay == '12/07/2023') {
+    else if (novenaDay == '12/07/2024') {
         johnOfCross()
         Novena3A.innerHTML = 'Day 2';
     }
-    else if (novenaDay == '12/08/2023') {
+    else if (novenaDay == '12/08/2024') {
         johnOfCross()
         Novena3A.innerHTML = 'Day 3';
     }
-    else if (novenaDay == '12/09/2023') {
+    else if (novenaDay == '12/09/2024') {
         johnOfCross()
         Novena3A.innerHTML = 'Day 4';
     }
-    else if (novenaDay == '12/10/2023') {
+    else if (novenaDay == '12/10/2024') {
         johnOfCross()
         Novena3A.innerHTML = 'Day 5';
     }
-    else if (novenaDay == '12/11/2023') {
+    else if (novenaDay == '12/11/2024') {
         johnOfCross()
         Novena3A.innerHTML = 'Day 6';
     }
-    else if (novenaDay == '12/12/2023') {
+    else if (novenaDay == '12/12/2024') {
         johnOfCross()
         Novena3A.innerHTML = 'Day 7';
     }
-    else if (novenaDay == '12/13/2023') {
+    else if (novenaDay == '12/13/2024') {
         johnOfCross()
         Novena3A.innerHTML = 'Day 8';
     }
-    else if (novenaDay == '12/14/2023') {
+    else if (novenaDay == '12/14/2024') {
         johnOfCross()
         Novena3A.innerHTML = 'Day 9';
     }
 
 
     //IGNATIUS OF ANTIOCH
-    if (novenaDay == '12/09/2023') {
+    if (novenaDay == '12/09/2024') {
         ignatiusOfAntioch()
         Novena1A.innerHTML = 'Starts the 12th!';
     }
-    if (novenaDay == '12/10/2023') {
+    if (novenaDay == '12/10/2024') {
         ignatiusOfAntioch()
         Novena1A.innerHTML = 'Starts the 12th!';
     }
-    if (novenaDay == '12/11/2023') {
+    if (novenaDay == '12/11/2024') {
         ignatiusOfAntioch()
         Novena1A.innerHTML = 'Starts the 12th!';
     }
-    if (novenaDay == '12/12/2023') {
+    if (novenaDay == '12/12/2024') {
         ignatiusOfAntioch()
         Novena1A.innerHTML = 'Day 1';
     }
-    if (novenaDay == '12/13/2023') {
+    if (novenaDay == '12/13/2024') {
         ignatiusOfAntioch()
         Novena1A.innerHTML = 'Day 2';
     }
-    else if (novenaDay == '12/14/2023') {
+    else if (novenaDay == '12/14/2024') {
         ignatiusOfAntioch()
         Novena1A.innerHTML = 'Day 3';
     }
-    else if (novenaDay == '12/15/2023') {
+    else if (novenaDay == '12/15/2024') {
         ignatiusOfAntioch()
         Novena1A.innerHTML = 'Day 4';
     }
-    else if (novenaDay == '12/16/2023') {
+    else if (novenaDay == '12/16/2024') {
         ignatiusOfAntioch()
         Novena1A.innerHTML = 'Day 5';
     }
-    else if (novenaDay == '12/17/2023') {
+    else if (novenaDay == '12/17/2024') {
         ignatiusOfAntioch()
         Novena1A.innerHTML = 'Day 6';
     }
-    else if (novenaDay == '12/18/2023') {
+    else if (novenaDay == '12/18/2024') {
         ignatiusOfAntioch()
         Novena1A.innerHTML = 'Day 7';
     }
-    else if (novenaDay == '12/19/2023') {
+    else if (novenaDay == '12/19/2024') {
         ignatiusOfAntioch()
         Novena1A.innerHTML = 'Day 8';
     }
-    else if (novenaDay == '12/20/2023') {
+    else if (novenaDay == '12/20/2024') {
         ignatiusOfAntioch()
         Novena1A.innerHTML = 'Day 9';
     }
     
     //CHRISTMAS
-    if (novenaDay == '12/13/2023'){
+    if (novenaDay == '12/13/2024'){
         christmas()
         Novena2A.innerHTML = 'Starts the 17th!';
     }
-    else if (novenaDay == '12/14/2023'){
+    else if (novenaDay == '12/14/2024'){
         christmas()
         Novena2A.innerHTML = 'Starts the 17th!';
     }
-    else if (novenaDay == '12/15/2023'){
+    else if (novenaDay == '12/15/2024'){
         christmas()
         Novena2A.innerHTML = 'Starts the 17th!';
     }
-    else if (novenaDay == '12/16/2023'){
+    else if (novenaDay == '12/16/2024'){
         christmas()
         Novena2A.innerHTML = 'Starts the 17th!';
     }
-    else if (novenaDay == '12/17/2023'){
+    else if (novenaDay == '12/17/2024'){
         christmas()
         Novena2A.innerHTML = 'Day 1';
     }
-    else if (novenaDay == '12/18/2023'){
+    else if (novenaDay == '12/18/2024'){
         christmas()
         Novena2A.innerHTML = 'Day 2';
     }
-    else if (novenaDay == '12/19/2023'){
+    else if (novenaDay == '12/19/2024'){
         christmas()
         Novena2A.innerHTML = 'Day 3';
     }
-    else if (novenaDay == '12/20/2023'){
+    else if (novenaDay == '12/20/2024'){
         christmas()
         Novena2A.innerHTML = 'Day 4';
     }
-    else if (novenaDay == '12/21/2023'){
+    else if (novenaDay == '12/21/2024'){
         christmas()
         Novena2A.innerHTML = 'Day 5';
     }
-    else if (novenaDay == '12/22/2023'){
+    else if (novenaDay == '12/22/2024'){
         christmas()
         Novena2A.innerHTML = 'Day 6';
     }
-    else if (novenaDay == '12/23/2023'){
+    else if (novenaDay == '12/23/2024'){
         christmas()
         Novena2A.innerHTML = 'Day 7';
     }
-    else if (novenaDay == '12/24/2023'){
+    else if (novenaDay == '12/24/2024'){
         christmas()
         Novena2A.innerHTML = 'Day 8';
     }
-    else if (novenaDay == '12/25/2023'){
+    else if (novenaDay == '12/25/2024'){
         christmas()
         Novena2A.innerHTML = 'Day 9';
     }
 
 
     //JOHN APOSTLE
-    if (novenaDay == '12/15/2023') {
+    if (novenaDay == '12/15/2024') {
         johnApostle()
         Novena3A.innerHTML = 'Starts the 19th!';
     }
-    else if (novenaDay == '12/16/2023') {
+    else if (novenaDay == '12/16/2024') {
         johnApostle()
         Novena3A.innerHTML = 'Starts the 19th!';
     }
-    else if (novenaDay == '12/17/2023') {
+    else if (novenaDay == '12/17/2024') {
         johnApostle()
         Novena3A.innerHTML = 'Starts the 19th!';
     }
-    else if (novenaDay == '12/18/2023') {
+    else if (novenaDay == '12/18/2024') {
         johnApostle()
         Novena3A.innerHTML = 'Starts the 19th!';
     }
-    else if (novenaDay == '12/19/2023') {
+    else if (novenaDay == '12/19/2024') {
         johnApostle()
         Novena3A.innerHTML = 'Day 1';
     }
-    else if (novenaDay == '12/20/2023') {
+    else if (novenaDay == '12/20/2024') {
         johnApostle()
         Novena3A.innerHTML = 'Day 2';
     }
-    else if (novenaDay == '12/21/2023') {
+    else if (novenaDay == '12/21/2024') {
         johnApostle()
         Novena3A.innerHTML = 'Day 3';
     }
-    else if (novenaDay == '12/22/2023') {
+    else if (novenaDay == '12/22/2024') {
         johnApostle()
         Novena3A.innerHTML = 'Day 4';
     }
-    else if (novenaDay == '12/23/2023') {
+    else if (novenaDay == '12/23/2024') {
         johnApostle()
         Novena3A.innerHTML = 'Day 5';
     }
-    else if (novenaDay == '12/24/2023') {
+    else if (novenaDay == '12/24/2024') {
         johnApostle()
         Novena3A.innerHTML = 'Day 6';
     }
-    else if (novenaDay == '12/25/2023') {
+    else if (novenaDay == '12/25/2024') {
         johnApostle()
         Novena3A.innerHTML = 'Day 7';
     }    
-    else if (novenaDay == '12/26/2023') {
+    else if (novenaDay == '12/26/2024') {
         johnApostle()
         Novena3A.innerHTML = 'Day 8';
     }    
-    else if (novenaDay == '12/27/2023') {
+    else if (novenaDay == '12/27/2024') {
         johnApostle()
         Novena3A.innerHTML = 'Day 9';
     }
 
     //HOLY NAME JESUS
-    if (novenaDay == '12/21/2023') {
+    if (novenaDay == '12/21/2024') {
         holyNameJesus()
         Novena1A.innerHTML = 'Starts the 26th!';
     }
-    else if (novenaDay == '12/22/2023') {
+    else if (novenaDay == '12/22/2024') {
         holyNameJesus()
         Novena1A.innerHTML = 'Starts the 26th!';
     }
-    else if (novenaDay == '12/23/2023') {
+    else if (novenaDay == '12/23/2024') {
         holyNameJesus()
         Novena1A.innerHTML = 'Starts the 26th!';
     }
-    else if (novenaDay == '12/24/2023') {
+    else if (novenaDay == '12/24/2024') {
         holyNameJesus()
         Novena1A.innerHTML = 'Starts the 26th!';
     }
-    else if (novenaDay == '12/25/2023') {
+    else if (novenaDay == '12/25/2024') {
         holyNameJesus()
         Novena1A.innerHTML = 'Starts the 26th!';
     }
-    else if (novenaDay == '12/26/2023') {
+    else if (novenaDay == '12/26/2024') {
         holyNameJesus()
         Novena1A.innerHTML = 'Day 1';
     }
-    else if (novenaDay == '12/27/2023') {
+    else if (novenaDay == '12/27/2024') {
         holyNameJesus()
         Novena1A.innerHTML = 'Day 2';
     }
-    else if (novenaDay == '12/28/2023') {
+    else if (novenaDay == '12/28/2024') {
         holyNameJesus()
         Novena1A.innerHTML = 'Day 3';
     }
-    else if (novenaDay == '12/29/2023') {
+    else if (novenaDay == '12/29/2024') {
         holyNameJesus()
         Novena1A.innerHTML = 'Day 4';
     }
-    else if (novenaDay == '12/30/2023') {
+    else if (novenaDay == '12/30/2024') {
         holyNameJesus()
         Novena1A.innerHTML = 'Day 5';
     }
-    else if (novenaDay == '12/31/2023') {
+    else if (novenaDay == '12/31/2024') {
         holyNameJesus()
         Novena1A.innerHTML = 'Day 6';
     }
-    else if (novenaDay == '1/1/2024') {
+    else if (novenaDay == '1/1/') {
         holyNameJesus()
         Novena1A.innerHTML = 'Day 7';
     }
-    else if (novenaDay == '1/2/2024') {
+    else if (novenaDay == '1/2/') {
         holyNameJesus()
         Novena1A.innerHTML = 'Day 8';
     }
-    else if (novenaDay == '1/03/2024') {
+    else if (novenaDay == '1/03/') {
         holyNameJesus()
         Novena1A.innerHTML = 'Day 9';
     }
 
     //ELIZABETH ANN
-    if (novenaDay == '12/26/2023'){
+    if (novenaDay == '12/26/2024'){
         elizabethAnn()
         Novena2A.innerHTML = 'Starts the 27th!';
     }
-    else if (novenaDay == '12/27/2023'){
+    else if (novenaDay == '12/27/2024'){
         elizabethAnn()
         Novena2A.innerHTML = 'Day 1';
     }
-    else if (novenaDay == '12/28/2023'){
+    else if (novenaDay == '12/28/2024'){
         elizabethAnn()
         Novena2A.innerHTML = 'Day 2';
     }
-    else if (novenaDay == '12/29/2023'){
+    else if (novenaDay == '12/29/2024'){
         elizabethAnn()
         Novena2A.innerHTML = 'Day 3';
     }
-    else if (novenaDay == '12/30/2023'){
+    else if (novenaDay == '12/30/2024'){
         elizabethAnn()
         Novena2A.innerHTML = 'Day 4';
     }
-    else if (novenaDay == '12/31/2023'){
+    else if (novenaDay == '12/31/2024'){
         elizabethAnn()
         Novena2A.innerHTML = 'Day 5';
     }
-    else if (novenaDay == '1/1/2024'){
+    else if (novenaDay == '1/1/'){
         elizabethAnn()
         Novena2A.innerHTML = 'Day 6';
     }
-    else if (novenaDay == '1/2/2023'){
+    else if (novenaDay == '1/2/2024'){
         elizabethAnn()
         Novena2A.innerHTML = 'Day 7';
     }
-    else if (novenaDay == '1/03/2023'){
+    else if (novenaDay == '1/03/2024'){
         elizabethAnn()
         Novena2A.innerHTML = 'Day 8';
     }
-    else if (novenaDay == '1/04/2023'){
+    else if (novenaDay == '1/04/2024'){
         elizabethAnn()
         Novena2A.innerHTML = 'Day 9';
     }
 
     //John Neumann
-    if (novenaDay == '12/28/2023') {
+    if (novenaDay == '12/28/2024') {
         johnNeumann()
         Novena3A.innerHTML = 'Day 1';
     }
-    else if (novenaDay == '12/29/2023') {
+    else if (novenaDay == '12/29/2024') {
         johnNeumann()
         Novena3A.innerHTML = 'Day 2';
     }
-    else if (novenaDay == '12/30/2023') {
+    else if (novenaDay == '12/30/2024') {
         johnNeumann()
         Novena3A.innerHTML = 'Day 3';
     }
-    else if (novenaDay == '12/31/2023') {
+    else if (novenaDay == '12/31/2024') {
         johnNeumann()
         Novena3A.innerHTML = 'Day 4';
     }
-    else if (novenaDay == '1/1/2023') {
+    else if (novenaDay == '1/1/2024') {
         johnNeumann()
         Novena3A.innerHTML = 'Day 5';
     }
-    else if (novenaDay == '1/2/2023') {
+    else if (novenaDay == '1/2/2024') {
         johnNeumann()
         Novena3A.innerHTML = 'Day 6';
     }
-    else if (novenaDay == '1/03/2023') {
+    else if (novenaDay == '1/03/2024') {
         johnNeumann()
         Novena3A.innerHTML = 'Day 7';
     }
-    else if (novenaDay == '1/04/2023') {
+    else if (novenaDay == '1/04/2024') {
         johnNeumann()
         Novena3A.innerHTML = 'Day 8';
     }
-    else if (novenaDay == '1/05/2023') {
+    else if (novenaDay == '1/05/2024') {
         johnNeumann()
         Novena3A.innerHTML = 'Day 9';
     }
 
 
     //St SEBASTION
-    if (novenaDay == '1/04/2024') {
+    if (novenaDay == '1/04/') {
         sebastion()
         Novena1A.innerHTML = 'Starts the 12th';
     }
-    else if (novenaDay == '1/05/2024') {
+    else if (novenaDay == '1/05/') {
         sebastion()
         Novena1A.innerHTML = 'Starts the 12th';
     }
-    else if (novenaDay == '1/06/2024') {
+    else if (novenaDay == '1/06/') {
         sebastion()
         Novena1A.innerHTML = 'Starts the 12th';
     }
-    else if (novenaDay == '1/07/2024') {
+    else if (novenaDay == '1/07/') {
         sebastion()
         Novena1A.innerHTML = 'Starts the 12th';
     }
-    else if (novenaDay == '1/08/2024') {
+    else if (novenaDay == '1/08/') {
         sebastion()
         Novena1A.innerHTML = 'Starts the 12th';
     }
-    else if (novenaDay == '1/09/2024') {
+    else if (novenaDay == '1/09/') {
         sebastion()
         Novena1A.innerHTML = 'Starts the 12th';
     }
-    else if (novenaDay == '1/10/2024') {
+    else if (novenaDay == '1/10/') {
         sebastion()
         Novena1A.innerHTML = 'Starts the 12th';
     }
-    else if (novenaDay == '1/11/2024') {
+    else if (novenaDay == '1/11/') {
         sebastion()
         Novena1A.innerHTML = 'Starts the 12th';
     }
-    else if (novenaDay == '1/12/2024') {
+    else if (novenaDay == '1/12/') {
         sebastion()
         Novena1A.innerHTML = 'Day 1';
     }
-    else if (novenaDay == '1/13/2024') {
+    else if (novenaDay == '1/13/') {
         sebastion()
         Novena1A.innerHTML = 'Day 2';
     }
-    else if (novenaDay == '1/14/2024') {
+    else if (novenaDay == '1/14/') {
         sebastion()
         Novena1A.innerHTML = 'Day 3';
     }
-    else if (novenaDay == '1/15/2024') {
+    else if (novenaDay == '1/15/') {
         sebastion()
         Novena1A.innerHTML = 'Day 4';
     }
-    else if (novenaDay == '1/16/2024') {
+    else if (novenaDay == '1/16/') {
         sebastion()
         Novena1A.innerHTML = 'Day 5';
     }
-    else if (novenaDay == '1/17/2024') {
+    else if (novenaDay == '1/17/') {
         sebastion()
         Novena1A.innerHTML = 'Day 6';
     }
-    else if (novenaDay == '1/18/2024') {
+    else if (novenaDay == '1/18/') {
         sebastion()
         Novena1A.innerHTML = 'Day 7';
     }
-    else if (novenaDay == '1/19/2024') {
+    else if (novenaDay == '1/19/') {
         sebastion()
         Novena1A.innerHTML = 'Day 8';
     }
-    else if (novenaDay == '1/20/2024') {
+    else if (novenaDay == '1/20/') {
         sebastion()
         Novena1A.innerHTML = 'Day 9';
     }
     
     //AGNES
-    if (novenaDay == '1/05/2023'){
+    if (novenaDay == '1/05/2024'){
         agnes()
         Novena2A.innerHTML = 'Starts the 27th!';
     }
-    else if (novenaDay == '1/06/2023'){
+    else if (novenaDay == '1/06/2024'){
         agnes()
         Novena2A.innerHTML = 'Day 1';
     }
-    else if (novenaDay == '1/07/2023'){
+    else if (novenaDay == '1/07/2024'){
         agnes()
         Novena2A.innerHTML = 'Day 2';
     }
-    else if (novenaDay == '1/08/2023'){
+    else if (novenaDay == '1/08/2024'){
         agnes()
         Novena2A.innerHTML = 'Day 3';
     }
-    else if (novenaDay == '1/09/2023'){
+    else if (novenaDay == '1/09/2024'){
         agnes()
         Novena2A.innerHTML = 'Day 4';
     }
-    else if (novenaDay == '1/10/2023'){
+    else if (novenaDay == '1/10/2024'){
         agnes()
         Novena2A.innerHTML = 'Day 5';
     }
-    else if (novenaDay == '1/11/2024'){
+    else if (novenaDay == '1/11/'){
         agnes()
         Novena2A.innerHTML = 'Day 6';
     }
-    else if (novenaDay == '1/12/2023'){
+    else if (novenaDay == '1/12/2024'){
         agnes()
         Novena2A.innerHTML = 'Day 7';
     }
-    else if (novenaDay == '1/13/2023'){
+    else if (novenaDay == '1/13/2024'){
         agnes()
         Novena2A.innerHTML = 'Day 1';
     }
-    else if (novenaDay == '1/14/2023'){
+    else if (novenaDay == '1/14/2024'){
         agnes()
         Novena2A.innerHTML = 'Day 2';
     }
-    else if (novenaDay == '1/15/2023'){
+    else if (novenaDay == '1/15/2024'){
         agnes()
         Novena2A.innerHTML = 'Day 3';
     }
-    else if (novenaDay == '1/16/2023'){
+    else if (novenaDay == '1/16/2024'){
         agnes()
         Novena2A.innerHTML = 'Day 4';
     }
-    else if (novenaDay == '1/17/2023'){
+    else if (novenaDay == '1/17/2024'){
         agnes()
         Novena2A.innerHTML = 'Day 5';
     }
-    else if (novenaDay == '1/18/2023'){
+    else if (novenaDay == '1/18/2024'){
         agnes()
         Novena2A.innerHTML = 'Day 6';
     }
-    else if (novenaDay == '1/19/2023'){
+    else if (novenaDay == '1/19/2024'){
         agnes()
         Novena2A.innerHTML = 'Day 7';
     }
-    else if (novenaDay == '1/20/2023'){
+    else if (novenaDay == '1/20/2024'){
         agnes()
         Novena2A.innerHTML = 'Day 8';
     }
-    else if (novenaDay == '1/21/2023'){
+    else if (novenaDay == '1/21/2024'){
         agnes()
         Novena2A.innerHTML = 'Day 9';
     }
 
     //FRANCIS DE SALES
-    if (novenaDay == '1/05/2023') {
+    if (novenaDay == '1/05/2024') {
         francisDeSales()
         Novena3A.innerHTML = 'Starts the 16th!';
     }
-    else if (novenaDay == '1/06/2023') {
+    else if (novenaDay == '1/06/2024') {
         francisDeSales()
         Novena3A.innerHTML = 'Starts the 16th!';
     }
-    else if (novenaDay == '1/07/2023') {
+    else if (novenaDay == '1/07/2024') {
         francisDeSales()
         Novena3A.innerHTML = 'Starts the 16th!';
     }
-    else if (novenaDay == '1/08/2023') {
+    else if (novenaDay == '1/08/2024') {
         francisDeSales()
         Novena3A.innerHTML = 'Starts the 16th!';
     }
-    else if (novenaDay == '1/09/2023') {
+    else if (novenaDay == '1/09/2024') {
         francisDeSales()
         Novena3A.innerHTML = 'Starts the 16th!';
     }
-    else if (novenaDay == '1/10/2023') {
+    else if (novenaDay == '1/10/2024') {
         francisDeSales()
         Novena3A.innerHTML = 'Starts the 16th!';
     }
-    else if (novenaDay == '1/11/2023') {
+    else if (novenaDay == '1/11/2024') {
         francisDeSales()
         Novena3A.innerHTML = 'Starts the 16th!';
     }
-    else if (novenaDay == '1/12/2023') {
+    else if (novenaDay == '1/12/2024') {
         francisDeSales()
         Novena3A.innerHTML = 'Starts the 16th!';
     }
-    else if (novenaDay == '1/13/2023') {
+    else if (novenaDay == '1/13/2024') {
         francisDeSales()
         Novena3A.innerHTML = 'Starts the 16th!';
     }
-    else if (novenaDay == '1/14/2023') {
+    else if (novenaDay == '1/14/2024') {
         francisDeSales()
         Novena3A.innerHTML = 'Starts the 16th!';
     }
-    else if (novenaDay == '1/15/2023') {
+    else if (novenaDay == '1/15/2024') {
         francisDeSales()
         Novena3A.innerHTML = 'Starts the 16th!';
     }
-    else if (novenaDay == '1/16/2023') {
+    else if (novenaDay == '1/16/2024') {
         francisDeSales()
         Novena3A.innerHTML = 'Day 1';
     }
-    else if (novenaDay == '1/17/2023') {
+    else if (novenaDay == '1/17/2024') {
         francisDeSales()
         Novena3A.innerHTML = 'Day 2';
     }
-    else if (novenaDay == '1/18/2023') {
+    else if (novenaDay == '1/18/2024') {
         francisDeSales()
         Novena3A.innerHTML = 'Day 3';
     }
-    else if (novenaDay == '1/19/2023') {
+    else if (novenaDay == '1/19/2024') {
         francisDeSales()
         Novena3A.innerHTML = 'Day 4';
     }
-    else if (novenaDay == '1/20/2023') {
+    else if (novenaDay == '1/20/2024') {
         francisDeSales()
         Novena3A.innerHTML = 'Day 5';
     }
-    else if (novenaDay == '1/21/2023') {
+    else if (novenaDay == '1/21/2024') {
         francisDeSales()
         Novena3A.innerHTML = 'Day 6';
     }
-    else if (novenaDay == '1/22/2023') {
+    else if (novenaDay == '1/22/2024') {
         francisDeSales()
         Novena3A.innerHTML = 'Day 7';
     }
-    else if (novenaDay == '1/23/2023') {
+    else if (novenaDay == '1/23/2024') {
         francisDeSales()
         Novena3A.innerHTML = 'Day 8';
     }
-    else if (novenaDay == '1/24/2023') {
+    else if (novenaDay == '1/24/2024') {
         francisDeSales()
         Novena3A.innerHTML = 'Day 9';
     }
@@ -2013,431 +2013,431 @@ window.onload = function(){
 
 
     //St John Bosco
-    if (novenaDay == '1/21/2024') {
+    if (novenaDay == '1/21/') {
         johnBosco()
         Novena1A.innerHTML = 'Starts the 23rd!';
     }
-    else if (novenaDay == '1/22/2024') {
+    else if (novenaDay == '1/22/') {
         johnBosco()
         Novena1A.innerHTML = 'Starts the 23rd!';
     }
-    else if (novenaDay == '1/23/2024') {
+    else if (novenaDay == '1/23/') {
         johnBosco()
         Novena1A.innerHTML = 'Day 1';
     }
-    else if (novenaDay == '1/24/2024') {
+    else if (novenaDay == '1/24/') {
         johnBosco()
         Novena1A.innerHTML = 'Day 2';
     }
-    else if (novenaDay == '1/25/2024') {
+    else if (novenaDay == '1/25/') {
         johnBosco()
         Novena1A.innerHTML = 'Day 3';
     }
-    else if (novenaDay == '1/26/2024') {
+    else if (novenaDay == '1/26/') {
         johnBosco()
         Novena1A.innerHTML = 'Day 4';
     }
-    else if (novenaDay == '1/27/2024') {
+    else if (novenaDay == '1/27/') {
         johnBosco()
         Novena1A.innerHTML = 'Day 5';
     }
-    else if (novenaDay == '1/28/2024') {
+    else if (novenaDay == '1/28/') {
         johnBosco()
         Novena1A.innerHTML = 'Day 6';
     }
-    else if (novenaDay == '1/29/2024') {
+    else if (novenaDay == '1/29/') {
         johnBosco()
         Novena1A.innerHTML = 'Day 7';
     }
-    else if (novenaDay == '1/30/2024') {
+    else if (novenaDay == '1/30/') {
         johnBosco()
         Novena1A.innerHTML = 'Day 8';
     }
-    else if (novenaDay == '1/31/2024') {
+    else if (novenaDay == '1/31/') {
         johnBosco()
         Novena1A.innerHTML = 'Day 9';
     }
 
 
     //OUR LADY OF GOOD SUCCESS
-    if (novenaDay == '1/22/2023'){
+    if (novenaDay == '1/22/2024'){
         ourLadyOfGoodSuccess()
         Novena2A.innerHTML = 'Starts the 25th!';
     }
-    else if (novenaDay == '1/23/2023'){
+    else if (novenaDay == '1/23/2024'){
         ourLadyOfGoodSuccess()
         Novena2A.innerHTML = 'Starts the 25th!';
     }
-    else if (novenaDay == '1/24/2023'){
+    else if (novenaDay == '1/24/2024'){
         ourLadyOfGoodSuccess()
         Novena2A.innerHTML = 'Starts the 25th!';
     }
-    else if (novenaDay == '1/25/2023'){
+    else if (novenaDay == '1/25/2024'){
         ourLadyOfGoodSuccess()
         Novena2A.innerHTML = 'Day 1';
     }
-    else if (novenaDay == '1/26/2023'){
+    else if (novenaDay == '1/26/2024'){
         ourLadyOfGoodSuccess()
         Novena2A.innerHTML = 'Day 2';
     }
-    else if (novenaDay == '1/27/2023'){
+    else if (novenaDay == '1/27/2024'){
         ourLadyOfGoodSuccess()
         Novena2A.innerHTML = 'Day 3';
     }
-    else if (novenaDay == '1/28/2024'){
+    else if (novenaDay == '1/28/'){
         ourLadyOfGoodSuccess()
         Novena2A.innerHTML = 'Day 4';
     }
-    else if (novenaDay == '1/29/2023'){
+    else if (novenaDay == '1/29/2024'){
         ourLadyOfGoodSuccess()
         Novena2A.innerHTML = 'Day 5';
     }
-    else if (novenaDay == '1/30/2023'){
+    else if (novenaDay == '1/30/2024'){
         ourLadyOfGoodSuccess()
         Novena2A.innerHTML = 'Day 6';
     }
-    else if (novenaDay == '1/31/2023'){
+    else if (novenaDay == '1/31/2024'){
         ourLadyOfGoodSuccess()
         Novena2A.innerHTML = 'Day 7';
     }
-    else if (novenaDay == '2/1/2023'){
+    else if (novenaDay == '2/1/2024'){
         ourLadyOfGoodSuccess()
         Novena2A.innerHTML = 'Day 8';
     }
-    else if (novenaDay == '2/2/2023'){
+    else if (novenaDay == '2/2/2024'){
         ourLadyOfGoodSuccess()
         Novena2A.innerHTML = 'Day 9';
     }
 
     //BAKHITA
-    if (novenaDay == '1/25/2023') {
+    if (novenaDay == '1/25/2024') {
         bakhita()
         Novena3A.innerHTML = 'Starts the 31st!';
     }
-    else if (novenaDay == '1/26/2023') {
+    else if (novenaDay == '1/26/2024') {
         bakhita()
         Novena3A.innerHTML = 'Starts the 31st!';
     }
-    else if (novenaDay == '1/27/2023') {
+    else if (novenaDay == '1/27/2024') {
         bakhita()
         Novena3A.innerHTML = 'Starts the 31st!';
     }
-    else if (novenaDay == '1/28/2023') {
+    else if (novenaDay == '1/28/2024') {
         bakhita()
         Novena3A.innerHTML = 'Starts the 31st!';
     }
-    else if (novenaDay == '1/29/2023') {
+    else if (novenaDay == '1/29/2024') {
         bakhita()
         Novena3A.innerHTML = 'Starts the 31st!';
     }
-    else if (novenaDay == '1/30/2023') {
+    else if (novenaDay == '1/30/2024') {
         bakhita()
         Novena3A.innerHTML = 'Starts the 31st!';
     }
-    else if (novenaDay == '1/31/2023') {
+    else if (novenaDay == '1/31/2024') {
         bakhita()
         Novena3A.innerHTML = 'Day 1';
     }
-    else if (novenaDay == '2/1/2023') {
+    else if (novenaDay == '2/1/2024') {
         bakhita()
         Novena3A.innerHTML = 'Day 2';
     }
-    else if (novenaDay == '2/2/2023') {
+    else if (novenaDay == '2/2/2024') {
         bakhita()
         Novena3A.innerHTML = 'Day 3';
     }
-    else if (novenaDay == '2/03/2023') {
+    else if (novenaDay == '2/03/2024') {
         bakhita()
         Novena3A.innerHTML = 'Day 4';
     }
-    else if (novenaDay == '2/04/2023') {
+    else if (novenaDay == '2/04/2024') {
         bakhita()
         Novena3A.innerHTML = 'Day 5';
     }
-    else if (novenaDay == '2/05/2023') {
+    else if (novenaDay == '2/05/2024') {
         bakhita()
         Novena3A.innerHTML = 'Day 6';
     }
-    else if (novenaDay == '2/06/2023') {
+    else if (novenaDay == '2/06/2024') {
         bakhita()
         Novena3A.innerHTML = 'Day 7';
     }
-    else if (novenaDay == '2/07/2023') {
+    else if (novenaDay == '2/07/2024') {
         bakhita()
         Novena3A.innerHTML = 'Day 8';
     }
-    else if (novenaDay == '2/08/2023') {
+    else if (novenaDay == '2/08/2024') {
         bakhita()
         Novena3A.innerHTML = 'Day 9';
     }
 
     //St SCHOLASTICA
-    if (novenaDay == '2/1/2024') {
+    if (novenaDay == '2/1/') {
         scholastica()
         Novena1A.innerHTML = 'Starts the 2nd';
     }
-    else if (novenaDay == '2/2/2024') {
+    else if (novenaDay == '2/2/') {
         scholastica()
         Novena1A.innerHTML = 'Day 1';
     }
-    else if (novenaDay == '2/03/2024') {
+    else if (novenaDay == '2/03/') {
         scholastica()
         Novena1A.innerHTML = 'Day 2';
     }
-    else if (novenaDay == '2/04/2024') {
+    else if (novenaDay == '2/04/') {
         scholastica()
         Novena1A.innerHTML = 'Day 3';
     }
-    else if (novenaDay == '2/05/2024') {
+    else if (novenaDay == '2/05/') {
         scholastica()
         Novena1A.innerHTML = 'Day 4';
     }
-    else if (novenaDay == '2/06/2024') {
+    else if (novenaDay == '2/06/') {
         scholastica()
         Novena1A.innerHTML = 'Day 5';
     }
-    else if (novenaDay == '2/07/2024') {
+    else if (novenaDay == '2/07/') {
         scholastica()
         Novena1A.innerHTML = 'Day 6';
     }
-    else if (novenaDay == '2/08/2024') {
+    else if (novenaDay == '2/08/') {
         scholastica()
         Novena1A.innerHTML = 'Day 7';
     }
-    else if (novenaDay == '2/09/2024') {
+    else if (novenaDay == '2/09/') {
         scholastica()
         Novena1A.innerHTML = 'Day 8';
     }
-    else if (novenaDay == '2/10/2024') {
+    else if (novenaDay == '2/10/') {
         scholastica()
         Novena1A.innerHTML = 'Day 9';
     }
 
 
     //OUR LADY OF LOURDES
-    if (novenaDay == '2/03/2023'){
+    if (novenaDay == '2/03/2024'){
         ourLadyLourd()
         Novena2A.innerHTML = 'Day 1';
     }
-    else if (novenaDay == '2/04/2023'){
+    else if (novenaDay == '2/04/2024'){
         ourLadyLourd()
         Novena2A.innerHTML = 'Day 2';
     }
-    else if (novenaDay == '2/05/2023'){
+    else if (novenaDay == '2/05/2024'){
         ourLadyLourd()
         Novena2A.innerHTML = 'Day 3';
     }
-    else if (novenaDay == '2/06/2023'){
+    else if (novenaDay == '2/06/2024'){
         ourLadyLourd()
         Novena2A.innerHTML = 'Day 4';
     }
-    else if (novenaDay == '2/07/2023'){
+    else if (novenaDay == '2/07/2024'){
         ourLadyLourd()
         Novena2A.innerHTML = 'Day 5';
     }
-    else if (novenaDay == '2/08/2023'){
+    else if (novenaDay == '2/08/2024'){
         ourLadyLourd()
         Novena2A.innerHTML = 'Day 6';
     }
-    else if (novenaDay == '2/09/2024'){
+    else if (novenaDay == '2/09/'){
         ourLadyLourd()
         Novena2A.innerHTML = 'Day 7';
     }
-    else if (novenaDay == '2/10/2023'){
+    else if (novenaDay == '2/10/2024'){
         ourLadyLourd()
         Novena2A.innerHTML = 'Day 8';
     }
-    else if (novenaDay == '2/11/2023'){
+    else if (novenaDay == '2/11/2024'){
         ourLadyLourd()
         Novena2A.innerHTML = 'Day 9';
     }
 
     //MARGARET OF CORTONA
-    if (novenaDay == '2/09/2023') {
+    if (novenaDay == '2/09/2024') {
         margaretOfCortona()
         Novena3A.innerHTML = 'Starts the 14th!';
     }
-    else if (novenaDay == '2/10/2023') {
+    else if (novenaDay == '2/10/2024') {
         margaretOfCortona()
         Novena3A.innerHTML = 'Starts the 14th!';
     }
-    else if (novenaDay == '2/11/2023') {
+    else if (novenaDay == '2/11/2024') {
         margaretOfCortona()
         Novena3A.innerHTML = 'Starts the 14th!';
     }
-    else if (novenaDay == '2/12/2023') {
+    else if (novenaDay == '2/12/2024') {
         margaretOfCortona()
         Novena3A.innerHTML = 'Starts the 14th!';
     }
-    else if (novenaDay == '2/13/2023') {
+    else if (novenaDay == '2/13/2024') {
         margaretOfCortona()
         Novena3A.innerHTML = 'Starts the 14th!';
     }
-    else if (novenaDay == '2/14/2023') {
+    else if (novenaDay == '2/14/2024') {
         margaretOfCortona()
         Novena3A.innerHTML = 'Day 1';
     }
-    else if (novenaDay == '2/15/2023') {
+    else if (novenaDay == '2/15/2024') {
         margaretOfCortona()
         Novena3A.innerHTML = 'Day 2';
     }
-    else if (novenaDay == '2/16/2023') {
+    else if (novenaDay == '2/16/2024') {
         margaretOfCortona()
         Novena3A.innerHTML = 'Day 3';
     }
-    else if (novenaDay == '2/17/2023') {
+    else if (novenaDay == '2/17/2024') {
         margaretOfCortona()
         Novena3A.innerHTML = 'Day 4';
     }
-    else if (novenaDay == '2/18/2023') {
+    else if (novenaDay == '2/18/2024') {
         margaretOfCortona()
         Novena3A.innerHTML = 'Day 5';
     }
-    else if (novenaDay == '2/19/2023') {
+    else if (novenaDay == '2/19/2024') {
         margaretOfCortona()
         Novena3A.innerHTML = 'Day 6';
     }
-    else if (novenaDay == '2/20/2023') {
+    else if (novenaDay == '2/20/2024') {
         margaretOfCortona()
         Novena3A.innerHTML = 'Day 7';
     }
-    else if (novenaDay == '2/21/2023') {
+    else if (novenaDay == '2/21/2024') {
         margaretOfCortona()
         Novena3A.innerHTML = 'Day 8';
     }
-    else if (novenaDay == '2/22/2023') {
+    else if (novenaDay == '2/22/2024') {
         margaretOfCortona()
         Novena3A.innerHTML = 'Day 9';
     }
 
     //ST WALBURGA
-    if (novenaDay == '2/11/2024') {
+    if (novenaDay == '2/11/') {
         walburga()
         Novena1A.innerHTML = 'Starts the 17th';
     }
-    else if (novenaDay == '2/12/2024') {
+    else if (novenaDay == '2/12/') {
         walburga()
         Novena1A.innerHTML = 'Starts the 17th';
     }
-    else if (novenaDay == '2/13/2024') {
+    else if (novenaDay == '2/13/') {
         walburga()
         Novena1A.innerHTML = 'Starts the 17th';
     }
-    else if (novenaDay == '2/14/2023') {
+    else if (novenaDay == '2/14/2024') {
         walburga()
         Novena1A.innerHTML = 'Starts the 17th';
     }
-    else if (novenaDay == '2/15/2023') {
+    else if (novenaDay == '2/15/2024') {
         walburga()
         Novena1A.innerHTML = 'Starts the 17th';
     }
-    else if (novenaDay == '2/16/2023') {
+    else if (novenaDay == '2/16/2024') {
         walburga()
         Novena1A.innerHTML = 'Starts the 17th';
     }
-    else if (novenaDay == '2/17/2023') {
+    else if (novenaDay == '2/17/2024') {
         walburga()
         Novena1A.innerHTML = 'Day 1';
     }
-    else if (novenaDay == '2/18/2023') {
+    else if (novenaDay == '2/18/2024') {
         walburga()
         Novena1A.innerHTML = 'Day 2';
     }
-    else if (novenaDay == '2/19/2023') {
+    else if (novenaDay == '2/19/2024') {
         walburga()
         Novena1A.innerHTML = 'Day 3';
     }
-    else if (novenaDay == '2/20/2023') {
+    else if (novenaDay == '2/20/2024') {
         walburga()
         Novena1A.innerHTML = 'Day 4';
     }
-    else if (novenaDay == '2/21/2023') {
+    else if (novenaDay == '2/21/2024') {
         walburga()
         Novena1A.innerHTML = 'Day 5';
     }
-    else if (novenaDay == '2/22/2023') {
+    else if (novenaDay == '2/22/2024') {
         walburga()
         Novena1A.innerHTML = 'Day 6';
     }
-    else if (novenaDay == '2/23/2023') {
+    else if (novenaDay == '2/23/2024') {
         walburga()
         Novena1A.innerHTML = 'Day 7';
     }
-    else if (novenaDay == '2/24/2023') {
+    else if (novenaDay == '2/24/2024') {
         walburga()
         Novena1A.innerHTML = 'Day 8';
     }
-    else if (novenaDay == '2/25/2023') {
+    else if (novenaDay == '2/25/2024') {
         walburga()
         Novena1A.innerHTML = 'Day 9';
     }
 
     //GABRIEL OF SORROWS
-    if (novenaDay == '2/11/2023'){
+    if (novenaDay == '2/11/2024'){
         gabrielLadyOfSorrows()
         Novena2A.innerHTML = 'Starts the 19th!';
     }
-    else if (novenaDay == '2/12/2023'){
+    else if (novenaDay == '2/12/2024'){
         gabrielLadyOfSorrows()
         Novena2A.innerHTML = 'Starts the 19th!';
     }
-    else if (novenaDay == '2/13/2023'){
+    else if (novenaDay == '2/13/2024'){
         gabrielLadyOfSorrows()
         Novena2A.innerHTML = 'Starts the 19th!';
     }
-    else if (novenaDay == '2/14/2023'){
+    else if (novenaDay == '2/14/2024'){
         gabrielLadyOfSorrows()
         Novena2A.innerHTML = 'Starts the 19th!';
     }
-    else if (novenaDay == '2/15/2023'){
+    else if (novenaDay == '2/15/2024'){
         gabrielLadyOfSorrows()
         Novena2A.innerHTML = 'Starts the 19th!';
     }
-    else if (novenaDay == '2/16/2023'){
+    else if (novenaDay == '2/16/2024'){
         gabrielLadyOfSorrows()
         Novena2A.innerHTML = 'Starts the 19th!';
     }
-    else if (novenaDay == '2/17/2024'){
+    else if (novenaDay == '2/17/'){
         gabrielLadyOfSorrows()
         Novena2A.innerHTML = 'Starts the 19th!';
     }
-    else if (novenaDay == '2/18/2023'){
+    else if (novenaDay == '2/18/2024'){
         gabrielLadyOfSorrows()
         Novena2A.innerHTML = 'Starts the 19th!';
     }
-    else if (novenaDay == '2/19/2023'){
+    else if (novenaDay == '2/19/2024'){
         gabrielLadyOfSorrows()
         Novena2A.innerHTML = 'Day 1';
     }
-    else if (novenaDay == '2/20/2023'){
+    else if (novenaDay == '2/20/2024'){
         gabrielLadyOfSorrows()
         Novena2A.innerHTML = 'Day 2';
     }
-    else if (novenaDay == '2/21/2023'){
+    else if (novenaDay == '2/21/2024'){
         gabrielLadyOfSorrows()
         Novena2A.innerHTML = 'Day 3';
     }
-    else if (novenaDay == '2/22/2023'){
+    else if (novenaDay == '2/22/2024'){
         gabrielLadyOfSorrows()
         Novena2A.innerHTML = 'Day 4';
     }
-    else if (novenaDay == '2/23/2023'){
+    else if (novenaDay == '2/23/2024'){
         gabrielLadyOfSorrows()
         Novena2A.innerHTML = 'Day 5';
     }
-    else if (novenaDay == '2/24/2023'){
+    else if (novenaDay == '2/24/2024'){
         gabrielLadyOfSorrows()
         Novena2A.innerHTML = 'Day 6';
     }
-    else if (novenaDay == '2/25/2023'){
+    else if (novenaDay == '2/25/2024'){
         gabrielLadyOfSorrows()
         Novena2A.innerHTML = 'Day 7';
     }
-    else if (novenaDay == '2/26/2023'){
+    else if (novenaDay == '2/26/2024'){
         gabrielLadyOfSorrows()
         Novena2A.innerHTML = 'Day 8';
     }
-    else if (novenaDay == '2/27/2023'){
+    else if (novenaDay == '2/27/2024'){
         gabrielLadyOfSorrows()
         Novena2A.innerHTML = 'Day 9';
     }
